@@ -16,7 +16,7 @@ Organizing Committee:
 - [Hilmar Lapp] (General Chair)
 - [Juan Sequeda] (Program Chair)
 - [Kemafor Anyanwu Ogan] (Program Chair and Local Chair)
-- Maulik R. Kamdar (Publicity Chair)
+- [Maulik R. Kamdar] (Publicity Chair)
 - [Pascal Hitzler] (Sponsorships)
 
 _Outgoing committee members:_
@@ -26,5 +26,6 @@ _Outgoing committee members:_
 [Hilmar Lapp]: https://orcid.org/0000-0001-9107-0714
 [Juan Sequeda]: http://juansequeda.com
 [Kemafor Anyanwu Ogan]: https://www.csc2.ncsu.edu/faculty/kogan/
+[Maulik R. Kamdar]: http://maulik-kamdar.com/
 [Pascal Hitzler]: http://www.pascal-hitzler.de
 [Anna Lisa Gentile]: https://anligentile.github.io

@@ -13,7 +13,11 @@ The goal of the U.S. Semantic Technologies Symposium series is to bring together
 To this end, the 2020 Symposium will be an informal gathering with plenty of time for discussion and breakout sessions. We encourage anyone with an interest in the Semantic Web, regardless of field, to attend.
 
 Organizing Committee:
-- Hilmar Lapp (General Chair)
-- Juan Sequeda (Program Chair)
-- Kemafor Anyanwu Ogan (Program Chair and Local Chair)
+- [Hilmar Lapp] (General Chair)
+- [Juan Sequeda] (Program Chair)
+- [Kemafor Anyanwu Ogan] (Program Chair and Local Chair)
 - Maulik R. Kamdar (Publicity Chair)
+
+[Hilmar Lapp]: https://orcid.org/0000-0001-9107-0714
+[Juan Sequeda]: http://juansequeda.com
+[Kemafor Anyanwu Ogan]: https://www.csc2.ncsu.edu/faculty/kogan/

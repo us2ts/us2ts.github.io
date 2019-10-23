@@ -4,10 +4,10 @@ Yet, the division between computer science, natural science, and academia/govern
 
 The goal of the U.S. Semantic Technologies Symposium series is to bring together the U.S. Semantic Web community and begin forming such a research network. We achieve this by supporting communication across disciplinary, organizational, and geographical boundaries. The Symposium events provide a forum by which participants can share information and ideas, coordinate ongoing or planned research activities, foster synthesis and new collaborations, develop community standards, and advance their science and education through communication and the sharing of ideas.
 
-To this end, the 2019 Symposium will be an informal gathering with plenty of time for discussion and breakout sessions. We encourage anyone with an interest in the Semantic Web, regardless of field, to attend.
+To this end, the 2020 Symposium will be an informal gathering with plenty of time for discussion and breakout sessions. We encourage anyone with an interest in the Semantic Web, regardless of field, to attend.
 
 Main Organizers:
-- Juan Sequeda
-- Kemafor Ogan
-- Hilmar Lapp (Local Chair)
+- Hilmar Lapp (General Chair)
+- Juan Sequeda (Program Chair)
+- Kemafor Ogan (Program Chair)
 - Maulik R. Kamdar (Publicity Chair)

@@ -15,5 +15,5 @@ To this end, the 2020 Symposium will be an informal gathering with plenty of tim
 Organizing Committee:
 - Hilmar Lapp (General Chair)
 - Juan Sequeda (Program Chair)
-- Kemafor Ogan (Program Chair)
+- Kemafor Anyanwu Ogan (Program Chair and Local Chair)
 - Maulik R. Kamdar (Publicity Chair)

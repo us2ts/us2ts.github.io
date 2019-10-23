@@ -17,7 +17,14 @@ Organizing Committee:
 - [Juan Sequeda] (Program Chair)
 - [Kemafor Anyanwu Ogan] (Program Chair and Local Chair)
 - Maulik R. Kamdar (Publicity Chair)
+- [Pascal Hitzler] (Sponsorships)
+
+_Outgoing committee members:_
+- [Anna Lisa Gentile] (Outgoing Program Chair)
+- Tania Tudorache (Outgoing Program Chair)
 
 [Hilmar Lapp]: https://orcid.org/0000-0001-9107-0714
 [Juan Sequeda]: http://juansequeda.com
 [Kemafor Anyanwu Ogan]: https://www.csc2.ncsu.edu/faculty/kogan/
+[Pascal Hitzler]: http://www.pascal-hitzler.de
+[Anna Lisa Gentile]: https://anligentile.github.io

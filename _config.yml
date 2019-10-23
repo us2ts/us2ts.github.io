@@ -1,8 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               2nd U.S. Semantic Technologies Symposium 2019
-tagline:             ''
+title:               'U.S. Semantic Technologies Symposium Series'
+location:            'Duke University in Durham, NC'
+date:                'March 11-13, 2020'
 description:         ''
 url:                 'http://us2ts.github.io'
 baseurl:             ''

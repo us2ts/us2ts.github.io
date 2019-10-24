@@ -42,10 +42,13 @@ kramdown:
 exclude:
   - optional
   - vendor
+  - Gemfile
+  - Gemfile.lock
+  - serve-local.sh
+  - README.md
 
-gems:
-  - jekyll-last-modified-at
-
+plugins:
+#  - jekyll-last-modified-at
 
 # Theme
 #theme: "ed."

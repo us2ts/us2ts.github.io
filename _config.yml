@@ -42,6 +42,10 @@ kramdown:
 exclude:
   - optional
   - vendor
+  - Gemfile
+  - Gemfile.lock
+  - serve-local.sh
+  - README.md
 
 plugins:
 #  - jekyll-last-modified-at

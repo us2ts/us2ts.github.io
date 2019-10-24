@@ -43,9 +43,9 @@ exclude:
   - optional
   - vendor
 
-gems:
-  - jekyll-last-modified-at
 
+plugins:
+#  - jekyll-last-modified-at
 
 # Theme
 #theme: "ed."

@@ -12,7 +12,7 @@ The goal of the U.S. Semantic Technologies Symposium series is to bring together
 
 To this end, the 2020 Symposium will be an informal gathering with plenty of time for discussion and breakout sessions. We encourage anyone with an interest in the Semantic Web, regardless of field, to attend.
 
-Organizing Committee:
+_Organizing Committee:_
 - [Hilmar Lapp] (General Chair)
 - [Juan Sequeda] (Program Chair)
 - [Kemafor Anyanwu Ogan] (Program Chair and Local Chair)

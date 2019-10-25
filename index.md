@@ -2,6 +2,7 @@
 layout: page
 title: 3rd U.S. Semantic Technologies Symposium
 sidebartitle: Home
+displayed: True
 author: Maulik R. Kamdar
 ---
 

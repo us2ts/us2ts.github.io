@@ -4,6 +4,7 @@ title: About US2TS
 author: Hilmar Lapp
 permalink: about
 sidebartitle: About
+displayed: True
 ---
 
 The goal of the U.S. Semantic Technologies Symposium series is to bring together the U.S. Semantic Web community and begin forming a research network. We achieve this by supporting communication across disciplinary, organizational, and geographical boundaries. The Symposium events provide a forum by which participants can share information and ideas, coordinate ongoing or planned research activities, foster synthesis and new collaborations, develop community standards, and advance their science and education through communication and the sharing of ideas.

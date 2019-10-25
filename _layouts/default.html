@@ -17,11 +17,12 @@
         <div class="container">
           <h3 class="masthead-title">
             <img src="{{ site.logo }}" width="100pt" class="logo">&nbsp;&nbsp;
-            <a href="{{ site.baseurl }}/" title="Home">
-              {{ site.title | newline_to_br }}
-            </a>           
+            {{ site.title | newline_to_br }}        
           </h3>
-          <h1 class="masthead-title">{{ site.editiontitle }} <br><small><b>{{ site.date }}</b> at {{ site.location }}</small></h1>
+          <h1 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.editiontitle }} </a>
+            <br><small><b>{{ site.date }}</b> at {{ site.location }}</small>
+          </h1>
         </div>
       </div>
 

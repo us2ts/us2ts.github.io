@@ -72,6 +72,27 @@ button {
     border-color: #28a745;
 }
 
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  color: #d28445;
+}
+
+.topnav a.active {
+  color: #d28445;
+}
+
 @media print {
   .printdiv {page-break-after: always;}
 }

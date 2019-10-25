@@ -16,6 +16,9 @@ author:
   url:               https://twitter.com/maulikkamdar
   email:             maulikrk@stanford.edu
 
+# Google Analytics
+google_analytics:    'UA-150938475-1'
+
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme: orange
 

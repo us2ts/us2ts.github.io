@@ -4,5 +4,5 @@ title: Venue
 sidebartitle: Venue
 author: Maulik R. Kamdar
 permalink: venue
-displayed: False
+published: false
 ---

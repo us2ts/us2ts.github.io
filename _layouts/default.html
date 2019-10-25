@@ -28,7 +28,9 @@
             {% for node in pages_list %}
               {% if node.title != null %}
                 {% if node.layout == "page" %}
-                  <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
+                  {% if node.displayed == "True" %}
+                    <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
+                  {% endif %}
                 {% endif %}
               {% endif %}
             {% endfor %}

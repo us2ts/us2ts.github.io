@@ -4,4 +4,5 @@ title: Registration
 author: Maulik R. Kamdar
 permalink: registration
 sidebartitle: Registration
+displayed: False
 ---

@@ -4,4 +4,5 @@ title: Sponsors
 author: Maulik R. Kamdar
 permalink: sponsors
 sidebartitle: Sponsors
+displayed: False
 ---

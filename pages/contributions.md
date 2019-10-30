@@ -4,7 +4,7 @@ title: Call for Contributions
 sidebartitle: Contributions
 author: Maulik R. Kamdar
 permalink: cfc
-published: true
+published: false
 ---
 
 The US2TS Symposium series is an emerging premier forum for fostering community between 

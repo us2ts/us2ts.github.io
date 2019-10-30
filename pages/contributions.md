@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Contributions
-sidebartitle: Contributions
+sidebartitle: Call for Contributions
 author: Maulik R. Kamdar
 permalink: cfc
 published: false
@@ -17,6 +17,7 @@ US2TS 2020 organizational committee invites your contributions and participation
 # Call for Session Proposals
 
 We solicit anyone with an interest in the Semantic Web to propose a session for US2TS 2020.   A session is any relevant activity that can fit into a 90 minutes slot (you can also propose a session that takes more than one slot).
+
 Examples of sessions are:
 - a panel discussion
 - a series of presentations on a topic
@@ -32,27 +33,29 @@ We encourage session proposals about cross-discipline topics which are of concer
 
 ### Submission Guidelines 
 Please prepare a (max) 2 page submission indicating:
-- *Name of the session*
-- *Topic:* please indicate which cross-discipline topics the session will tackle. Here you can also specify if there is any particular vertical of interest (e.g. legal, life science, medical, publisher/scholarly data, cultural heritage, library, museum, oil/gas, engineering, airplane, e-commerce, etc)
-- *Type of session:* Panel | Presentations | Break-out discussion | Tutorial | BOF | Other (please specify)
+- **Name of the session**
+- **Topic:** please indicate which cross-discipline topics the session will tackle. Here you can also specify if there is any particular vertical of interest (e.g. legal, life science, medical, publisher/scholarly data, cultural heritage, library, museum, oil/gas, engineering, airplane, e-commerce, etc)
+- **Type of session:** Panel / Presentations / Break-out discussion / Tutorial / BOF / Other (please specify)
 - Short description of the session
 - The 2/3 person team (names & affiliations) that will lead the session
 - Speakers(when applicable). It is strictly required to specify the speakers if you are proposing a panel, in which case they must be already confirmed.
 - Expected participation (give a prediction of who would be interested in attending your session)
-- *Submit your proposal on easychair:* https://easychair.org/conferences/?conf=us2ts
+- **Submit your proposal on easychair:** https://easychair.org/conferences/?conf=us2ts
 
 ### Symposium outcome 
 After the Symposium we will invite all session chairs to co-edit a summary of the event, which will be formally published.
 
 ### Important Dates 
-- *Deadline for submissions:* Dec 1st 2019
-- *Notifications:* December 16th 2019
-- *Final program for the sessions:* January 14th 2019
-- *Symposium dates:* March 9-11, 2020
+- **Deadline for submissions:** Dec 1st 2019
+- **Notifications:** December 16th 2019
+- **Final program for the sessions:** January 14th 2019
+- **Symposium dates:** March 9-11, 2020
+
+
 
 # Call for Lightning Talks
 
-*Deadline for submissions:* Open until slots filled (first-come first-served)
+**Deadline for submissions:** Open until slots filled (first-come first-served)
 
 We will have two Lightning Talks sessions. These will be an open forum where any of the participants can present on a chosen topic. Examples of things to discuss:
 - late breaking research

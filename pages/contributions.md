@@ -68,7 +68,7 @@ We will have two Lightning Talks sessions. These will be an open forum where any
 - each presenter will have exactly one slide (PDF, landscape, 3:4)
 - each presenter will have 2 minutes (we might adjust the time slightly, according to participation, but at least 2 minutes)
 - presentation slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
-- *Submit your talk using easychair*: https://easychair.org/conferences/?conf=us2ts2020 and selecting "Lightning Talks" as type of paper.
+- **Submit your talk using easychair**: https://easychair.org/conferences/?conf=us2ts2020 and selecting "Lightning Talks" as type of paper.
 
 We look forward to your great contributions and participation. See you all on March 9 - 11, 2020, Raleigh, USA.
 

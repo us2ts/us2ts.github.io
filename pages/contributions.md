@@ -41,7 +41,7 @@ Please prepare a (max) 2 page submission indicating:
 - The 2/3 person team (names & affiliations) that will lead the session
 - Speakers(when applicable). It is strictly required to specify the speakers if you are proposing a panel, in which case they must be already confirmed.
 - Expected participation (give a prediction of who would be interested in attending your session)
-- **Submit your proposal on easychair:** https://easychair.org/conferences/?conf=us2ts2020 and select Session Proposal as topic
+- **Submit your proposal on Easychair:** [https://easychair.org/conferences/?conf=us2ts2020] and select Session Proposal as topic
 
 ### Symposium outcome 
 After the Symposium we will invite all session chairs to co-edit a summary of the event, which will be formally published.
@@ -68,7 +68,8 @@ We will have two Lightning Talks sessions. These will be an open forum where any
 - each presenter will have exactly one slide (PDF, landscape, 3:4)
 - each presenter will have 2 minutes (we might adjust the time slightly, according to participation, but at least 2 minutes)
 - presentation slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
-- **Submit your talk using easychair**: https://easychair.org/conferences/?conf=us2ts2020 and selecting "Lightning Talks" as type of paper.
+- **Submit your talk using Easychair**: https://easychair.org/conferences/?conf=us2ts2020 and selecting "Lightning Talks" as type of paper.
 
 We look forward to your great contributions and participation. See you all on March 9 - 11, 2020, Raleigh, USA.
 
+[https://easychair.org/conferences/?conf=us2ts2020]: https://easychair.org/conferences/?conf=us2ts2020

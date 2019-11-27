@@ -47,7 +47,7 @@ Please prepare a (max) 2 page submission indicating:
 After the Symposium we will invite all session chairs to co-edit a summary of the event, which will be formally published.
 
 ### Important Dates 
-- **Deadline for submissions:** Dec 3rd 2019
+- **Deadline for submissions:** December 9th 2019
 - **Notifications:** December 18th 2019
 - **Final program for the sessions:** January 14th 2019
 - **Symposium dates:** March 9-11, 2020

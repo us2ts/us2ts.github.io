@@ -13,7 +13,7 @@ The US2TS Symposium series is an emerging premier forum for fostering community 
 
 At this time, we are seeking to understand the interests and motivations of prospective participants, who are already planning or are considering to attend the 3rd US2TS. 
 
-** Form for Intended Participation: ** [https://forms.gle/7VdmyBH6XWFrffQM6]
+**Form for Intended Participation:** [https://forms.gle/7VdmyBH6XWFrffQM6]
 
 We would appreciate if you could fill out the above form to help us gather additional information to structure a productive yet distinct program for this symposium. 
 

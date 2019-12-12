@@ -7,10 +7,6 @@ permalink: cfip
 published: true
 ---
 
-The US2TS Symposium series is an emerging premier forum for fostering community between academic, industry, and government researchers and practitioners in the US that develop or apply semantic technologies. The interest in semantics has been strengthened by the growing dependence on the Web and the continuously increasing importance of large-scale data sharing, integration, and reuse.  Participants at the US2TS come from disciplines in computer science and engineering, natural sciences, geoscience, biology, library science, biomedical and health care sciences, social sciences and the humanities, and many others. Discussions at the symposium cover core topics such as the Semantic Web, Ontologies, Knowledge Graph, Linked Data and AI on the Web, Privacy and Trust, etc., as well as the intersection of such topics with areas such as the Internet of Things (IoT) and Blockchains.
-
-=====================================
-
 At this time, we are seeking to understand the interests and motivations of prospective participants, who are already planning or are considering to attend the 3rd US2TS. 
 
 **Form for Intended Participation:** [https://forms.gle/7VdmyBH6XWFrffQM6]

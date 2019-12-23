@@ -4,6 +4,7 @@ title: US2TS Code of Conduct
 sidebartitle: Code of Conduct
 author: Hilmar Lapp
 permalink: coc
+mainnav: true
 published: true
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Contact Us
+title: Contact
 author: Maulik R. Kamdar
 permalink: contact
 sidebartitle: Contact
+mainnav: true
 published: true
 ---
 

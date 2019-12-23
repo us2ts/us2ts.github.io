@@ -6,6 +6,7 @@ author: Maulik R. Kamdar
 permalink: venue
 mainnav: true
 published: true
+order: 4
 ---
 
 ### Event Date: 

@@ -6,6 +6,7 @@ permalink: about
 sidebartitle: About
 published: true
 mainnav: true
+order: 2
 ---
 
 The goal of the U.S. Semantic Technologies Symposium series is to bring together the U.S. Semantic Web community and begin forming a research network. We achieve this by supporting communication across disciplinary, organizational, and geographical boundaries. The Symposium events provide a forum by which participants can share information and ideas, coordinate ongoing or planned research activities, foster synthesis and new collaborations, develop community standards, and advance their science and education through communication and the sharing of ideas.

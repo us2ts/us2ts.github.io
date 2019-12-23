@@ -6,6 +6,7 @@ author: Maulik R. Kamdar
 permalink: registration
 mainnav: true
 published: true
+order: 3
 ---
 
 Registration is now open through the [US2TS 2020 registration website](https://cvent.me/lVEY02).

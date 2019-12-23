@@ -6,6 +6,7 @@ author: Maulik R. Kamdar
 permalink: cfc
 mainnav: false
 published: true
+order: 6
 ---
 
 The US2TS Symposium series is an emerging premier forum for fostering community between 

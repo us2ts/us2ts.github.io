@@ -6,6 +6,7 @@ author: Hilmar Lapp
 permalink: coc
 mainnav: true
 published: true
+order: 7
 ---
 
 The U.S. Semantic Technologies Symposium (US2TS) is organized as a forum to encourage rich interactions and promote the free exchange of ideas to benefit the community. US2TS welcomes all symposium participants that foster inclusion and respect to all members of the community. US2TS conforms to the [ISWC code of conduct](http://swsa.semanticweb.org/content/code-conduct-iswc), specifically:

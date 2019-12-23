@@ -36,17 +36,17 @@ This code of conduct complements all legal rights that apply to particular situa
 
 ### References
 
-- http://swsa.semanticweb.org/content/code-conduct-iswc
-- http://confcodeofconduct.com/
-- https://www.w3.org/Consortium/cepc/
-- https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy
-- https://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc
-- https://chi2017.acm.org/diversity-inclusion-statement.html
-- https://sites.google.com/view/aiide2017/home/code-of-conduct
-- http://www.humancomputation.com/2017/codeofconduct.html
-- http://www.ifaamas.org/harassment.html
-- https://github.com/Polymer/polymer/wiki/Code-of-Conduct
-- http://geekfeminism.wikia.com/
-- http://geekfeminism.wikia.com/wiki/Timeline_of_incidents
-- https://implicit.harvard.edu/implicit/takeatest.html
-- https://www.projectcallisto.org/
+- [http://swsa.semanticweb.org/content/code-conduct-iswc](http://swsa.semanticweb.org/content/code-conduct-iswc)
+- [http://confcodeofconduct.com/](http://confcodeofconduct.com/)
+- [https://www.w3.org/Consortium/cepc/](https://www.w3.org/Consortium/cepc/)
+- [https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy)
+- [https://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc](https://www.iscb.org/ismbeccb2015-general-info/ismbeccb2015-coc)
+- [https://chi2017.acm.org/diversity-inclusion-statement.html](https://chi2017.acm.org/diversity-inclusion-statement.html)
+- [https://sites.google.com/view/aiide2017/home/code-of-conduct](https://sites.google.com/view/aiide2017/home/code-of-conduct)
+- [http://www.humancomputation.com/2017/codeofconduct.html](http://www.humancomputation.com/2017/codeofconduct.html)
+- [http://www.ifaamas.org/harassment.html](http://www.ifaamas.org/harassment.html)
+- [https://github.com/Polymer/polymer/wiki/Code-of-Conduct](https://github.com/Polymer/polymer/wiki/Code-of-Conduct)
+- [http://geekfeminism.wikia.com/](http://geekfeminism.wikia.com/)
+- [http://geekfeminism.wikia.com/wiki/Timeline_of_incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents)
+- [https://implicit.harvard.edu/implicit/takeatest.html](https://implicit.harvard.edu/implicit/takeatest.html)
+- [https://www.projectcallisto.org/](https://www.projectcallisto.org/)

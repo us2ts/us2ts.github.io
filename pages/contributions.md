@@ -4,6 +4,7 @@ title: Call for Contributions
 sidebartitle: Call for Contributions
 author: Maulik R. Kamdar
 permalink: cfc
+mainnav: false
 published: true
 ---
 

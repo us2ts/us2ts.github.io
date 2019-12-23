@@ -11,11 +11,11 @@ published: true
 ### Event Date: 
 Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time)
 
-The event will be held at: \
-[North Carolina State University, Talley Student Union](https://www.google.com/maps?q=2610+Cates+Ave+++Raleigh+NC+27607+US) \
-2610 Cates Ave \
-Raleigh, NC 27607 \
-United States. \
+The event will be held at:\
+[North Carolina State University, Talley Student Union](https://www.google.com/maps?q=2610+Cates+Ave+++Raleigh+NC+27607+US)\
+2610 Cates Ave\
+Raleigh, NC 27607\
+United States\
 
 ----------------------
 

@@ -4,7 +4,7 @@ title: Call for Intended Participation
 sidebartitle: Call for Intended Participation
 author: Maulik R. Kamdar
 permalink: cfip
-mainnav: false
+mainnav: true
 published: true
 ---
 

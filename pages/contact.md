@@ -8,9 +8,10 @@ mainnav: true
 published: true
 ---
 
-All questions about submissions should be emailed to contact us at us2ts2020-org AT googlegroups DOT com.
+Please email all inquiries, including questions about submissions, to [2020-org AT us2ts DOT org](mailto:2020-org@us2ts.org).
 
-You are also welcome to join our social network on LinkedIn at [https://www.linkedin.com/groups/13783135/] and follow us on Twitter at [https://twitter.com/us2ts].
+So stay up to date with announcements, consider joining the [US2TS announcement list], and following [us on Twitter]. You are also welcome to join our [social network on LinkedIn].
 
-[https://www.linkedin.com/groups/13783135/]: https://www.linkedin.com/groups/13783135/
-[https://twitter.com/us2ts]: https://twitter.com/us2ts
+[social network on LinkedIn]: https://www.linkedin.com/groups/13783135/
+[us on Twitter]: https://twitter.com/us2ts
+[US2TS announcement list]: https://groups.google.com/forum/#!forum/us2ts

@@ -18,7 +18,7 @@ US2TS 2020 organizational committee invites your contributions and participation
 
 At this time, we are seeking two kinds of contributions (calls for other kinds of contributions will follow shortly).
 
-# Call for Session Proposals
+# Call for Session Proposals {#sessions}
 
 We solicit anyone with an interest in the Semantic Web to propose a session for US2TS 2020.   A session is any relevant activity that can fit into a 90 minutes slot (you can also propose a session that takes more than one slot).
 

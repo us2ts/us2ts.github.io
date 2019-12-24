@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Calls
-sidebartitle: Calls
+title: Contribute
+sidebartitle: Contribute
 author: Maulik R. Kamdar
-permalink: calls
+permalink: contribute
 mainnav: true
 published: true
 order: 5

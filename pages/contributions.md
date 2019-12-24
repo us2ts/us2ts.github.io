@@ -56,7 +56,7 @@ After the Symposium we will invite all session chairs to co-edit a summary of th
 
 
 
-# Call for Lightning Talks
+# Call for Lightning Talks {#lightning-talks}
 
 **Deadline for submissions:** Open until slots filled (first-come first-served)
 

@@ -26,7 +26,7 @@ We are seeking to understand the interests and motivations of prospective partic
 
 We will have two Lightning Talks sessions. These will be an open forum where any of the participants can present on a chosen topic. Examples of lightning talks include late breaking research, a position statement, blue sky ideas, new datasets announcements, etc.
 
-**More Details:** [Call for Intended Participation](https://us2ts.org/cfc)
+**More Details:** [Call for Lightning Talks](https://us2ts.org/cfc)
 
 **Deadline for submissions:** Open until slots filled (first-come first-served)
 
@@ -38,7 +38,7 @@ We will have two Lightning Talks sessions. These will be an open forum where any
 
 We solicit anyone with an interest in the Semantic Web to propose a session for US2TS 2020. A session is any relevant activity that can fit into a 90 minutes slot (you can also propose a session that takes more than one slot). Examples of sessions include a panel discussion, a series of presentations on a topic, breakout-style discussions on a proposed topic, a tutorial, etc.
 
-**More Details:** [Call for Intended Participation](https://us2ts.org/cfc)
+**More Details:** [Call for Session Proposals](https://us2ts.org/cfc)
 
 **Deadline for submissions:** December 9th 2019
 

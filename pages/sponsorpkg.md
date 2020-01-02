@@ -27,7 +27,7 @@ US2TS would not be possible without the generous support of sponsors. We offer t
 * table (and chair if desired) for demonstration or display
 * one free registration
 
-**Requested amount: $1500** (availability as permitted by space for demonstration tables)
+**Requested amount: $1,500** (availability as permitted by space for demonstration tables)
 
 ### Special Event Sponsor
 

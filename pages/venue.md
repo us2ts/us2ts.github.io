@@ -28,10 +28,6 @@ Please see [Parking and Directions](https://studentcenters.ncsu.edu/facility-inf
 
 # Accommodation {#accommodation}
 
-A room block at a discounted rate has been reserved at the **DoubleTree by Hilton Hotel Raleigh - Brownstone - University**. The hotel is approximately 1 mile from campus and walking to and from hotel is possible. The discounted rate expires on Feb 16th or until the number of rooms in the block is expended. Please make reservations early using this link: 
+A room block at a discounted rate has been reserved at the **DoubleTree by Hilton Hotel Raleigh - Brownstone - University**. The hotel is approximately 1 mile from campus and walking to and from hotel is possible. The discounted rate expires on Feb 16th or until the number of rooms in the block is expended. [**Click here to make early reservations**](http://doubletree.hilton.com/en/dt/groups/personalized/R/RDUDNDT-US2-20200307/index.jhtml).
 
-Your HiltonLink is: [http://doubletree.hilton.com/en/dt/groups/personalized/R/RDUDNDT-US2-20200307/index.jhtml](http://doubletree.hilton.com/en/dt/groups/personalized/R/RDUDNDT-US2-20200307/index.jhtml)
-
-In the event that you would like to consider alternative hotels, special rates have also been negotiated with the following nearby hotels. Click on the following link to see hotels, their rates and distance to campus. Rooms at these rates are available on a first-come first basis.   
-
-[https://ReservationCounter.HotelPlanner.com/EventPage5738627](https://ReservationCounter.HotelPlanner.com/EventPage5738627)   
+In the event that you would like to consider alternative hotels, special rates have also been negotiated with the following nearby hotels. [**Click on the following link to see hotels, their rates and distance to campus**](https://ReservationCounter.HotelPlanner.com/EventPage5738627). Rooms at these rates are available on a first-come first basis.      

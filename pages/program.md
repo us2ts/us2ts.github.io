@@ -21,7 +21,7 @@ order: 4
 
 ----------------------------------------------------------------
 
-## [**(Inter)operational Semantic Resources in Earth and Environmental Science**](https://us2ts.org/program-interoperational-earth-environment-semantics)
+## [(Inter)operational Semantic Resources in Earth and Environmental Science](https://us2ts.org/program-interoperational-earth-environment-semantics)
 
 **Organizers:** Lewis Mcgibbney, Pier Luigi Buttigieg, Lu Zhou, Gary Berg-Cross, Chris Mungall and Ruth Duerr
 

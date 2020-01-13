@@ -6,6 +6,7 @@ permalink: about
 sidebartitle: About
 published: true
 mainnav: true
+sidenav: true
 order: 2
 ---
 

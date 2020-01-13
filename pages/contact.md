@@ -5,6 +5,7 @@ author: Maulik R. Kamdar
 permalink: contact
 sidebartitle: Contact
 mainnav: true
+sidenav: true
 published: true
 order: 8
 ---

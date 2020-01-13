@@ -5,6 +5,7 @@ sidebartitle: Code of Conduct
 author: Hilmar Lapp
 permalink: coc
 mainnav: true
+sidenav: true
 published: true
 order: 7
 ---

@@ -5,6 +5,7 @@ sidebartitle: Registration
 author: Maulik R. Kamdar
 permalink: registration
 mainnav: true
+sidenav: true
 published: true
 order: 3
 ---

@@ -4,6 +4,7 @@ title: 3rd U.S. Semantic Technologies Symposium
 sidebartitle: Home
 published: true
 mainnav: true
+sidenav: true
 author: Maulik R. Kamdar
 order: 1
 ---

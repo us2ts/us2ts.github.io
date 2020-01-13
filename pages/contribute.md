@@ -5,6 +5,7 @@ sidebartitle: Contribute
 author: Maulik R. Kamdar
 permalink: contribute
 mainnav: true
+sidenav: true
 published: true
 order: 5
 ---

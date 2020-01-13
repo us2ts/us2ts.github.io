@@ -5,6 +5,7 @@ sidebartitle: Venue
 author: Maulik R. Kamdar
 permalink: venue
 mainnav: true
+sidenav: true
 published: true
 order: 4
 ---

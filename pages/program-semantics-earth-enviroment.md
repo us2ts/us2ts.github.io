@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Session - (Inter)operational Semantic Resources in Earth and Environmental Science
+title: (Inter)operational Semantic Resources in Earth and Environmental Science
 author: Maulik R. Kamdar
 permalink: program-interoperational-earth-environment-semantics
 mainnav: false
@@ -8,8 +8,6 @@ sidenav: false
 published: true
 order: 5
 ---
-
-### (Inter)operational Semantic Resources in Earth and Environmental Science
 
 #### Session Organizers
 - Lewis Mcgibbney 

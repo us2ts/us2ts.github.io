@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Session - Semantics of the Environment
+title: Semantics of the Environment
 author: Maulik R. Kamdar
 permalink: program-semantics-environment
 mainnav: false
@@ -8,8 +8,6 @@ sidenav: false
 published: true
 order: 5
 ---
-
-### Semantics of the Environment
 
 #### Session Organizers
 - Anne Thessen 

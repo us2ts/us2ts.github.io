@@ -19,11 +19,9 @@ order: 4
 
 **More Details:** [Session - Semantics of the Environment](https://us2ts.org/program-semantics-environment)
 
-## (Inter)operational Semantic Resources in Earth and Environmental Science
+## [(Inter)operational Semantic Resources in Earth and Environmental Science](https://us2ts.org/program-interoperational-earth-environment-semantics)
 
 **Organizers:** Lewis Mcgibbney, Pier Luigi Buttigieg, Lu Zhou, Gary Berg-Cross, Chris Mungall and Ruth Duerr
-
-**More Details:** [Session - (Inter)operational Semantic Resources in Earth and Environmental Science](https://us2ts.org/program-interoperational-earth-environment-semantics)
 
 ## Fostering an awesome tool ecosystem for the semantic web
 

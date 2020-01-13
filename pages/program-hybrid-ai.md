@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hybrid AI for Context Understanding
+title: Session - Hybrid AI for Context Understanding
 author: Maulik R. Kamdar
 permalink: program-hybrid-ai
 mainnav: false

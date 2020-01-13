@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current and Future Trends of Knowledge Graph Representation and Reasoning
+title: Session - Current and Future Trends of Knowledge Graph Representation and Reasoning
 author: Maulik R. Kamdar
 permalink: program-current-future-kr-trends
 mainnav: false

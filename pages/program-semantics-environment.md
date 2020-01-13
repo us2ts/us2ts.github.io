@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Semantics of the Environment
+title: Session - Semantics of the Environment
 author: Maulik R. Kamdar
 permalink: program-semantics-environment
 mainnav: false

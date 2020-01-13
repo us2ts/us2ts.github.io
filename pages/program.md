@@ -13,36 +13,38 @@ order: 4
 
 # Accepted Sessions
 
-## Semantics of the Environment
+----------------------------------------------------------------
+
+## [Semantics of the Environment](https://us2ts.org/program-semantics-environment)
 
 **Organizers:** Anne Thessen and Ramona Walls
 
-**More Details:** [Session - Semantics of the Environment](https://us2ts.org/program-semantics-environment)
+----------------------------------------------------------------
 
-## [(Inter)operational Semantic Resources in Earth and Environmental Science](https://us2ts.org/program-interoperational-earth-environment-semantics)
+## [**(Inter)operational Semantic Resources in Earth and Environmental Science**](https://us2ts.org/program-interoperational-earth-environment-semantics)
 
 **Organizers:** Lewis Mcgibbney, Pier Luigi Buttigieg, Lu Zhou, Gary Berg-Cross, Chris Mungall and Ruth Duerr
 
-## Fostering an awesome tool ecosystem for the semantic web
+----------------------------------------------------------------
+
+## [Fostering an awesome tool ecosystem for the semantic web](https://us2ts.org/program-tool-ecosystem)
 
 **Organizers:** Hilmar Lapp and Rafael Gonçalves
 
-**More Details:** [Session - Fostering an awesome tool ecosystem for the semantic web](https://us2ts.org/program-tool-ecosystem)
+----------------------------------------------------------------
 
-## Hybrid AI for Context Understanding
+## [Hybrid AI for Context Understanding](https://us2ts.org/program-hybrid-ai)
 
 **Organizers:** Alessandro Oltramari, Cory Henson and Ruwan Wickramarachchi
 
-**More Details:** [Session - Hybrid AI for Context Understanding](https://us2ts.org/program-hybrid-ai)
+----------------------------------------------------------------
 
-## Identifying Best Practices in Multi-paradigm Ontology Family Development
+## [Identifying Best Practices in Multi-paradigm Ontology Family Development](https://us2ts.org/program-ontology-best-practices)
 
 **Organizers:** Cogan Shimizu and Evan Wallace
 
-**More Details:** [Session - Identifying Best Practices in Multi-paradigm Ontology Family Development](https://us2ts.org/program-ontology-best-practices)
+----------------------------------------------------------------
 
-## Current and Future Trends of Knowledge Graph Representation and Reasoning
+## [Current and Future Trends of Knowledge Graph Representation and Reasoning](https://us2ts.org/program-current-future-kr-trends)
 
 **Organizers:** Monireh Ebrahimi, Bassem Makni, Aaron Eberhart and Amir Hossein Yazdavar
-
-**More Details:** [Session - Current and Future Trends of Knowledge Graph Representation and Reasoning](https://us2ts.org/program-current-future-kr-trends)

@@ -13,14 +13,9 @@ order: 4
 
 # Accepted Sessions
 
-### [**Semantics of the Environment**](https://us2ts.org/program-semantics-environment)
-
-**Organizers:** Anne Thessen and Ramona Walls
-
-
 ### [**(Inter)operational Semantic Resources in Earth and Environmental Science**](https://us2ts.org/program-interoperational-earth-environment-semantics)
 
-**Organizers:** Lewis Mcgibbney, Pier Luigi Buttigieg, Lu Zhou, Gary Berg-Cross, Chris Mungall and Ruth Duerr
+**Organizers:** Lewis Mcgibbney, Pier Luigi Buttigieg, Lu Zhou, Gary Berg-Cross, Chris Mungall, Ruth Duerr, Anne Thessen, and Ramona Walls
 
 
 ### [**Fostering an Awesome Tool Ecosystem for the Semantic Web**](https://us2ts.org/program-tool-ecosystem)

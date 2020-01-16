@@ -5,6 +5,7 @@ author: Maulik R. Kamdar
 permalink: program
 mainnav: true
 sidenav: true
+sidebartitle: Program
 published: true
 order: 4
 ---
@@ -37,10 +38,10 @@ order: 4
 
 **Organizers:** Monireh Ebrahimi, Bassem Makni, Aaron Eberhart and Amir Hossein Yazdavar
 
-## [**Enterprise Semantic Data**](https://us2ts.org/program-enterprise-semantic-data)
+### [**Enterprise Semantic Data**](https://us2ts.org/program-enterprise-semantic-data)
 
 **Organizers:** Juan Sequeda
 
-## [**Next Steps Toward Easier RDF**](https://us2ts.org/program-easier-rdf)
+### [**Next Steps Toward Easier RDF**](https://us2ts.org/program-easier-rdf)
 
 **Organizers:** David Booth

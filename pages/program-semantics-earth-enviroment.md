@@ -10,14 +10,14 @@ order: 5
 ---
 
 #### Session Organizers
-- Lewis Mcgibbney 
-- Pier Luigi Buttigieg 
-- Lu Zhou
-- Gary Berg-Cross
-- Chris Mungall 
-- Ruth Duerr
-- Anne Thessen
-- Ramona Walls
+- Lewis Mcgibbney, NASA
+- Pier Luigi Buttigieg, Alfred Wegener Institute
+- Lu Zhou, Kansas State University
+- Gary Berg-Cross, Ontolog Forum
+- Chris Mungall, Lawrence Berkley National Laboratory
+- Ruth Duerr, Ronin Institute
+- Anne Thessen, Oregon State University
+- Ramona Walls, University of Arizona
 
 #### Abstract
 

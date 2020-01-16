@@ -10,8 +10,8 @@ order: 5
 ---
 
 #### Session Organizers
-- Hilmar Lapp 
-- Rafael Gonçalves
+- [Hilmar Lapp, Duke University](https://orcid.org/0000-0001-9107-0714) 
+- [Rafael Gonçalves, Stanford University](https://www.rsgoncalves.com/)
 
 #### Abstract 
 

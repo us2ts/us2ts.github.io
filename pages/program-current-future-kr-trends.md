@@ -10,10 +10,10 @@ order: 5
 ---
 
 #### Session Organizers
-- Monireh Ebrahimi 
-- Bassem Makni 
-- Aaron Eberhart 
-- Amir Hossein Yazdavar 
+- Monireh Ebrahimi, Kansas State Univerity
+- Bassem Makni, IBM T.J. Watson Research Center
+- Aaron Eberhart, Kansas State Univerity
+- Amir Hossein Yazdavar, Kansas State Univerity 
 
 #### Abstract
 

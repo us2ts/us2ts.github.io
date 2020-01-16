@@ -3,8 +3,8 @@ layout: page
 title: Program
 author: Maulik R. Kamdar
 permalink: program
-mainnav: false
-sidenav: false
+mainnav: true
+sidenav: true
 published: true
 order: 4
 ---
@@ -36,3 +36,11 @@ order: 4
 ### [**Current and Future Trends of Knowledge Graph Representation and Reasoning**](https://us2ts.org/program-current-future-kr-trends)
 
 **Organizers:** Monireh Ebrahimi, Bassem Makni, Aaron Eberhart and Amir Hossein Yazdavar
+
+## [**Enterprise Semantic Data**](https://us2ts.org/program-enterprise-semantic-data)
+
+**Organizers:** Juan Sequeda
+
+## [**Next Steps Toward Easier RDF**](https://us2ts.org/program-easier-rdf)
+
+**Organizers:** David Booth

@@ -3,7 +3,7 @@ layout: page
 title: Keynote Speakers
 author: Maulik R. Kamdar
 permalink: keynotes
-mainnav: false
+mainnav: true
 sidenav: false
 sidebartitle: Keynotes
 published: true

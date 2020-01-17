@@ -14,7 +14,7 @@ order: 4
 
 # Keynote Speakers
 
-[<img src="https://us2ts.org/images/raschid-louiqa.png" alt="Louiqa Raschid" width="50%">](http://users.umiacs.umd.edu/~louiqa/)
+[<img src="https://us2ts.org/images/raschid-louiqa.png" alt="Louiqa Raschid" width="20%%">](http://users.umiacs.umd.edu/~louiqa/)
 ### [**Dr. Louiqa Raschid**](https://us2ts.org/keynotes#raschid)
 Professor, University of Maryland
 

@@ -18,7 +18,7 @@ The following sponsors have expressed their financial support for US2TS 2020.
 
 ## Platinum Sponsors
 
-[<p align="center"><img src="https://us2ts.org/images/us2ts-sponsor-bbn.png" alt="Raytheon" width="50%"></p>](https://www.raytheon.com/ourcompany/bbn)
+[<img src="https://us2ts.org/images/us2ts-sponsor-bbn.png" alt="Raytheon" width="50%">](https://www.raytheon.com/ourcompany/bbn)
 
 ----------------------------------------------------------------
 

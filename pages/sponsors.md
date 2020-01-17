@@ -5,8 +5,8 @@ author: Maulik R. Kamdar
 permalink: sponsors
 sidebartitle: Sponsors
 published: true
-mainnav: false
-sidenav: false
+mainnav: true
+sidenav: true
 order: 4
 ---
 

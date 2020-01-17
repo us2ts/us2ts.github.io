@@ -12,6 +12,6 @@ order: 4
 
 ### Platinum Sponsors
 
-[![Raytheon BBN][/images/us2ts-sponsor-bbn.png]{:width="50%" class="centered"}](https://www.raytheon.com/ourcompany/bbn)
+[<img src="https://us2ts.org/images/us2ts-sponsor-bbn.png">](https://www.raytheon.com/ourcompany/bbn)
 
 ### Standard Sponsors

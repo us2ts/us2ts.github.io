@@ -15,7 +15,7 @@ order: 1
 
 **News:** The [**Sessions**](https://us2ts.org/program#sessions) to be held at US2TS 2020 with tentative details are announced.
 
-**News:** **Registration** is now open. Please [click here for more details](https://us2ts.org/registration). Early registration ends on **January 31, 2020**.
+**News:** [**Registration**](https://us2ts.org/registration) is now open. Early registration ends on **January 31, 2020**.
 
 ----------------------------------------------------------------
 

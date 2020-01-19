@@ -21,7 +21,7 @@ Professor, University of Maryland
 
 ----------------------------------------------------------------
 
-# Accepted Sessions
+# Accepted Sessions {#sessions}
 
 ### [**(Inter)operational Semantic Resources in Earth and Environmental Science**](https://us2ts.org/program-interoperational-earth-environment-semantics)
 

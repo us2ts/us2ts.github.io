@@ -11,6 +11,7 @@ order: 5
 
 #### Session Organizers
 - [David Booth, Yosemite Project](http://dbooth.org/)
+- Peter Winstanley (Semantic Arts UK Ltd.)
 
 #### Abstract
 

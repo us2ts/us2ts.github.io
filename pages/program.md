@@ -53,4 +53,4 @@ Professor, University of Maryland
 
 ### [**Next Steps Toward Easier RDF**](https://us2ts.org/program-easier-rdf)
 
-**Organizers:** David Booth
+**Organizers:** David Booth (Yosemite Project) and Peter Winstanley (Semantic Arts UK Ltd.)

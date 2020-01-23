@@ -35,7 +35,7 @@ Professor, University of Maryland
 
 ### [**Hybrid AI for Context Understanding**](https://us2ts.org/program-hybrid-ai)
 
-**Organizers:** Alessandro Oltramari, Cory Henson and Ruwan Wickramarachchi
+**Organizers:** Alessandro Oltramari, Cory Henson, Ruwan Wickramarachchi, Don Brutzman, and Richard Markeloff
 
 
 ### [**Identifying Best Practices in Multi-paradigm Ontology Family Development**](https://us2ts.org/program-ontology-best-practices)
@@ -45,7 +45,7 @@ Professor, University of Maryland
 
 ### [**Current and Future Trends of Knowledge Graph Representation and Reasoning**](https://us2ts.org/program-current-future-kr-trends)
 
-**Organizers:** Monireh Ebrahimi, Bassem Makni, Aaron Eberhart and Amir Hossein Yazdavar
+**Organizers:** Monireh Ebrahimi, Bassem Makni, Aaron Eberhart, and Amir Hossein Yazdavar
 
 ### [**Enterprise Semantic Data**](https://us2ts.org/program-enterprise-semantic-data)
 
@@ -53,4 +53,4 @@ Professor, University of Maryland
 
 ### [**Next Steps Toward Easier RDF**](https://us2ts.org/program-easier-rdf)
 
-**Organizers:** David Booth (Yosemite Project) and Peter Winstanley (Semantic Arts UK Ltd.)
+**Organizers:** David Booth and Peter Winstanley

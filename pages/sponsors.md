@@ -26,4 +26,4 @@ We are grateful for the following sponsors, who have generously agreed to financ
 
 [<img src="https://us2ts.org/images/us2ts-sponsor-bosch.jpg" alt="Bosch" width="50%">](http://www.bosch.com/research)
 
-----------------------------------------------------------------
+[<img src="https://us2ts.org/images/us2ts-sponsor-data.world.png" alt="Data.World" width="50%">](https://data.world/)

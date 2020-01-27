@@ -11,6 +11,8 @@ order: 1
 
 ----------------------------------------------------------------
 
+**News:** Preliminary list of US2TS 2020 [**Lightning Talks**](https://us2ts.org/lightning-talks) are announced.
+
 **News:** We are pleased to announce that [**Dr. Louiqa Raschid**](https://us2ts.org/keynotes#raschid), Professor at the University of Maryland, will be our first keynote speaker.
 
 **News:** US2TS 2020 [**Sessions**](https://us2ts.org/program#sessions) with tentative details are announced.

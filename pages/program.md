@@ -54,3 +54,23 @@ Professor, University of Maryland
 ### [**Next Steps Toward Easier RDF**](https://us2ts.org/program-easier-rdf)
 
 **Organizers:** David Booth and Peter Winstanley
+
+----------------------------------------------------------------
+
+# Lightning Talks {#lightning-talks}
+
+### [**A New Biodiversity and Ecology dataset**](https://us2ts.org/lightning-talks#biodiversity)
+
+**Speakers:** Jen Hammock, Katja Schulz
+
+### [**Finding Correlation and Causation in Knowledge Graphs**](https://us2ts.org/lightning-talks#correlation-causation)
+
+**Speakers:** Jans Aasman
+
+### [**Heuristic evaluation of semantic search interfaces in bibliographic systems**](https://us2ts.org/lightning-talks#bibliographic)
+
+**Speakers:** Jim Hahn
+
+### [**Study Data Validation & Submission Conformance**](https://us2ts.org/lightning-talks#study-validation)
+
+**Speakers:** Tim Williams

@@ -4,7 +4,7 @@ title: Lightning Talks
 author: Maulik R. Kamdar
 permalink: lightning-talks
 mainnav: false
-sidenav: false
+sidenav: true
 sidebartitle: Lightning Talks
 published: true
 order: 4

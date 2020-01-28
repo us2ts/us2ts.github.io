@@ -13,13 +13,19 @@ order: 5
 
 To help reduce travel costs that would otherwise be a barrier to attending US2TS 2020, students and early-career professionals can apply for travel support awards.
 
+----------------------------------------------------------------
+
 ## Who is Eligible?
 Travel support applications are open to students (graduate and undergraduate), postdocs, and early-career professionals (within 1 year of receiving highest degree).
+
+----------------------------------------------------------------
 
 ## How to Apply?
 Fill out the online US2TS 2020 Travel Support Application Form here: [https://forms.gle/tHjJFHHbFJYCoQEo7](https://forms.gle/tHjJFHHbFJYCoQEo7)
 
 The firm application deadline is February 4, 2020. No extensions.
+
+----------------------------------------------------------------
 
 ## Selection Criteria
 Selection is based on the following criteria. Make sure that you include sufficient information on the application form for us to judge each criterion.
@@ -28,8 +34,12 @@ What is your participation in the US2TS 2020 event and in the semantic technolog
 
 Increasing diversity: Does your attendance increase diversity at US2TS and in the community? We understand increasing diversity as increasing participation from groups otherwise underrepresented in the community and US2TS, including but not limited to underrepresented demographic groups, ethnic origins, career stages, and people with disabilities.
 
+----------------------------------------------------------------
+
 ## Review and Notification
 Applications will be reviewed by the US2TS Organizing Committee. We intend to notify applicants by February 7, 2020. Awardees who have not yet registered will be able to do so at the Early Registration rate even if the early registration deadline has passed. Awardees will be required to confirm acceptance and to register at the latest by February 11, 2020 to avoid forfeiting their award to waitlisted applicants.
+
+----------------------------------------------------------------
 
 ## What Does a Travel Support Award Cover?
 The Travel Support Award can be used to cover direct travel costs (such as airfare, train, metro, bus and taxi), hotel, child-care and / or conference registration fees up to a value of USD 500. Rental car expenses and personal car mileage are not eligible for reimbursement.

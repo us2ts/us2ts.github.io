@@ -11,7 +11,7 @@ order: 1
 
 ----------------------------------------------------------------
 
-**News:** Travel Support Awards are now available. Click [**here**](https://us2ts.org/travel-awards) for more information.
+**News:** A limited number of [Travel Support Awards](https://us2ts.org/travel-awards) are now available. **Apply by Feb 4, 2020**.
 
 **News:** Preliminary list of US2TS 2020 [**Lightning Talks**](https://us2ts.org/lightning-talks) are announced.
 

@@ -16,6 +16,12 @@ We are grateful for the following sponsors, who have generously agreed to financ
 
 ----------------------------------------------------------------
 
+## Social Event Sponsor
+
+[<img src="https://us2ts.org/images/us2ts-sponsor-lxnx.png" alt="LexisNexis" width="50%">](https://www.lexisnexis.com/)
+
+----------------------------------------------------------------
+
 ## Platinum Sponsors
 
 [<img src="https://us2ts.org/images/us2ts-sponsor-bbn.png" alt="Raytheon" width="50%">](https://www.raytheon.com/ourcompany/bbn)

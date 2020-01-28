@@ -5,8 +5,8 @@ author: Maulik R. Kamdar
 permalink: travel-awards
 mainnav: false
 sidebartitle: Travel Awards
-sidenav: false
-published: false
+sidenav: true
+published: true
 order: 5
 ---
 

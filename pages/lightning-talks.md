@@ -20,7 +20,7 @@ order: 4
 
 #### Abstract 
 
-The Encyclopedia of Life integrates data connecting organisms, categorical attributes, environments, and geographic entities. This is stored natively as a property graph. A projection of the dataset simplifies the graph to taxa rather than individual organisms, and bundles records supporting the same relationship type between the same two entities. The provenance data in this projection is linked less directly, but the graph supports intuitive triples of the form:
+The Encyclopedia of Life integrates data connecting organisms, categorical attributes, environments, and geographic entities. This is stored natively as a property graph. [expand]A projection of the dataset simplifies the graph to taxa rather than individual organisms, and bundles records supporting the same relationship type between the same two entities. The provenance data in this projection is linked less directly, but the graph supports intuitive triples of the form:
 
 Elkhorn_coral builds_habitat reef
 or
@@ -28,7 +28,7 @@ mosquito feeds_on human
 
 We are working on translating the projection into an RDF resource. We are in need of feedback on the semantic structure of the current draft.
 
-The graph includes 2 million taxa, 1.2M linked to geographic entities, 800,000 linked to habitats, 600,000 linked to functional or ecological categories, and 200,000 linked to other taxa via ecological interactions. Taxa, geographic entities, attribute categorical values and habitats are hierarchically organized. Entities and relationships are identified using OBO Foundry ontologies, Wikidata, Geonames or specialist biodiversity thesauri wherever possible; where necessary, ad hoc terms are minted.
+The graph includes 2 million taxa, 1.2M linked to geographic entities, 800,000 linked to habitats, 600,000 linked to functional or ecological categories, and 200,000 linked to other taxa via ecological interactions. Taxa, geographic entities, attribute categorical values and habitats are hierarchically organized. Entities and relationships are identified using OBO Foundry ontologies, Wikidata, Geonames or specialist biodiversity thesauri wherever possible; where necessary, ad hoc terms are minted.[/expand]
 
 ----------------------------------------------------------------
 

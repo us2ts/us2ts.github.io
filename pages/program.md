@@ -10,6 +10,10 @@ published: true
 order: 4
 ---
 
+### Event Date: 
+
+Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time)
+
 ----------------------------------------------------------------
 
 # [Keynote Speakers](https://us2ts.org/keynotes)

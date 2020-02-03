@@ -14,7 +14,7 @@ Registration is now open through the [US2TS 2020 registration website](https://c
 
 **Early registration cost is $170 Standard and $60 for Students.** 
 
-**After January 31, costs rise to $300 and $120, respectively.**
+**After February 6, costs rise to $300 and $120, respectively.**
 
 Poster display space is free of charge at least until the end of Early Registration, but limited and allocated first-come first-serve. If you intend to present a poster, please indicate so as part of your registration.
 

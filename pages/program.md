@@ -16,16 +16,15 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 
 ----------------------------------------------------------------
 
-# Keynote Speakers {#keynotes}
+# Keynotes {#keynotes}
 
-### [**Dr. Louiqa Raschid**](https://us2ts.org/keynote-louiqa-raschid)
+### [**Explorations of a Data Scientist: From Finance to Therapeutics**](https://us2ts.org/keynote-louiqa-raschid)
 
-Professor, University of Maryland
+**Speaker:** [Dr. Louiqa Raschid](https://us2ts.org/keynotes#louiqa), Professor, University of Maryland
 
-### [**Dr. Binil Starly**](https://us2ts.org/keynote-binil-starly)
+### [**Building an Open Knowledge Network (OKN) Graph in Product Design & Manufacturing**](https://us2ts.org/keynote-binil-starly)
 
-Professor, North Carolina State University
-
+**Speaker:** [Dr. Binil Starly](https://us2ts.org/keynotes#bstarly) Professor, North Carolina State University
 
 ----------------------------------------------------------------
 

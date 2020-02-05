@@ -20,13 +20,11 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 
 ### [**Dr. Louiqa Raschid**](https://us2ts.org/keynote-louiqa-raschid)
 
-Professor, University of Maryland 
-[<img src="https://us2ts.org/images/raschid-louiqa.png" alt="Louiqa Raschid" width="20%">](https://us2ts.org/keynote-louiqa-raschid)
+Professor, University of Maryland
 
 ### [**Dr. Binil Starly**](https://us2ts.org/keynote-binil-starly)
 
 Professor, North Carolina State University
-[<img src="https://us2ts.org/images/binil-starly.png" alt="Binil Starly" width="20%">](https://us2ts.org/keynote-binil-starly)
 
 
 ----------------------------------------------------------------

@@ -64,6 +64,9 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 
 **Organizers:** David Booth (Yosemite Project) and Peter Winstanley (Semantic Arts)
 
+
+### [**JSON-LD as an On Ramp to the Semantic Web**](https://us2ts.org/program-jsonld)
+
 ----------------------------------------------------------------
 
 # Lightning Talks {#lightning-talks}

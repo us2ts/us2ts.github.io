@@ -16,7 +16,7 @@ Registration is now open through the [US2TS 2020 registration website](https://c
 
 **After February 6, costs rise to $300 and $120, respectively.**
 
-Registration covers admission to the conference, including the social event. Coffee, water, and snack food will be provided at morning and afternoon breaks, but meals (lunch, dinner) are not covered. The Talley Student Union (see [venue information](https://us2ts.org/venue), where the event is held, has a variety of inexpensive food options ($8-11 for lunch, for example), and most vendors will be open during the conference.
+Registration covers admission to the conference, including the social event. Coffee, water, and snack food will be provided at morning and afternoon breaks, but meals (lunch, dinner) are not covered. The Talley Student Union (see [venue information](https://us2ts.org/venue)), where the event is held, has a variety of inexpensive food options ($8-11 for lunch, for example), and most vendors will be open during the conference.
 
 Poster display space is free of charge at least until the end of Early Registration, but limited and allocated first-come first-serve. If you intend to present a poster, please indicate so as part of your registration.
 

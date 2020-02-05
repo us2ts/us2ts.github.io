@@ -13,7 +13,7 @@ order: 5
 
 
 
-
+#### Abstract
 
 At its core, JSON Linked Data (JSON-LD) is just one more RDF serialization format that, at first glance, has little to add to an already long list of existing RDF serializations, including RDF-XML, N3, NQuads, NTriples, Turtle, RDFa, etc.  A “vanilla” (expanded) JSON-LD document brings little new to the table – it is not the most concise, readable, nor easy to work with.  JSON-LD, however, has an added feature, its “special sauce”, which allows developers to continue to work use the everyday JSON that comprises the backbone of the modern web while, under the covers, manipulating with the key features of Linked Open Data (LOD) and the semantic web.
 

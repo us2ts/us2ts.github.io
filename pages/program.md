@@ -46,7 +46,7 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 ### [**Fostering an Awesome Tool Ecosystem for the Semantic Web**](https://us2ts.org/program-tool-ecosystem)
 
 **Organizers:** 
-- Hilmar Lapp (North Carolina University) and 
+- Hilmar Lapp (Duke University) and 
 - Rafael Gonçalves (Stanford University)
 
 

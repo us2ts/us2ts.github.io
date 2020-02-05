@@ -63,7 +63,7 @@ This lightening talk will present a position statement and research agenda in th
 # Study Data Validation & Submission Conformance {#study-validation}
 
 #### Speakers
-- Tim Williams, UCB Biosciences Inc
+- Tim Williams, UCB Biosciences Inc.
 
 #### Abstract
 
@@ -76,7 +76,7 @@ FDA Submission conformance checks can be represented using Shapes Constraint Lan
 # Semantic Awareness and Application in Chemical Hazard Assessment Workflow {#chemical-assessment}
 
 #### Speakers
-- Michelle Angrish, EPA
+- Michelle Angrish, US EPA
 
 #### Abstract
 

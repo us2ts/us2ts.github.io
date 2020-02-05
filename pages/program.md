@@ -81,3 +81,7 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 ### [**Study Data Validation & Submission Conformance**](https://us2ts.org/lightning-talks#study-validation)
 
 **Speakers:** Tim Williams
+
+### [**Semantic Awareness and Application in Chemical Hazard Assessment Workflow**](https://us2ts.org/lightning-talks#chemical-assessment)
+
+**Speakers:** Michelle Angrish

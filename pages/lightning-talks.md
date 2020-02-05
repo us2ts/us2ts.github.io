@@ -71,3 +71,13 @@ Converting study data to Linked Data as Resource Description Framework (RDF) goe
 
 FDA Submission conformance checks can be represented using Shapes Constraint Language (SHACL), with a goal of replacing labor-intensive, manual validation processes performed by both study sponsors and regulatory agencies. Faster approvals will ensure patients receive treatment sooner.
 
+----------------------------------------------------------------
+
+# Semantic Awareness and Application in Chemical Hazard Assessment Workflow {#chemical-assessment}
+
+#### Speakers
+- Michelle Angrish, EPA
+
+#### Abstract
+
+Semantic awareness in the form of controlled vocabularies and ontologies are a natural fit for literature-based chemical assessments deploying systematic review (SR) method workflows. This is because study methods and findings are almost exclusively recorded using written (and highly variable) natural language. While SR methods provide a mechanism for meeting the expectation that an assessment will include the most relevant and robust information, they also present a significant semantic challenge because linguistic variation can obscure concepts and relationships needed for information retrieval and interpretation. In order to maximize the potential of computationally intelligent approaches (i.e. artificial intelligence) and reap the benefits established by the Findable, Accessible, Interoperable, and Reusable (FAIR) data principles, controlled vocabularies and ontologies have been extended as an information digitization strategy in our chemical assessment space. In this lightening talk I will briefly touch upon the application of semantics in our chemical assessment workflows, including information transformation to controlled vocabularies, environmental health finding “ontologization”, ontology mapping, advances made, and challenges faced. The views and opinions expressed here are mine alone and do not reflect official US Environmental Protection Agency policy.

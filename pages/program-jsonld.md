@@ -11,7 +11,8 @@ order: 5
 
 #### Session Organizers
 
-
+- Harold Solbrig (Johns Hopkins University) and
+- Dazhi Jiao (Johns Hopkins University)
 
 #### Abstract
 

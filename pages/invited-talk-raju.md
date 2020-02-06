@@ -20,5 +20,7 @@ Image classification can be of two types: thematic classification and semantic c
 
 #### **Biography - Dr. Raju Vatsavai**
 
+[**Associate Professor, North Carolina State University**](https://www.csc.ncsu.edu/people/rrvatsav)
+
 Dr. Raju is a Chancellor’s Faculty Excellence Program Cluster Associate Professor in Geospatial Analytics in the Department of Computer Science, North Carolina State University (NCSU). He works at the intersection of spatial and temporal big data management, analytics, and high performance computing with applications in the national security, geospatial intelligence, natural resources, climate change, location-based services, and human terrain mapping. As the Associate Director of the Center for Geospatial Analytics (CGA), Raju plays a leadership role in the center’s strategic vision for spatial computing research. Before joining NCSU, Raju was the Lead Data Scientist for the Computational Sciences and Engineering Division (CSED) at the Oak Ridge National Laboratory (ORNL). Raju has more than 25 years of research and development experience in large-scale spatiotemporal data management and geographic knowledge discovery. 
 

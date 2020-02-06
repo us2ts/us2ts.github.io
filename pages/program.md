@@ -24,7 +24,15 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 
 ### [**Building an Open Knowledge Network (OKN) Graph in Product Design & Manufacturing**](https://us2ts.org/keynote-binil-starly)
 
-**Speaker:** [Dr. Binil Starly](https://us2ts.org/keynotes#bstarly) Professor, North Carolina State University
+**Speaker:** [Dr. Binil Starly](https://us2ts.org/keynotes#bstarly), Professor, North Carolina State University
+
+----------------------------------------------------------------
+
+# Invited Talks {#invited-talks}
+
+### [**Ontology and Semantics in Very High-Resolution Image Information Mining**](https://us2ts.org/invited-talk-raju)
+
+**Speaker:** [Dr. Raju Vatsavai](https://www.csc.ncsu.edu/people/rrvatsav), Associate Professor, North Carolina State University
 
 ----------------------------------------------------------------
 

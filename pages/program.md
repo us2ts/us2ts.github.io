@@ -76,9 +76,12 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 - Amir Hossein Yazdavar (Kansas State University)
 
 
-### [**Enterprise Semantic Data**](https://us2ts.org/program-enterprise-semantic-data)
+### [**Semantic Enterprise Data: The Good, the Bad and the Ugly**](https://us2ts.org/program-enterprise-semantic-data)
 
-**Organizers:** Juan Sequeda (Data.World)
+**Organizers:** 
+- Juan Sequeda (Data.World),
+- Ralph Hodgson (Topquadrant), and
+- Michael Uschold (Semantic Arts)
 
 
 ### [**Next Steps Toward Easier RDF**](https://us2ts.org/program-easier-rdf)

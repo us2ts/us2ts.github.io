@@ -28,7 +28,7 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 
 ### [**Building an Open Knowledge Network (OKN) Graph in Product Design & Manufacturing**](https://us2ts.org/keynote-joshua-shinavier)
 
-**Speaker:** [**Dr. Joshua Shinavier**](https://us2ts.org/keynotes#joshua), Research Scientist, Uber
+**Speaker:** [Dr. Joshua Shinavier](https://us2ts.org/keynotes#joshua), Research Scientist, Uber
 
 ----------------------------------------------------------------
 

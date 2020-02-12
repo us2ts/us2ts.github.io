@@ -15,4 +15,4 @@ order: 5
 - Michael Uschold, Semantic Arts
 
 #### Abstract
-Following the spirit of US2TS to create community between industry, academia and government, in this session, the presenters will share experiences of deploying semantic technology in the real world and lessons learned tailored to academia and government. The goal is to contribute with positive and negative stories and ideas how academia and government can help to improve the adoption. After each presenter describes their experience, we will have a round table discussion with the community. 
+Following the spirit of US2TS to create community between industry, academia and government, in this session, the presenters will share experiences of deploying semantic technology in the real world and lessons learned tailored to the entire community. The goal is to contribute with positive and negative stories and ideas how academia, government and fellow industry colleagues can help to improve the adoption. After each presenter describes their experience, we will have a round table discussion with the community. 

@@ -11,6 +11,8 @@ order: 1
 
 ----------------------------------------------------------------
 
+**News:** We are pleased to announce that [**Dr. Joshua Shinavier**](https://us2ts.org/keynote-joshua-shinavier), Research Scientist at Uber, will be our third keynote speaker.
+
 **News:** We are pleased to announce that [**Dr. Binil Starly**](https://us2ts.org/keynote-binil-starly), James T. Ryan Professor at the North Carolina State University, will be our second keynote speaker.
 
 **News:** A limited number of [Travel Support Awards](https://us2ts.org/travel-awards) are now available. **Apply by Feb 4, 2020**.

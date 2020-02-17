@@ -16,6 +16,9 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 
 ----------------------------------------------------------------
 
+# Schedule
+
+A tentative schedule for the US2TS 2020 Symposium is now available below:
 
 | **March 9, 2020, Monday** |  |
 | ------------- | ------------- |
@@ -29,7 +32,7 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 | **3:30 - 4:00**  | Coffee Break   |
 | **4:00 - 4:30**  | [Invited Talk - Raju Vatsavai](https://us2ts.org/invited-talk-raju)  |
 | **4:30 - 5:00**  | Day 1 Sessions Reports  |
-| **5:00 - 6:00**  | Lightning Talks 1  |
+| **5:00 - 6:00**  | [Lightning Talks](https://us2ts.org/lightning-talks)  |
 | **6:00 - 6:30**  | Travel to Reception  |
 | **6:30 - 9:30**  | Reception |
 |  |  |
@@ -45,7 +48,7 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 |   | [Session: JSON-LD as an On Ramp to the Semantic Web: A Tutorial](https://us2ts.org/program-jsonld) |
 | **3:30 - 4:00**  | Coffee Break   |
 | **4:00 - 4:30**  | [Invited Talk - Chaitanya Baru]()  |
-| **4:30 - 5:00**  | Day 2 Sessions Reports - Lightning talks 2 (cont)  |
+| **4:30 - 5:00**  | Day 2 Sessions Reports - [Lightning talks (cont)](https://us2ts.org/lightning-talks)  |
 | **5:00 - 6:30**  | Poster Presentations | 
 |  | Unconference Organization |
 | **6:30 - 9:30**  | Dinner on your own |

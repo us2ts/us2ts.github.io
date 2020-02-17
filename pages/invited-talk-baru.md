@@ -43,7 +43,7 @@ order: 4
 | **5:00 - 6:30**  | Poster Presentations and Unconference Organization |
 | **6:30 - 9:30**  | Dinner on your own |
 
-| **March 11, 2020, Wednesday** |  |
+| **March 11, 2020, <br/> Wednesday** |  |
 | ------------- | ------------- |
 | **9:00 - 11:00**  | [Intro and Keynote - Josh Shinavier](https://us2ts.org/keynote-joshua-shinavier)  |
 | **11:00 - 11:30**  | Coffee Break  |

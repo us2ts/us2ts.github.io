@@ -7,7 +7,7 @@ mainnav: false
 sidenav: true
 sidebartitle: Lightning Talks
 published: true
-order: 4
+order: 7
 ---
 
 ----------------------------------------------------------------

@@ -7,7 +7,7 @@ mainnav: false
 sidenav: true
 sidebartitle: Invited Talks
 published: true
-order: 4
+order: 6
 ---
 
 ----------------------------------------------------------------

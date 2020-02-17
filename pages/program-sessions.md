@@ -7,7 +7,7 @@ mainnav: false
 sidenav: true
 sidebartitle: Accepted Sessions
 published: true
-order: 4
+order: 6
 ---
 
 ----------------------------------------------------------------

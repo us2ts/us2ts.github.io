@@ -7,7 +7,7 @@ sidebartitle: Contact
 mainnav: true
 sidenav: true
 published: true
-order: 8
+order: 13
 ---
 
 Please email all inquiries, including questions about submissions, to [2020-org AT us2ts DOT org](mailto:2020-org@us2ts.org).

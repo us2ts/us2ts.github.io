@@ -7,7 +7,7 @@ permalink: venue
 mainnav: true
 sidenav: true
 published: true
-order: 4
+order: 9
 ---
 
 ### Event Date: 

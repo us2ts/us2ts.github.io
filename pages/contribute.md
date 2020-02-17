@@ -7,7 +7,7 @@ permalink: contribute
 mainnav: true
 sidenav: true
 published: true
-order: 5
+order: 10
 ---
 
 ----------------------------------------------------------------

@@ -7,7 +7,7 @@ sidebartitle: Sponsors
 published: true
 mainnav: true
 sidenav: true
-order: 4
+order: 8
 ---
 
 US2TS would not be possible without the generous support of our sponsors. Please [read more about US2TS Sponsorship Packages](https://us2ts.org/sponsor_packages) or contact us at [2020-org AT us2ts DOT org](2020-org@us2ts.org) for questions related to sponsorship.

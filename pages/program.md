@@ -47,7 +47,7 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 | **2:00 - 3:30**  | [Session: Enterprise Semantic Data](https://us2ts.org/program-enterprise-semantic-data) |
 |   | [Session: JSON-LD as an On Ramp to the Semantic Web: A Tutorial](https://us2ts.org/program-jsonld) |
 | **3:30 - 4:00**  | Coffee Break   |
-| **4:00 - 4:30**  | [Invited Talk - Chaitanya Baru]()  |
+| **4:00 - 4:30**  | [Invited Talk - Chaitanya Baru](https://us2ts.org/invited-talk-baru)  |
 | **4:30 - 5:00**  | Day 2 Sessions Reports - [Lightning talks (cont)](https://us2ts.org/lightning-talks)  |
 | **5:00 - 6:30**  | Poster Presentations | 
 |  | Unconference Organization |
@@ -86,6 +86,10 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 ### [**Ontology and Semantics in Very High-Resolution Image Information Mining**](https://us2ts.org/invited-talk-raju)
 
 **Speaker:** [Dr. Raju Vatsavai](https://www.csc.ncsu.edu/people/rrvatsav), Associate Professor, North Carolina State University
+
+### [**Open Knowledge Network: An NSF Convergence Accelerator Pilot**](https://us2ts.org/invited-talk-baru)
+
+**Speaker:** [Dr. Chaitanya Baru](https://acid.sdsc.edu/users/chaitan-baru), Senior Science Advisor, Convergence Accelerator Office, Office of the Director, National Science Foundation
 
 ----------------------------------------------------------------
 

@@ -49,5 +49,4 @@ order: 4
 | **11:00 - 11:30**  | Coffee Break  |
 | **11:30 - 1:00**  | Unconference |
 | **1:00 - 2:00**  |  Lunch   |
-| **2:00 - 3:30**  | Unconference report-out  |
-|   | Symposium Reflections and Closing |
+| **2:00 - 3:30**  | Unconference report-out, Symposium Reflections, and Closing |

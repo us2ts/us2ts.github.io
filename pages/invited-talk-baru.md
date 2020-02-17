@@ -12,7 +12,7 @@ order: 4
 
 ----------------------------------------------------------------
 
-|   | March 9, 2020, Monday |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | March 9, 2020, Monday |
 | ------------- | ------------- |
 | **9:00 - 11:00**  | [Intro and Keynote 1 - Louiqa Raschid](https://us2ts.org/keynote-louiqa-raschid) |
 | **11:00 - 11:30**  | Coffee Break  |

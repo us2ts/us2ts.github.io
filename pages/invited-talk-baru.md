@@ -27,7 +27,7 @@ order: 4
 | **5:00 - 6:00**  | Lightning Talks 1  |
 | **6:00 - 6:30**  | Travel to Reception  |
 | **6:30 - 9:30**  | Reception |
-
+|  |  |
 | **March 10, 2020, Tuesday** |  |
 | ------------- | ------------- |
 | **9:00 - 11:00**  | [Intro and Keynote - Binil Starly](https://us2ts.org/keynote-binil-starly)  |
@@ -40,10 +40,11 @@ order: 4
 | **3:30 - 4:00**  | Coffee Break   |
 | **4:00 - 4:30**  | [Invited Talk - Chaitanya Baru]()  |
 | **4:30 - 5:00**  | Day 2 Sessions Reports - Lightning talks 2 (cont)  |
-| **5:00 - 6:30**  | Poster Presentations and Unconference Organization |
+| **5:00 - 6:30**  | Poster Presentations | 
+|  | Unconference Organization |
 | **6:30 - 9:30**  | Dinner on your own |
-
-| **March 11, 2020, <br/> Wednesday** |  |
+|  |  |
+| **March 11, 2020, Wednesday** |  |
 | ------------- | ------------- |
 | **9:00 - 11:00**  | [Intro and Keynote - Josh Shinavier](https://us2ts.org/keynote-joshua-shinavier)  |
 | **11:00 - 11:30**  | Coffee Break  |

@@ -26,6 +26,8 @@ Dear Colleague Letters, program announcements, and/or solicitations. Information
 
 #### **Biography - Dr. Chaitanya Baru**
 
+[<img src="https://us2ts.org/images/chaitanya-baru.png" alt="Chaitanya Baru" width="20%">](https://acid.sdsc.edu/users/chaitan-baru)
+
 [Senior Science Advisor, Convergence Accelerator Office, Office of the Director, National Science Foundation](https://acid.sdsc.edu/users/chaitan-baru)
 
 Dr. Chaitanya Baru is Senior Science Advisor in the Convergence Accelerator Office, Office of the Director, NSF, having earlier served as an Expert for the Convergence Accelerator from April to August 2019. He is at NSF on assignment from the San Diego Supercomputer Center (SDSC), University of California, San Diego. He previously served at NSF, as Senior Advisor for Data Science in the Computer and Information Science and Engineering Directorate (CISE), from August 2014-2018. Dr. Baru has worked on translational and applied research in computer science and data science at SDSC since 1996, where he has served in a number of leadership positions. He previously worked at IBM—on IBM’s DB2 Parallel Edition for AIX development team and, prior to that, was on the faculty of the EECS Department, University of Michigan, Ann Arbor. He has an ME and PhD in Electrical Engineering (Computer Engineering) from the University of Florida and a BTech in Electronics Engineering from the Indian Institute of Technology, Madras.

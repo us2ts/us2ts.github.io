@@ -12,7 +12,7 @@ order: 4
 
 ----------------------------------------------------------------
 
-| March 9, 2020, Monday |  |
+| **March 9, 2020, Monday** |  |
 | ------------- | ------------- |
 | **9:00 - 11:00**  | [Intro and Keynote - Louiqa Raschid](https://us2ts.org/keynote-louiqa-raschid) |
 | **11:00 - 11:30**  | Coffee Break  |
@@ -27,6 +27,7 @@ order: 4
 | **5:00 - 6:00**  | Lightning Talks 1  |
 | **6:00 - 6:30**  | Travel to Reception  |
 | **6:30 - 9:30**  | Reception |
+|  |  |
 |  |  |
 | **March 10, 2020, Tuesday** |  |
 | ------------- | ------------- |
@@ -43,6 +44,7 @@ order: 4
 | **5:00 - 6:30**  | Poster Presentations | 
 |  | Unconference Organization |
 | **6:30 - 9:30**  | Dinner on your own |
+|  |  |
 |  |  |
 | **March 11, 2020, Wednesday** |  |
 | ------------- | ------------- |

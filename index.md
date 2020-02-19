@@ -11,6 +11,10 @@ order: 1
 
 ----------------------------------------------------------------
 
+**News:** The preliminary [**schedule**](https://us2ts.org/program) for US2TS 2020 is now tentatively published.
+
+**News:** We are pleased to announce that [**Dr. Chaitanya Baur**](https://us2ts.org/invited-talk-baru), Senior Science Advisor at the National Science Foundation, will give an invited talk on the Open Knowledge Network.
+
 **News:** We are pleased to announce that [**Dr. Joshua Shinavier**](https://us2ts.org/keynote-joshua-shinavier), Research Scientist at Uber, will be our third keynote speaker.
 
 **News:** We are pleased to announce that [**Dr. Binil Starly**](https://us2ts.org/keynote-binil-starly), James T. Ryan Professor at the North Carolina State University, will be our second keynote speaker.

@@ -19,15 +19,11 @@ order: 1
 
 **News:** We are pleased to announce that [**Dr. Binil Starly**](https://us2ts.org/keynote-binil-starly), James T. Ryan Professor at the North Carolina State University, will be our second keynote speaker.
 
-**News:** A limited number of [Travel Support Awards](https://us2ts.org/travel-awards) are now available. **Apply by Feb 4, 2020**.
-
-**News:** Preliminary list of US2TS 2020 [**Lightning Talks**](https://us2ts.org/lightning-talks) are announced.
-
 **News:** We are pleased to announce that [**Dr. Louiqa Raschid**](https://us2ts.org/keynote-louiqa-raschid), Professor at the University of Maryland, will be our first keynote speaker.
 
-**News:** US2TS 2020 [**Sessions**](https://us2ts.org/program#sessions) with tentative details are announced.
+**News:** US2TS 2020 [**Sessions**](https://us2ts.org/program#sessions) with details are announced.
 
-**News:** [**Registration**](https://us2ts.org/registration) is now open. Early registration ends on **February 6, 2020**.
+**News:** [**Registration**](https://us2ts.org/registration) is now open.
 
 ----------------------------------------------------------------
 

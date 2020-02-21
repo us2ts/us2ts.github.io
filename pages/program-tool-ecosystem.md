@@ -19,8 +19,6 @@ Do you develop tools, libraries, or other resources that are intended to enable,
 
 If your answer is yes to any of the above, this session aims to foster community awareness of existing resources based on semantic web technologies, and to facilitate the exchange of know-how and common gaps or limitations in current tooling.
 
-We continue to invite contributions in the form of short (5-10 minutes) presentations, in particular for _awesome_ software tools and libraries, and for experiences with building end-user applications. _The meaning of awesome includes, but is not limited to, openly available, reusable resources that are potential building blocks contributing to an interoperable ecosystem._ [Submit your presentation](https://forms.gle/DkVnJ2qgjH1bB4ru7), review is rolling — acceptance is first-come, first-served until all allocable time for the session is used up. (At least one of the authors needs to attend and be able to present.)
-
 A full description can be found here: Hilmar Lapp, Rafael Gonçalves. Fostering an awesome tool ecosystem for the semantic web. Authorea. January 03, 2020. DOI: <https://doi.org/10.22541/au.157807505.51352689>
 
 #### Session program

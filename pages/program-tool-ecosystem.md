@@ -72,3 +72,18 @@ The program below is developing; note that submissions currently remain open.
 - **Chris Mungall (Lawrence Berkeley Laboratory): [SparqlProg](https://github.com/cmungall/sparqlprog): Modular Logic Programs for the Semantic Web**
 
   Logic programs (LPs) provide a way to combine data access, inference, and programming in a declarative fashion. SPARQLProg is a framework that allows for compilation and interpretation of LPs to federated SPARQL queries, allowing for  compositionality (it's currently hard to reuse logic from one SPARQL query  in another) and natural weaving of query + program (no impedance mismatch). It has modules and LP fragments for common bio triplestores and vocabs e.g  Wikidata, RHEA, GO + FALDO. The SparqlProg frameworks also includes a Docker container for running a server, and Python bindings.
+
+- **John Graybeal, Martin O'Connor, Marcos Martinez Romero, Attila Egyedi, Mark Musen (Stanford University): [CEDAR](https://metadatacenter.org): Awesome Metadata Sauce**
+
+  The Center for Expanded Data Annotation and Retrieval (CEDAR) was established in 2014 to create a computational ecosystem for development, evaluation, use, and refinement of biomedical metadata. This lightning talk will cover not just what CEDAR can do, but what makes it truly awesome.
+
+  Our approach uses metadata templates, which define the data elements needed to describe particular topics, like biomedical experiments. The templates support controlled terms for establishing field relations and filling out field values.  CEDAR uses a library of such templates to help scientists submit annotated datasets to appropriate online data repositories. We built a framework that supports robust semantic metadata entry for any model, supporting both general and discipline-specific metadata. 
+
+  CEDAR supports end-to-end metadata processes:
+  * community-based organizations collaborating to create metadata templates,
+  * investigators or curators using the templates to define metadata for their digital assets,
+  * scientists searching the metadata to access and analyze the online assets.
+
+  An important feature of the system is the use and development of controlled knowledge resources—ontologies, value sets, vocabularies, common data elements (CDEs), and others—that are appropriate for different disciplines and types of research. We build on existing ontologies, such as the Unified Medical Language System, and using BioPortal also enable users to discover, create, and manage their own knowledge resources.
+
+  The consistent use of controlled terminology aids researchers searching for data. Not only will searches be able to find the common terms that have been suggested as the metadata is created, those terms can be related to other concepts using semantic technologies, and searches can leverage those relationships to identify other related materials.

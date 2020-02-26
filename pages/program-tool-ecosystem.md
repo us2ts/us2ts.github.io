@@ -23,7 +23,7 @@ A full description can be found here: Hilmar Lapp, Rafael Gonçalves. Fostering 
 
 #### Session program
 
-The program below is developing; note that submissions currently remain open.
+The lightning talk part of the program will consist of the following presentations (order remains tentative; submissions are now closed):
 
 - **James A. Overton and Rebecca Jackson (Knocean Inc.): Ontology Automation with [ROBOT](http://robot.obolibrary.org)**.
 

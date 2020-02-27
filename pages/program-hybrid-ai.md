@@ -13,7 +13,7 @@ order: 5
 - Alessandro Oltramari, Bosch Research and Technology Center (Pittsburgh, PA) 
 - Cory Henson, Bosch Research and Technology Center (Pittsburgh, PA) 
 - Ruwan Wickramarachchi, AI Institute, University of South Carolina (Columbia, SC) 
-- Don Brutzman, Naval Postgraduate School (Monterrey, CA) 
+- Don Brutzman, Naval Postgraduate School (Monterey, CA) 
 - Richard Markeloff, Raytheon BBN Technologies (Arlington, VA)
 
 #### Abstract 
@@ -35,7 +35,7 @@ This session aims to illustrate three concrete examples of context-understanding
 - *Introduction: What does it mean for a machine to understand context?* (Oltramari) 
 - *Building Chatbots that understand Commonsense* (Oltramari) 
 - *Understanding Traffic Scenes using Knowledge Graph Embeddings* (Henson, Wickramarachchi) 
-- *Validating UAVs' missions using ontology-based reasoning* (Don Brutzman, Naval Postgraduate School; Richard Markeloff, Raytheon) 
+- *Validating unmanned vehicle missions using ontology-based reasoning* (Don Brutzman, Naval Postgraduate School; Richard Markeloff, Raytheon) 
 - *Q/A and open discussion* 
 
 **Expected participation:** 

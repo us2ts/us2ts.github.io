@@ -25,7 +25,6 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 | **9:00 - 11:00**  | [Intro and Keynote - Louiqa Raschid](https://us2ts.org/keynote-louiqa-raschid) |
 | **11:00 - 11:30**  | Coffee Break  |
 | **11:30 - 1:00**  | [Session: Fostering an Awesome Tool Ecosystem for the Semantic Web](https://us2ts.org/program-tool-ecosystem) |
-|   | [Session: Identifying Best Practices in Multi-paradigm Ontology Family Development](https://us2ts.org/program-ontology-best-practices) |
 | **1:00 - 2:00**  |  Lunch   |
 | **2:00 - 3:30**  | [Session: Next Steps Toward Easier RDF](https://us2ts.org/program-easier-rdf) |
 |   | [Session: (Inter)operational Semantic Resources in Earth and Environmental Science](https://us2ts.org/program-interoperational-earth-environment-semantics) |
@@ -123,13 +122,6 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 - Ruwan Wickramarachchi (University of South Carolina), 
 - Don Brutzman (Naval Postgraduate School), and 
 - Richard Markeloff (Raytheon BBN Technologies)
-
-
-### [**Identifying Best Practices in Multi-paradigm Ontology Family Development**](https://us2ts.org/program-ontology-best-practices)
-
-**Organizers:** 
-- Cogan Shimizu (Kansas State University) and 
-- Evan Wallace (US National Institute of Standards and Technology)
 
 
 ### [**Current and Future Trends of Knowledge Graph Representation and Reasoning**](https://us2ts.org/program-current-future-kr-trends)

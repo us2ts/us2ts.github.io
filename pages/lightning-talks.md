@@ -112,7 +112,7 @@ In this talk, Brian proposes we treat relationships and time as primary componen
 
 #### Speakers
 - William Duncan
-- Chris Mungall
+- Chris Mungall (Lawrence Berkeley National Laboratory)
 
 #### Abstract
 

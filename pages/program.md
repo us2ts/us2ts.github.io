@@ -177,3 +177,27 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 ### [**Semantic Awareness and Application in Chemical Hazard Assessment Workflow**](https://us2ts.org/lightning-talks#chemical-assessment)
 
 **Speakers:** Michelle Angrish (US EPA)
+
+### [**Extending health intervention representation through annotations**](https://us2ts.org/lightning-talks#health-annotations)
+
+**Speakers:** Alexis McClimans
+
+### [**Extending RDF for Immutability**](https://us2ts.org/lightning-talks#rdf-immutability)
+
+**Speakers:** Brian Platz
+
+### [**Using Semantic Technologies to Link Metagenomic Data for the National Microbiome Data Collaborative**](https://us2ts.org/lightning-talks#microbiome)
+
+**Speakers:** William Duncan, Chris Mungall (Lawrence Berkeley National Laboratory)
+
+### [**Secrets to using a graph database for data harmonization and analytics**](https://us2ts.org/lightning-talks#harmonization-analytics)
+
+**Speakers:** Steven Sarsfield, Cambridge Semantics Inc.
+
+### [**Semantic Knowledge Graphs for Machine Learning and Data Science**](https://us2ts.org/lightning-talks#mlkgds)
+
+**Speakers:** Steven Sarsfield, Cambridge Semantics Inc.
+
+### [**Extend the SemWeb by providing High-Performance Analytics and RDF**](https://us2ts.org/lightning-talks#semweb-analytics-rdf)
+
+**Speakers:** Thomas Cook, AnzoGraph

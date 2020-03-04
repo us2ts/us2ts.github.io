@@ -81,3 +81,76 @@ FDA Submission conformance checks can be represented using Shapes Constraint Lan
 #### Abstract
 
 Semantic awareness in the form of controlled vocabularies and ontologies are a natural fit for literature-based chemical assessments deploying systematic review (SR) method workflows. This is because study methods and findings are almost exclusively recorded using written (and highly variable) natural language. While SR methods provide a mechanism for meeting the expectation that an assessment will include the most relevant and robust information, they also present a significant semantic challenge because linguistic variation can obscure concepts and relationships needed for information retrieval and interpretation. In order to maximize the potential of computationally intelligent approaches (i.e. artificial intelligence) and reap the benefits established by the Findable, Accessible, Interoperable, and Reusable (FAIR) data principles, controlled vocabularies and ontologies have been extended as an information digitization strategy in our chemical assessment space. In this lightening talk I will briefly touch upon the application of semantics in our chemical assessment workflows, including information transformation to controlled vocabularies, environmental health finding “ontologization”, ontology mapping, advances made, and challenges faced. The views and opinions expressed here are mine alone and do not reflect official US Environmental Protection Agency policy.
+
+----------------------------------------------------------------
+
+# Extending health intervention representation through annotations
+
+#### Speakers
+- Alexis McClimans
+
+#### Abstract
+
+This presentation will discuss current work being done at the Institute for Health Metrics and Evaluation (IHME) in representing and describing complex health interventions in context for the Cost-Effectiveness Meta-Regression (CEMR) team. The CEMR team’s work informs health policy by thorough analyses of costs, constraints, and cost-effectiveness of health interventions. Within the field of population health, there have been growing efforts towards standardization in classification of health interventions. Although classification schemes exist for representing health interventions, their coverage is either incomplete or targeted towards specific applications, which necessitated CEMR to establish a new standardized method for describing a given intervention. These efforts have resulted in the construction of the Health Interventions Taxonomy (HIT), a flat classification scheme, representing over 2000 complex health interventions.
+
+My research is exploring the applicability of semantic web technology to enrich health intervention representations through the use of compositional annotations. HIT terms represent a combination of discrete components loosely aligning with an intervention target, action, and additional attributes. Through the use of unique identifiers and formal definition of relationships between terms, I hope to achieve greater granularity in CEMR’s ability to represent health interventions and their contexts.
+
+----------------------------------------------------------------
+
+# Extending RDF for Immutability
+
+#### Speakers
+- [Brian Platz](https://www.platz.me/)
+
+#### Abstract
+
+In this talk, Brian proposes we treat relationships and time as primary componentry to a semantic graph implementation, alongside RDF data. The ability for an application to leverage an immutable (time-stamped chronology of events) graph database gives way to a temporal lens for which systems can analyze information. Brian will speak about the benefits of Time Travel (query a state of a graph at a specific point in time), time-joins (the ability to "join" two states of a graph for deeper time-oriented analysis), and how SPARQL Query can leverage Time in a semantic knowledge graph.
+
+----------------------------------------------------------------
+
+# Using Semantic Technologies to Link Metagenomic Data for the National Microbiome Data Collaborative
+
+#### Speakers
+- William Duncan
+- Chris Mungall
+
+#### Abstract
+
+The National Microbiome Data Collaborative (NMDC) is a multi-organizational effort to enable integrated microbiome data across diverse areas in medicine, agriculture, bioenergy, and the environment. Using semantic technologies, we are developing a framework to fully leverage existing microbiome data science resources and high-performance computing systems available within the Department of Energy complex for data access, integration, and advanced analyses. This framework will enable NMDC collaborators to develop microbiome workflows for processing metagenomic, metatranscriptomic, metaproteomic, and metabolomic data.
+
+----------------------------------------------------------------
+
+# Secrets to using a graph database for data harmonization and analytics
+
+#### Speakers
+- [Steven Sarsfield, Cambridge Semantics Inc.](https://www.linkedin.com/in/steve-sarsfield/)
+
+#### Abstract
+
+The extraordinary growth in complex data has left many enterprises struggling to create an integrated, comprehensive view of that data. The high level of technical acumen needed and the cost of managing and transforming massive amounts of disparate data, as well as the shortcomings of traditional data management solutions and architectures, has resulted in a significant underutilization of enterprise data for meaningful analytics and insight.
+
+In recent years, knowledge graphs have emerged as a powerful tool for integrating large volumes of distributed, data, both structured and unstructured. A simplified graph data model available in graph databases helps enterprises achieve this goal in fewer steps and without locking into a single notion of the analytics needed.
+
+In this session, learn how enterprises are using new OLAP technologies for diverse data harmonization and analytics at scale (trillions of triples & more), speed, and deep link insights – to accelerate complex, large-scale data integration initiatives, including those involving massive knowledge graphs.
+
+----------------------------------------------------------------
+
+# Semantic Knowledge Graphs for Machine Learning and Data Science
+
+#### Speakers
+- [Steven Sarsfield, Cambridge Semantics Inc.](https://www.linkedin.com/in/steve-sarsfield/)
+
+#### Abstract
+
+Increasingly machine learning is being applied to a variety of use cases. Data preparation and feature engineering continue to be a manual time-consuming process requiring significant IT involvement, data scientist expertise with limited governance. Knowledge Graphs are starting to be used to automate data preparation, data wrangling and feature engineering, provide rich context for increased insights, and improve governance. Learn why Knowledge Graphs and Graph Analytics are valuable and how companies are using Knowledge Graphs in machine learning and data science.
+
+----------------------------------------------------------------
+
+# Extend the SemWeb by providing High-Performance Analytics and RDF*
+
+#### Speakers
+- [Thomas Cook, AnzoGraph](http://AnzoGraph.com)
+
+#### Abstract
+
+Extend the functionality of your SPARQL endpoint by making it RDF* enabled and allowing high-performance analytics. Many SPARQL endpoints timeout when you try to perform any complex operation, even simple aggregations. Not anymore. Download the Free Edition of AnzoGraph DB to power your SPARQL endpoint and give your users the power of in-memory, MPP processing. Extreme Performance for both query and data loading. Want to add properties to edges and provide other advanced analytics capabilities? You can do that today with RDF* and the Free Edition of AnzoGraph DB. Containerized and ready to deploy in commercial applications on-prem or in the cloud. Completely free of charge for up to 16GB of RAM for processing. Download from: [http://AnzoGraph.com](http://AnzoGraph.com)

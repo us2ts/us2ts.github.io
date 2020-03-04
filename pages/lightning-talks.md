@@ -84,7 +84,7 @@ Semantic awareness in the form of controlled vocabularies and ontologies are a n
 
 ----------------------------------------------------------------
 
-# Extending health intervention representation through annotations
+# Extending health intervention representation through annotations {#health-annotations}
 
 #### Speakers
 - Alexis McClimans
@@ -97,7 +97,7 @@ My research is exploring the applicability of semantic web technology to enrich 
 
 ----------------------------------------------------------------
 
-# Extending RDF for Immutability
+# Extending RDF for Immutability {#rdf-immutability}
 
 #### Speakers
 - [Brian Platz](https://www.platz.me/)
@@ -108,7 +108,7 @@ In this talk, Brian proposes we treat relationships and time as primary componen
 
 ----------------------------------------------------------------
 
-# Using Semantic Technologies to Link Metagenomic Data for the National Microbiome Data Collaborative
+# Using Semantic Technologies to Link Metagenomic Data for the National Microbiome Data Collaborative {#microbiome}
 
 #### Speakers
 - William Duncan
@@ -120,7 +120,7 @@ The National Microbiome Data Collaborative (NMDC) is a multi-organizational effo
 
 ----------------------------------------------------------------
 
-# Secrets to using a graph database for data harmonization and analytics
+# Secrets to using a graph database for data harmonization and analytics {#harmonization-analytics}
 
 #### Speakers
 - [Steven Sarsfield, Cambridge Semantics Inc.](https://www.linkedin.com/in/steve-sarsfield/)
@@ -135,7 +135,7 @@ In this session, learn how enterprises are using new OLAP technologies for diver
 
 ----------------------------------------------------------------
 
-# Semantic Knowledge Graphs for Machine Learning and Data Science
+# Semantic Knowledge Graphs for Machine Learning and Data Science {#mlkgds}
 
 #### Speakers
 - [Steven Sarsfield, Cambridge Semantics Inc.](https://www.linkedin.com/in/steve-sarsfield/)
@@ -146,7 +146,7 @@ Increasingly machine learning is being applied to a variety of use cases. Data p
 
 ----------------------------------------------------------------
 
-# Extend the SemWeb by providing High-Performance Analytics and RDF*
+# Extend the SemWeb by providing High-Performance Analytics and RDF* {#semweb-analytics-rdf}
 
 #### Speakers
 - [Thomas Cook, AnzoGraph](http://AnzoGraph.com)

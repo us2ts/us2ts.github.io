@@ -154,3 +154,32 @@ Increasingly machine learning is being applied to a variety of use cases. Data p
 #### Abstract
 
 Extend the functionality of your SPARQL endpoint by making it RDF* enabled and allowing high-performance analytics. Many SPARQL endpoints timeout when you try to perform any complex operation, even simple aggregations. Not anymore. Download the Free Edition of AnzoGraph DB to power your SPARQL endpoint and give your users the power of in-memory, MPP processing. Extreme Performance for both query and data loading. Want to add properties to edges and provide other advanced analytics capabilities? You can do that today with RDF* and the Free Edition of AnzoGraph DB. Containerized and ready to deploy in commercial applications on-prem or in the cloud. Completely free of charge for up to 16GB of RAM for processing. Download from: [http://AnzoGraph.com](http://AnzoGraph.com)
+
+----------------------------------------------------------------
+
+# Beware of Paving Cowpaths With Semantic Silos
+
+#### Speakers
+- [Michael Uschold, Semantic Arts](https://www.semanticarts.com/)
+
+#### Abstract
+
+Numerous modern day streets in downtown Boston defy logic – until you realize that the city fathers literally paved over the transit system that was used by cows. This gave the immediate benefit of getting places faster, while losing out on longer-term gains that designing a purpose-built street plan could have yielded. In the modern enterprise, replacing existing applications using semantic technology is paving more cowpaths. It recreates the very silos that semantic technology aims to get rid of. We'll tell you what to do instead. 
+
+----------------------------------------------------------------
+
+# NIH Common Fund Metabolomics Consortium People Portal: Build a research graph and portal with open source tools
+
+#### Speakers
+- [Michael Conlon, University of Florida](http://vivo.ufl.edu/individual/mconlon)
+- [Christopher P Barnes, University of Florida](http://vivo.ufl.edu/individual/cpb)
+- [Kevin Hanson, University of Florida](http://vivo.ufl.edu/individual/kshanson)
+- [Taeber Rapczak, University of Florida](http://vivo.ufl.edu/individual/taeber)
+- [Hunter Jarrell, University of Florida](http://vivo.ufl.edu/individual/hunter.jarrell)
+- [Alyssa Kelly, University of Florida](https://vivo.ufl.edu/display/n51363)
+
+#### Abstract
+
+The NIH Common Fund Metabolomics People Portal is a semantic application using open source components and the BFO-based VIVO ontology to build a portal and a research graph of activity in the field of metabolomics. Staring with metadata from the National Metabolomics Data Registry, the portal represents studies, datasets, people, labs, software tools, and papers with metadata from PubMed. The current graph represents over 1200 studies, 1300 investigators, and 17,000 papers dating back to 1977. The portal is used by investigators to find related work and data sets for analysis. The graph will be used by social network analysts to study the collaborative structure of the metabolomics community.
+
+Metabolomics is the study of small molecules in tissue. Metabolomics is used to understand cell biology and disease mechanisms. The NIH Common Fund supports a consortium of 14 sites working to advance the technology of metabolite identification, and the application of metabolomics in biomedicine.

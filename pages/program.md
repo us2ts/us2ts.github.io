@@ -22,45 +22,45 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 
 | **March 9, 2020, Monday** |  |
 | ------------- | ------------- |
-| **9:00 - 11:00**  | [Intro and Keynote - Louiqa Raschid](https://us2ts.org/keynote-louiqa-raschid) |
+| **8:30am**      | Registration opens |
+| **9:30 - 11:00**  | [Intro and Keynote - Louiqa Raschid](https://us2ts.org/keynote-louiqa-raschid) |
 | **11:00 - 11:30**  | Coffee Break  |
-| **11:30 - 1:00**  | [Session: Fostering an Awesome Tool Ecosystem for the Semantic Web](https://us2ts.org/program-tool-ecosystem) |
+| **11:30am - 1:00pm**  | [Session: Fostering an Awesome Tool Ecosystem for the Semantic Web](https://us2ts.org/program-tool-ecosystem) |
 | **1:00 - 2:00**  |  Lunch   |
 | **2:00 - 3:30**  | [Session: Next Steps Toward Easier RDF](https://us2ts.org/program-easier-rdf) |
 |   | [Session: (Inter)operational Semantic Resources in Earth and Environmental Science](https://us2ts.org/program-interoperational-earth-environment-semantics) |
 | **3:30 - 4:00**  | Coffee Break   |
-| **4:00 - 4:30**  | [Invited Talk - Raju Vatsavai](https://us2ts.org/invited-talk-raju)  |
-| **4:30 - 5:00**  | Day 1 Sessions Reports  |
-| **5:00 - 6:00**  | [Lightning Talks](https://us2ts.org/lightning-talks)  |
-| **6:00 - 6:30**  | Travel to Reception  |
-| **6:30 - 9:30**  | Reception |
+| **4:00 - 4:40**  | [Invited Talk - Raju Vatsavai](https://us2ts.org/invited-talk-raju)  |
+| **4:40 – 5:30**  | [Lightning Talks (1)](https://us2ts.org/lightning-talks)  |
+| **5:30 - 6:00**  | Day 1 Sessions Reports  |
+| **6:00 - 6:45**  | Travel to Reception  |
+| **7:00 - 10:00**  | Reception |
 |  |  |
 |  |  |
 | **March 10, 2020, Tuesday** |  |
 | ------------- | ------------- |
-| **9:00 - 11:00**  | [Intro and Keynote - Binil Starly](https://us2ts.org/keynote-binil-starly)  |
+| **9:00am**      | Registration opens |
+| **9:45 - 11:00**  | [Intro and Keynote - Binil Starly](https://us2ts.org/keynote-binil-starly)  |
 | **11:00 - 11:30**  | Coffee Break  |
-| **11:30 - 1:00**  | [Session: Hybrid AI for Context Understanding](https://us2ts.org/program-hybrid-ai) |
+| **11:30am - 1:00pm**  | [Session: Hybrid AI for Context Understanding](https://us2ts.org/program-hybrid-ai) |
 |   | [Session: Current and Future Trends of Knowledge Graph Representation and Reasoning](https://us2ts.org/program-current-future-kr-trends) |
 | **1:00 - 2:00**  |  Lunch   |
 | **2:00 - 3:30**  | [Session: Enterprise Semantic Data](https://us2ts.org/program-enterprise-semantic-data) |
 |   | [Session: JSON-LD as an On Ramp to the Semantic Web: A Tutorial](https://us2ts.org/program-jsonld) |
 | **3:30 - 4:00**  | Coffee Break   |
-| **4:00 - 4:30**  | [Invited Talk - Chaitanya Baru](https://us2ts.org/invited-talk-baru)  |
-| **4:30 - 5:00**  | Day 2 Sessions Reports - [Lightning talks (cont)](https://us2ts.org/lightning-talks)  |
-| **5:00 - 6:30**  | Poster Presentations | 
-|  | Unconference Organization |
-| **6:30 - 9:30**  | Dinner on your own |
+| **4:00 - 4:40**  | [Invited Talk - Chaitanya Baru](https://us2ts.org/invited-talk-baru)  |
+| **4:40 - 5:40**  | [Lightning talks (2)](https://us2ts.org/lightning-talks) & Day 2 Sessions Reports |
+| **5:40 - 6:40**  | Poster Presentations <br/> Unconference Organization |
+| **6:40pm -**  | Dinner on your own |
 |  |  |
 |  |  |
 | **March 11, 2020, Wednesday** |  |
 | ------------- | ------------- |
-| **9:00 - 11:00**  | [Intro and Keynote - Josh Shinavier](https://us2ts.org/keynote-joshua-shinavier)  |
+| **9:45am - 11:00**  | [Intro and Keynote - Josh Shinavier](https://us2ts.org/keynote-joshua-shinavier)  |
 | **11:00 - 11:30**  | Coffee Break  |
-| **11:30 - 1:00**  | Unconference |
+| **11:30am - 1:00pm**  | Unconference |
 | **1:00 - 2:00**  |  Lunch   |
-| **2:00 - 3:30**  | Unconference report-out  | 
-|   | Symposium Reflections, and Closing |
+| **2:00 - 3:30pm**  | Unconference report-out <br/> Symposium Reflections, and Closing |
 
 ----------------------------------------------------------------
 

@@ -201,3 +201,11 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 ### [**Extend the SemWeb by providing High-Performance Analytics and RDF**](https://us2ts.org/lightning-talks#semweb-analytics-rdf)
 
 **Speakers:** Thomas Cook, AnzoGraph
+
+### [**Beware of Paving Cowpaths With Semantic Silos**](https://us2ts.org/lightning-talks#cowpaths)
+
+**Speakers:** Michael Uschold, Semantic Arts
+
+### [**NIH Common Fund Metabolomics Consortium People Portal: Build a research graph and portal with open source tools**](https://us2ts.org/lightning-talks#metabolomics)
+
+**Speakers:** Michael Conlon, University of Florida

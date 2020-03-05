@@ -157,7 +157,7 @@ Extend the functionality of your SPARQL endpoint by making it RDF* enabled and a
 
 ----------------------------------------------------------------
 
-# Beware of Paving Cowpaths With Semantic Silos
+# Beware of Paving Cowpaths With Semantic Silos {#cowpaths}
 
 #### Speakers
 - [Michael Uschold, Semantic Arts](https://www.semanticarts.com/)
@@ -168,7 +168,7 @@ Numerous modern day streets in downtown Boston defy logic – until you realize 
 
 ----------------------------------------------------------------
 
-# NIH Common Fund Metabolomics Consortium People Portal: Build a research graph and portal with open source tools
+# NIH Common Fund Metabolomics Consortium People Portal: Build a research graph and portal with open source tools {#metabolomics}
 
 #### Speakers
 - [Michael Conlon, University of Florida](http://vivo.ufl.edu/individual/mconlon)

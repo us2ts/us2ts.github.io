@@ -11,7 +11,9 @@ order: 1
 
 ----------------------------------------------------------------
 
-**News:** The preliminary [**schedule**](https://us2ts.org/program) for US2TS 2020 is now tentatively published.
+> **News:** The US2TS committee is closely monitoring travel and other emerging restrictions from the coronavirus outbreak. As of March 6, 2020, the North Carolina State University remains fully open and US2TS 2020 is proceeding as scheduled March 9-11, 2020 in Raleigh, NC
+
+**News:** The [**schedule**](https://us2ts.org/program) for US2TS 2020 is published.
 
 **News:** We are pleased to announce that [**Dr. Chaitanya Baru**](https://us2ts.org/invited-talk-baru), Senior Science Advisor at the National Science Foundation, will give an invited talk on the Open Knowledge Network.
 

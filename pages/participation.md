@@ -21,3 +21,5 @@ There is no commitment for you to fill this form out. Even if there is only a sm
 We look forward to your great contributions and participation. See you all on March 9 - 11, 2020, Raleigh, USA.
 
 [https://forms.gle/7VdmyBH6XWFrffQM6]: https://forms.gle/7VdmyBH6XWFrffQM6
+
+> The US2TS committee is closely monitoring travel and other emerging restrictions from the coronavirus outbreak. As of March 6, 2020, the North Carolina State University remains fully open and US2TS 2020 is proceeding as scheduled March 9-11, 2020 in Raleigh, NC

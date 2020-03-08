@@ -208,7 +208,7 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 
 ### [**NIH Common Fund Metabolomics Consortium People Portal: Build a research graph and portal with open source tools**](https://us2ts.org/lightning-talks#metabolomics)
 
-**Speakers:** Michael Conlon, Unive(rsity of Florida
+**Speakers:** Michael Conlon, University of Florida
 
 [Talley Student Union](https://www.google.com/maps?q=2610+Cates+Ave+++Raleigh+NC+27607+US)
 [Hunt Library](https://www.lib.ncsu.edu/huntlibrary)

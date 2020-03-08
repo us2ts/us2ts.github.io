@@ -30,10 +30,10 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 | **2:00 - 3:30**  | [Session: Next Steps Toward Easier RDF](https://us2ts.org/program-easier-rdf) |
 |   | [Session: (Inter)operational Semantic Resources in Earth and Environmental Science](https://us2ts.org/program-interoperational-earth-environment-semantics) |
 | **3:30 - 4:00**  | Coffee Break   |
-| **4:00 - 4:40**  | [Invited Talk - Raju Vatsavai](https://us2ts.org/invited-talk-raju)  |
-| **4:40 – 5:30**  | [Lightning Talks (1)](https://us2ts.org/lightning-talks)  |
-| **5:30 - 6:00**  | Day 1 Sessions Reports  |
-| **6:00 - 6:45**  | Travel to Reception  |
+| **4:00 - 4:30**  | [Invited Talk - Chaitanya Baru](https://us2ts.org/invited-talk-baru)  |
+| **4:35 – 5:35**  | [Lightning Talks (1)](https://us2ts.org/lightning-talks)  |
+| **5:40 - 6:10**  | Day 1 Sessions Reports  |
+| **6:15 - 7:00**  | Travel to Reception  |
 | **7:00 - 10:00**  | Reception |
 |  |  |
 |  |  |
@@ -48,10 +48,10 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 | **2:00 - 3:30**  | [Session: Enterprise Semantic Data](https://us2ts.org/program-enterprise-semantic-data) |
 |   | [Session: JSON-LD as an On Ramp to the Semantic Web: A Tutorial](https://us2ts.org/program-jsonld) |
 | **3:30 - 4:00**  | Coffee Break   |
-| **4:00 - 4:40**  | [Invited Talk - Chaitanya Baru](https://us2ts.org/invited-talk-baru)  |
-| **4:40 - 5:40**  | [Lightning talks (2)](https://us2ts.org/lightning-talks) & Day 2 Sessions Reports |
-| **5:40 - 6:40**  | Poster Presentations <br/> Unconference Organization |
-| **6:40pm -**  | Dinner on your own |
+| **4:00 - 4:30**  | [Invited Talk - Raju Vatsavai](https://us2ts.org/invited-talk-raju)  |
+| **4:35 - 5:45**  | [Lightning talks (2)](https://us2ts.org/lightning-talks) <br/> Day 2 Sessions Reports |
+| **5:45 - 6:45**  | Poster Presentations <br/> Unconference Organization <br/> Ice Cream and Bites reception |
+| **6:45pm -**  | Dinner on your own |
 |  |  |
 |  |  |
 | **March 11, 2020, Wednesday** |  |

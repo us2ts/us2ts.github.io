@@ -20,13 +20,13 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 
 A tentative schedule for the US2TS 2020 Symposium is now available below:
 
-| **March 9, 2020, Monday** |  |
+| **March 9, 2020, Monday** | [Talley Student Union], State Ballroom (3rd floor) |
 | ------------- | ------------- |
 | **8:30am**      | Registration opens |
 | **9:30 - 11:00**  | [Intro and Keynote - Louiqa Raschid](https://us2ts.org/keynote-louiqa-raschid) |
 | **11:00 - 11:30**  | Coffee Break  |
 | **11:30am - 1:00pm**  | [Session: Fostering an Awesome Tool Ecosystem for the Semantic Web](https://us2ts.org/program-tool-ecosystem) |
-| **1:00 - 2:00**  |  Lunch   |
+| **1:00 - 2:00**  |  Lunch (on your own) |
 | **2:00 - 3:30**  | [Session: Next Steps Toward Easier RDF](https://us2ts.org/program-easier-rdf) |
 |   | [Session: (Inter)operational Semantic Resources in Earth and Environmental Science](https://us2ts.org/program-interoperational-earth-environment-semantics) |
 | **3:30 - 4:00**  | Coffee Break   |
@@ -37,14 +37,14 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 | **7:00 - 10:00**  | Reception |
 |  |  |
 |  |  |
-| **March 10, 2020, Tuesday** |  |
+| **March 10, 2020, Tuesday** | [Talley Student Union], State Ballroom (3rd floor) |
 | ------------- | ------------- |
 | **9:00am**      | Registration opens |
 | **9:45 - 11:00**  | [Intro and Keynote - Binil Starly](https://us2ts.org/keynote-binil-starly)  |
 | **11:00 - 11:30**  | Coffee Break  |
 | **11:30am - 1:00pm**  | [Session: Hybrid AI for Context Understanding](https://us2ts.org/program-hybrid-ai) |
 |   | [Session: Current and Future Trends of Knowledge Graph Representation and Reasoning](https://us2ts.org/program-current-future-kr-trends) |
-| **1:00 - 2:00**  |  Lunch   |
+| **1:00 - 2:00**  |  Lunch (on your own) |
 | **2:00 - 3:30**  | [Session: Enterprise Semantic Data](https://us2ts.org/program-enterprise-semantic-data) |
 |   | [Session: JSON-LD as an On Ramp to the Semantic Web: A Tutorial](https://us2ts.org/program-jsonld) |
 | **3:30 - 4:00**  | Coffee Break   |
@@ -54,12 +54,12 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 | **6:45pm -**  | Dinner on your own |
 |  |  |
 |  |  |
-| **March 11, 2020, Wednesday** |  |
+| **March 11, 2020, Wednesday** | [Hunt Library] |
 | ------------- | ------------- |
 | **9:45am - 11:00**  | [Intro and Keynote - Josh Shinavier](https://us2ts.org/keynote-joshua-shinavier)  |
 | **11:00 - 11:30**  | Coffee Break  |
 | **11:30am - 1:00pm**  | Unconference |
-| **1:00 - 2:00**  |  Lunch   |
+| **1:00 - 2:00**  |  Lunch (on your own) |
 | **2:00 - 3:30pm**  | Unconference report-out <br/> Symposium Reflections, and Closing |
 
 ----------------------------------------------------------------
@@ -208,4 +208,7 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 
 ### [**NIH Common Fund Metabolomics Consortium People Portal: Build a research graph and portal with open source tools**](https://us2ts.org/lightning-talks#metabolomics)
 
-**Speakers:** Michael Conlon, University of Florida
+**Speakers:** Michael Conlon, Unive(rsity of Florida
+
+[Talley Student Union](https://www.google.com/maps?q=2610+Cates+Ave+++Raleigh+NC+27607+US)
+[Hunt Library](https://www.lib.ncsu.edu/huntlibrary)

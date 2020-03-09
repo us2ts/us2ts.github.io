@@ -20,7 +20,7 @@ Monday, March 9, 2020 9:00 AM -- Wednesday, March 11, 2020 3:30 PM (Eastern Time
 
 A tentative schedule for the US2TS 2020 Symposium is now available below:
 
-| **March 9, 2020, Monday** | [Talley Student Union], State Ballroom (3rd floor) |
+| **March 9, 2020, Monday** | [Talley Student Union](https://www.google.com/maps?q=2610+Cates+Ave+++Raleigh+NC+27607+US), State Ballroom (3rd floor) |
 | ------------- | ------------- |
 | **8:30am**      | Registration opens |
 | **9:30 - 11:00**  | [Intro and Keynote - Louiqa Raschid](https://us2ts.org/keynote-louiqa-raschid) |
@@ -37,7 +37,7 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 | **7:00 - 10:00**  | Reception |
 |  |  |
 |  |  |
-| **March 10, 2020, Tuesday** | [Talley Student Union], State Ballroom (3rd floor) |
+| **March 10, 2020, Tuesday** | [Talley Student Union](https://www.google.com/maps?q=2610+Cates+Ave+++Raleigh+NC+27607+US), State Ballroom (3rd floor) |
 | ------------- | ------------- |
 | **9:00am**      | Registration opens |
 | **9:45 - 11:00**  | [Intro and Keynote - Binil Starly](https://us2ts.org/keynote-binil-starly)  |
@@ -54,7 +54,7 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 | **6:45pm -**  | Dinner on your own |
 |  |  |
 |  |  |
-| **March 11, 2020, Wednesday** | [Hunt Library] |
+| **March 11, 2020, Wednesday** | [Hunt Library](https://www.lib.ncsu.edu/huntlibrary) |
 | ------------- | ------------- |
 | **9:45am - 11:00**  | [Intro and Keynote - Josh Shinavier](https://us2ts.org/keynote-joshua-shinavier)  |
 | **11:00 - 11:30**  | Coffee Break  |
@@ -209,6 +209,3 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 ### [**NIH Common Fund Metabolomics Consortium People Portal: Build a research graph and portal with open source tools**](https://us2ts.org/lightning-talks#metabolomics)
 
 **Speakers:** Michael Conlon, University of Florida
-
-[Talley Student Union](https://www.google.com/maps?q=2610+Cates+Ave+++Raleigh+NC+27607+US)
-[Hunt Library](https://www.lib.ncsu.edu/huntlibrary)

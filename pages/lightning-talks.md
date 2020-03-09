@@ -186,7 +186,7 @@ Metabolomics is the study of small molecules in tissue. Metabolomics is used to 
 
 ----------------------------------------------------------------
 
-# Explaining AI Explainability: Building a Taxonomy of Explanation Types {#heals}
+# Explaining AI Explainability: Building a Taxonomy of Explanation Types {#explainability}
 
 #### Speakers
 - Shruthi Chari, Rensselaer Polytechnic Institute

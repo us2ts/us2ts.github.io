@@ -210,6 +210,6 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 
 **Speakers:** Michael Conlon, University of Florida
 
-### [**Explaining AI Explainability: Building a Taxonomy of Explanation Types**](https://us2ts.org/lightning-talks#heals)
+### [**Explaining AI Explainability: Building a Taxonomy of Explanation Types**](https://us2ts.org/lightning-talks#explainability)
 
 **Speakers:** Shruthi Chari (RPI), Daniel Gruen (IBM), **Oshani Seneviratne (RPI)**, Morgan Foreman (IBM), Amar K. Das (IBM), Deborah McGuinness (RPI)

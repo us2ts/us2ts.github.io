@@ -13,6 +13,9 @@ order: 5
 - [Hilmar Lapp, Duke University](https://orcid.org/0000-0001-9107-0714) 
 - [Rafael Gonçalves, Stanford University](https://www.rsgoncalves.com/)
 
+#### Survey
+**Please fill out the post-session survey at [https://tinyurl.com/us2ts-tools](https://tinyurl.com/us2ts-tools)**
+
 #### Description
 
 Do you develop tools, libraries, or other resources that are intended to enable, broaden, or apply semantic web technologies? Are you interested in raising the community’s awareness of them? Do you build (semantic web or not) applications (re)using such resources, and have a story to tell? Or have you tried building such applications and discovered shortcomings in the current tool or library ecosystem?

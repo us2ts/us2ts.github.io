@@ -209,3 +209,7 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 ### [**NIH Common Fund Metabolomics Consortium People Portal: Build a research graph and portal with open source tools**](https://us2ts.org/lightning-talks#metabolomics)
 
 **Speakers:** Michael Conlon, University of Florida
+
+### [**Explaining AI Explainability: Building a Taxonomy of Explanation Types**](https://us2ts.org/lightning-talks#heals)
+
+**Speakers:** Shruthi Chari (RPI), Daniel Gruen (IBM), **Oshani Seneviratne (RPI)**, Morgan Foreman (IBM), Amar K. Das (IBM), Deborah McGuinness (RPI)

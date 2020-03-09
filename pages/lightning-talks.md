@@ -183,3 +183,27 @@ Numerous modern day streets in downtown Boston defy logic – until you realize 
 The NIH Common Fund Metabolomics People Portal is a semantic application using open source components and the BFO-based VIVO ontology to build a portal and a research graph of activity in the field of metabolomics. Staring with metadata from the National Metabolomics Data Registry, the portal represents studies, datasets, people, labs, software tools, and papers with metadata from PubMed. The current graph represents over 1200 studies, 1300 investigators, and 17,000 papers dating back to 1977. The portal is used by investigators to find related work and data sets for analysis. The graph will be used by social network analysts to study the collaborative structure of the metabolomics community.
 
 Metabolomics is the study of small molecules in tissue. Metabolomics is used to understand cell biology and disease mechanisms. The NIH Common Fund supports a consortium of 14 sites working to advance the technology of metabolite identification, and the application of metabolomics in biomedicine.
+
+----------------------------------------------------------------
+
+# Explaining AI Explainability: Building a Taxonomy of Explanation Types {#heals}
+
+#### Speakers
+- Shruthi Chari, Rensselaer Polytechnic Institute
+- Daniel Gruen, IBM Research, Cambridge
+- Oshani Seneviratne, Rensselaer Polytechnic Institute
+- Morgan Foreman, IBM Research, Cambridge
+- [Amar K. Das, IBM](http://researcher.watson.ibm.com/researcher/view.php?person=us-amardas)
+- [Deborah McGuinness, Rensselaer Polytechnic Institute](http://tw.rpi.edu/web/person/Deborah_L_McGuinness)
+
+#### Abstract
+
+The proliferation of machine learning (ML) techniques in healthcare and other critical applications has led to a renewed emphasis on developing explainable Artificial Intelligence (AI) models and systems. More specifically, there has been an increased emphasis on tackling explainability from user-centric perspectives. Traditionally, developments in explainable AI have reflected advances in AI, from early expert systems to current ML methods. For example, explanations in second-generation expert systems typically addressWhy, What, and How questions. With ML methods, explainability has focused on interpreting the functioning of black-box models, such as identifying the input features that are associated the most with different outputs. While these explanations of the mechanistic functioning of the AI model are important, a recent report by the National Academy of Medicine emphasizes the need for "enhanced explainability" that considers what needs to be explained and what models support it.
+
+To begin to address the varied needs of explainability, mainly to allow explanations to be tailored differently to situations, contexts, and users' needs and preferences, we have begun to develop a taxonomy of explanation types. Prior efforts to define an explainable AI model or system exist, however, we are unaware of a comprehensive analysis of the breadth and styles of explanations. We have created such a synthesis drawn from literature in computer science, social sciences, and philosophy, and we have identified explanation types from a variety of settings in which explanations are desirable. In this review, we found a lack of consensus among the definitions of these explanation types. To address this ambiguity, we identified different explanation types from review papers, followed the embedded citations, and chose seminal papers defining the types.
+
+Additionally, while explanations can be objectively defined and generated without user input, explainability is a subjective experience and the result of a continuous and co-adaptive process. Our taxonomy, is intended to help determine which explainability needs are relevant to specific types of users and settings. Further, aligning with the clinical focus of our Health Empowerment by Analytics, Learning, and Semantics (HEALS) project, we have defined a prototypical question from a clinical setting for each explanation type that they can address.
+
+As a next step, we plan to build a semantic representation from the basis provided by our taxonomy of explanation types. We believe that a semantic representation would benefit upstream AI tasks, and would provide the ability to alter their explanation facilities to generate explanation types suited to their end-users' requirements and context.
+We are also using our taxonomy to inform user studies that will assess which types of explanation are needed by the user and how to implement them within hybrid AI systems that use both ML and ontology-based reasoning. Finally, we argue that trustworthy and transparent AI systems will need to provide the appropriate explanations that support different forms of reasoning and are adapted to different user requirements. To this end, an understanding and representation of explanation types with varied strengths and focuses, such as the one we are building, will be useful.
+

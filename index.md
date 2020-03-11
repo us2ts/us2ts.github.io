@@ -11,6 +11,8 @@ order: 1
 
 ----------------------------------------------------------------
 
+**News:** ***Bus pickup on Wednesday (March 11) morning is at 9:00am at the Double Tree!***
+
 **News:** Speakers can upload their slides now to the shared [**Google Drive**](http://bit.ly/us2ts2020public) folder now.
 
 **News:** The US2TS committee is closely monitoring travel and other emerging restrictions from the coronavirus outbreak. As of March 6, 2020, the North Carolina State University remains fully open and US2TS 2020 is proceeding as scheduled March 9-11, 2020 in Raleigh.

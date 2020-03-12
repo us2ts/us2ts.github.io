@@ -11,6 +11,10 @@ order: 1
 
 ----------------------------------------------------------------
 
+**News:** Speakers can upload their slides now to the shared [**Google Drive**](http://bit.ly/us2ts2020public) folder now.
+
+----------------------------------------------------------------
+
 Semantic Web is an inherently multi-disciplinary field. The Artificial Intelligence community has contributed much in the way of formal logic and knowledge representation. Similarly, the applied computer science community, along with industry and government agencies, have contributed with application development and testing. With an ever-growing dependence on the web, and the continuously increasing importance of large-scale data sharing, integration, and reuse, natural science researchers, geoscience, biology, library science, health care, the humanities, just to name a few, have also taken an increasing interest in the Semantic Web. Large-scale industrial applications are under way or already deployed.
 
 Yet, the division between computer science, natural science, and academia/government/industry, has a downside. It limits the formation of a coherent national agenda for exploring emerging trends in Semantic Technologies. What are needed are community consolidation and the building of a U.S.-based community research network.
@@ -36,6 +40,8 @@ _Outgoing committee members:_
 [Anna Lisa Gentile]: https://anligentile.github.io
 
 ----------------------------------------------------------------
+
+### Previous Updates
 
 **News:** Speakers can upload their slides now to the shared [**Google Drive**](http://bit.ly/us2ts2020public) folder now.
 

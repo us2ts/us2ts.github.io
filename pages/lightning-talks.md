@@ -207,3 +207,19 @@ Additionally, while explanations can be objectively defined and generated withou
 As a next step, we plan to build a semantic representation from the basis provided by our taxonomy of explanation types. We believe that a semantic representation would benefit upstream AI tasks, and would provide the ability to alter their explanation facilities to generate explanation types suited to their end-users' requirements and context.
 We are also using our taxonomy to inform user studies that will assess which types of explanation are needed by the user and how to implement them within hybrid AI systems that use both ML and ontology-based reasoning. Finally, we argue that trustworthy and transparent AI systems will need to provide the appropriate explanations that support different forms of reasoning and are adapted to different user requirements. To this end, an understanding and representation of explanation types with varied strengths and focuses, such as the one we are building, will be useful.
 
+# X3D Ontology for Semantic Web {#x3dontology}
+
+#### Speakers
+- [Don Brutzman](http://faculty.nps.edu/brutzman/brutzman.html), Naval Postgraduate School
+
+#### Abstract
+
+Extensible 3D (X3D) Graphics is the royalty-free open standard for publishing, viewing, printing and archiving interactive 3D models on the Web.  The [X3D Ontology for Semantic Web](https://www.web3d.org/x3d/content/semantics/semantics.html) provides terms of reference for semantic query of X3D models.
+
+The X3D Semantic Web Working Group mission is to publish models to the Web using X3D in order to best gain Web interoperability and enable intelligent 3D applications, feature-based 3D model querying, and reasoning over 3D scenes.
+
+Motivations
+* Establish best practices for metadata and semantic information/relationships using X3D as a Web-based presentation layer.
+* Enable authors to utilize the power of X3Dv4 and HTML5/DOM together in any Web page utilizing a family of specifications and practices provided by the Semantic Web, such as HTML5 Microdata (microformats) and Linked Open Data, (possibly) MPEG-7 and related references.
+* Align the X3Dv4 specification with these standards as best possible to further enable the Digital Publishing industry and communities.
+* Describe value proposition for utilizing semantic information in concert with archival export, publishing, visualization, and printing of any 3D model as X3D.

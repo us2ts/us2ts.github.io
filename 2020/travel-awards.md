@@ -2,7 +2,7 @@
 layout: page
 title: Travel Support Awards for US2TS 2020
 author: Maulik R. Kamdar
-permalink: travel-awards
+permalink: /2020/travel-awards
 mainnav: false
 sidebartitle: Travel Awards
 sidenav: true

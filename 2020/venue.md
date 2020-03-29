@@ -3,7 +3,7 @@ layout: page
 title: Venue
 sidebartitle: Venue
 author: Maulik R. Kamdar
-permalink: venue
+permalink: /2020/venue
 mainnav: true
 sidenav: true
 published: true

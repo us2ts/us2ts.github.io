@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 author: Maulik R. Kamdar
-permalink: contact
+permalink: /2020/contact
 sidebartitle: Contact
 mainnav: true
 sidenav: true

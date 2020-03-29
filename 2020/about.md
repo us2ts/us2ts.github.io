@@ -2,7 +2,7 @@
 layout: page
 title: About US2TS
 author: Hilmar Lapp
-permalink: about
+permalink: /2020/about
 sidebartitle: About
 published: true
 mainnav: true

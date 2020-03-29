@@ -2,7 +2,7 @@
 layout: page
 title: Lightning Talks
 author: Maulik R. Kamdar
-permalink: lightning-talks
+permalink: /2020/lightning-talks
 mainnav: false
 sidenav: true
 sidebartitle: Lightning Talks

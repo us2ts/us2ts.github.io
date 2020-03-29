@@ -2,7 +2,7 @@
 layout: page
 title: Session - Identifying Best Practices in Multi-paradigm Ontology Family Development
 author: Maulik R. Kamdar
-permalink: program-ontology-best-practices
+permalink: /2020/program-ontology-best-practices
 mainnav: false
 sidenav: false
 published: true

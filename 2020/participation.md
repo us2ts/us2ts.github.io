@@ -3,7 +3,7 @@ layout: page
 title: Call for Intended Participation
 sidebartitle: Call for Intended Participation
 author: Maulik R. Kamdar
-permalink: cfip
+permalink: /2020/cfip
 mainnav: false
 sidenav: false
 published: true

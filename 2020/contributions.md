@@ -3,7 +3,7 @@ layout: page
 title: Call for Contributions
 sidebartitle: Call for Contributions
 author: Maulik R. Kamdar
-permalink: cfc
+permalink: /2020/cfc
 mainnav: false
 sidenav: false
 published: true

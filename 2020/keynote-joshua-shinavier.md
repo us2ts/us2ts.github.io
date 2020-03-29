@@ -2,7 +2,7 @@
 layout: page
 title: Keynote Speaker - Dr. Joshua Shinavier
 author: Maulik R. Kamdar
-permalink: keynote-joshua-shinavier
+permalink: /2020/keynote-joshua-shinavier
 mainnav: false
 sidenav: false
 sidebartitle: Keynote Speaker - Dr. Joshua Shinavier

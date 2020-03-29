@@ -2,7 +2,7 @@
 layout: page
 title: Keynote Speaker - Dr. Binil Starly
 author: Maulik R. Kamdar
-permalink: keynote-binil-starly
+permalink: /2020/keynote-binil-starly
 mainnav: false
 sidenav: false
 sidebartitle: Keynote Speaker - Dr. Binil Starly

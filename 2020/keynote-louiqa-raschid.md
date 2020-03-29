@@ -2,7 +2,7 @@
 layout: page
 title: Keynote Speaker - Dr. Louiqa Raschid
 author: Maulik R. Kamdar
-permalink: keynote-louiqa-raschid
+permalink: /2020/keynote-louiqa-raschid
 mainnav: false
 sidenav: false
 sidebartitle: Keynote Speaker - Dr. Louiqa Raschid

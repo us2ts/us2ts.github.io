@@ -2,7 +2,7 @@
 layout: page
 title: Session - Semantic Enterprise Data - The Good, the Bad and the Ugly
 author: Maulik R. Kamdar
-permalink: program-enterprise-semantic-data
+permalink: /2020/program-enterprise-semantic-data
 mainnav: false
 sidenav: false
 published: true

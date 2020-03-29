@@ -2,7 +2,7 @@
 layout: page
 title: Session - Fostering an awesome tool ecosystem for the semantic web
 author: Maulik R. Kamdar
-permalink: program-tool-ecosystem
+permalink: /2020/program-tool-ecosystem
 mainnav: false
 sidenav: false
 published: true

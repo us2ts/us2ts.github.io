@@ -2,7 +2,7 @@
 layout: page
 title: Session - JSON-LD as an On Ramp to the Semantic Web
 author: Maulik R. Kamdar
-permalink: program-jsonld
+permalink: /2020/program-jsonld
 mainnav: false
 sidenav: false
 published: true

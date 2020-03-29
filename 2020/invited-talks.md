@@ -2,7 +2,7 @@
 layout: page
 title: Invited Talks
 author: Maulik R. Kamdar
-permalink: invited-talks
+permalink: /2020/invited-talks
 mainnav: false
 sidenav: true
 sidebartitle: Invited Talks

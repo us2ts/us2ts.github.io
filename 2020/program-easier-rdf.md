@@ -2,7 +2,7 @@
 layout: page
 title: Session - Next Steps Toward Easier RDF
 author: Maulik R. Kamdar
-permalink: program-easier-rdf
+permalink: /2020/program-easier-rdf
 mainnav: false
 sidenav: false
 published: true

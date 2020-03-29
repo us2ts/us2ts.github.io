@@ -2,7 +2,7 @@
 layout: page
 title: Accepted Sessions
 author: Maulik R. Kamdar
-permalink: accepted-sessions
+permalink: /2020/accepted-sessions
 mainnav: false
 sidenav: true
 sidebartitle: Accepted Sessions

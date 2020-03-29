@@ -2,7 +2,7 @@
 layout: page
 title: Invited Talk - Dr. Raju Vatsavai
 author: Maulik R. Kamdar
-permalink: invited-talk-raju
+permalink: /2020/invited-talk-raju
 mainnav: false
 sidenav: false
 sidebartitle: Invited Talk - Dr. Raju Vatsavai

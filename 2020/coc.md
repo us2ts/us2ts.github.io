@@ -3,7 +3,7 @@ layout: page
 title: US2TS Code of Conduct
 sidebartitle: Code of Conduct
 author: Hilmar Lapp
-permalink: coc
+permalink: /2020/coc
 mainnav: false
 sidenav: true
 published: true

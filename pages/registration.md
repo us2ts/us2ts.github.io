@@ -3,7 +3,7 @@ layout: page
 title: Registration
 sidebartitle: Registration
 author: Maulik R. Kamdar
-permalink: registration
+permalink: /2020/registration
 mainnav: true
 sidenav: true
 published: true

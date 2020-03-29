@@ -2,7 +2,7 @@
 layout: page
 title: Sponsors
 author: Maulik R. Kamdar
-permalink: sponsors
+permalink: /2020/sponsors
 sidebartitle: Sponsors
 published: true
 mainnav: true

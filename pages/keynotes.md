@@ -2,7 +2,7 @@
 layout: page
 title: Keynote Speakers
 author: Maulik R. Kamdar
-permalink: keynotes
+permalink: /2020/keynotes
 mainnav: false
 sidenav: true
 sidebartitle: Keynotes

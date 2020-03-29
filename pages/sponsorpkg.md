@@ -3,7 +3,7 @@ layout: page
 title: US2TS Sponsor Packages
 sidebartitle: Sponsor Packages
 author: Hilmar Lapp
-permalink: sponsor_packages
+permalink: /2020/sponsor_packages
 mainnav: false
 published: true
 order: 6

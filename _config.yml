@@ -53,5 +53,9 @@ exclude:
 plugins:
 #  - jekyll-last-modified-at
 
+collections:
+  2020:
+    output: true
+
 # Theme
 #theme: "ed."

@@ -20,7 +20,7 @@ Try searching for "Precision gear manufacturers in North Carolina that have serv
 
 #### **Biography - Dr. Binil Starly**
 
-[<img src="https://us2ts.org/images/binil-starly.png" alt="Binil Starly" width="20%">](https://www.ise.ncsu.edu/people/bstarly/)
+[<img src="https://us2ts.org/2020/images/binil-starly.png" alt="Binil Starly" width="20%">](https://www.ise.ncsu.edu/people/bstarly/)
 
 [**James T. Ryan Professor, Edward P. Fitts Department of Industrial and Systems Engineering, North Carolina State University**](https://www.ise.ncsu.edu/people/bstarly/)
 

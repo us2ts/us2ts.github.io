@@ -213,3 +213,7 @@ A tentative schedule for the US2TS 2020 Symposium is now available below:
 ### [**Explaining AI Explainability: Building a Taxonomy of Explanation Types**](https://us2ts.org/2020/lightning-talks#explainability)
 
 **Speakers:** Shruthi Chari (RPI), Daniel Gruen (IBM), **Oshani Seneviratne (RPI)**, Morgan Foreman (IBM), Amar K. Das (IBM), Deborah McGuinness (RPI)
+
+### [**X3D Ontology for Semantic Web**](https://us2ts.org/2020/lightning-talks#x3dontology)
+
+**Speakers:** Don Brutzman, Naval Postgraduate School

@@ -24,7 +24,7 @@ There is excellent potential for breakthrough discoveries that exploit Linked Op
 
 #### **Biography - Dr. Louiqa Raschid**
 
-[<img src="https://us2ts.org/images/raschid-louiqa.png" alt="Louiqa Raschid" width="20%">](http://users.umiacs.umd.edu/~louiqa/)
+[<img src="https://us2ts.org/2020/images/raschid-louiqa.png" alt="Louiqa Raschid" width="20%">](http://users.umiacs.umd.edu/~louiqa/)
 
 [**Professor, Smith School of Business and Computer Science, University of Maryland**](http://users.umiacs.umd.edu/~louiqa/)
 

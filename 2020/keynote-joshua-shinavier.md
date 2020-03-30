@@ -20,7 +20,7 @@ The compelling vision of a “giant global graph” of interconnected things, or
 
 #### **Biography - Dr. Joshua Shinavier**
 
-[<img src="https://us2ts.org/images/joshua-shinavier.png" alt="Joshua Shinavier" width="20%">](https://www.linkedin.com/in/joshuashinavier/)
+[<img src="https://us2ts.org/2020/images/joshua-shinavier.png" alt="Joshua Shinavier" width="20%">](https://www.linkedin.com/in/joshuashinavier/)
 
 [**Research Scientist, Uber**](https://www.linkedin.com/in/joshuashinavier/)
 

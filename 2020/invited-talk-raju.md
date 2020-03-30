@@ -20,7 +20,7 @@ Image classification can be of two types: thematic classification and semantic c
 
 #### **Biography - Dr. Raju Vatsavai**
 
-[<img src="https://us2ts.org/images/rrvatsav.png" alt="Raju Vatsavai" width="20%">](https://www.csc.ncsu.edu/people/rrvatsav)
+[<img src="https://us2ts.org/2020/images/rrvatsav.png" alt="Raju Vatsavai" width="20%">](https://www.csc.ncsu.edu/people/rrvatsav)
 
 [**Associate Professor, North Carolina State University**](https://www.csc.ncsu.edu/people/rrvatsav)
 

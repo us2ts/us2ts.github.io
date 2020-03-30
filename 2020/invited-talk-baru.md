@@ -26,7 +26,7 @@ Dear Colleague Letters, program announcements, and/or solicitations. Information
 
 #### **Biography - Dr. Chaitanya Baru**
 
-[<img src="https://us2ts.org/images/chaitanya-baru.png" alt="Chaitanya Baru" width="20%">](https://acid.sdsc.edu/users/chaitan-baru)
+[<img src="https://us2ts.org/2020/images/chaitanya-baru.png" alt="Chaitanya Baru" width="20%">](https://acid.sdsc.edu/users/chaitan-baru)
 
 [Senior Science Advisor, Convergence Accelerator Office, Office of the Director, National Science Foundation](https://acid.sdsc.edu/users/chaitan-baru)
 

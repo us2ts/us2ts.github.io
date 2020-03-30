@@ -12,7 +12,7 @@ order: 6
 
 ----------------------------------------------------------------
 
-### [**(Inter)operational Semantic Resources in Earth and Environmental Science**](https://us2ts.org/program-interoperational-earth-environment-semantics)
+### [**(Inter)operational Semantic Resources in Earth and Environmental Science**](https://us2ts.org/2020/program-interoperational-earth-environment-semantics)
 
 **Organizers:** 
 - Lewis Mcgibbney (NASA), 
@@ -25,14 +25,14 @@ order: 6
 - Ramona Walls (University of Arizona)
 
 
-### [**Fostering an Awesome Tool Ecosystem for the Semantic Web**](https://us2ts.org/program-tool-ecosystem)
+### [**Fostering an Awesome Tool Ecosystem for the Semantic Web**](https://us2ts.org/2020/program-tool-ecosystem)
 
 **Organizers:** 
 - Hilmar Lapp (Duke University) and 
 - Rafael Gonçalves (Stanford University)
 
 
-### [**Hybrid AI for Context Understanding**](https://us2ts.org/program-hybrid-ai)
+### [**Hybrid AI for Context Understanding**](https://us2ts.org/2020/program-hybrid-ai)
 
 **Organizers:** 
 - Alessandro Oltramari (Bosch Research and Technology Center), 
@@ -42,14 +42,14 @@ order: 6
 - Richard Markeloff (Raytheon BBN Technologies)
 
 
-### [**Identifying Best Practices in Multi-paradigm Ontology Family Development**](https://us2ts.org/program-ontology-best-practices)
+### [**Identifying Best Practices in Multi-paradigm Ontology Family Development**](https://us2ts.org/2020/program-ontology-best-practices)
 
 **Organizers:** 
 - Cogan Shimizu (Kansas State University) and 
 - Evan Wallace (US National Institute of Standards and Technology)
 
 
-### [**Current and Future Trends of Knowledge Graph Representation and Reasoning**](https://us2ts.org/program-current-future-kr-trends)
+### [**Current and Future Trends of Knowledge Graph Representation and Reasoning**](https://us2ts.org/2020/program-current-future-kr-trends)
 
 **Organizers:** 
 - Monireh Ebrahimi (Kansas State University), 
@@ -58,7 +58,7 @@ order: 6
 - Amir Hossein Yazdavar (Kansas State University)
 
 
-### [**Semantic Enterprise Data: The Good, the Bad and the Ugly**](https://us2ts.org/program-enterprise-semantic-data)
+### [**Semantic Enterprise Data: The Good, the Bad and the Ugly**](https://us2ts.org/2020/program-enterprise-semantic-data)
 
 **Organizers:** 
 - Juan Sequeda (Data.World),
@@ -66,14 +66,14 @@ order: 6
 - Michael Uschold (Semantic Arts)
 
 
-### [**Next Steps Toward Easier RDF**](https://us2ts.org/program-easier-rdf)
+### [**Next Steps Toward Easier RDF**](https://us2ts.org/2020/program-easier-rdf)
 
 **Organizers:** 
 - David Booth (Yosemite Project) and 
 - Peter Winstanley (Semantic Arts, UK Ltd.)
 
 
-### [**JSON-LD as an On Ramp to the Semantic Web: A Tutorial**](https://us2ts.org/program-jsonld)
+### [**JSON-LD as an On Ramp to the Semantic Web: A Tutorial**](https://us2ts.org/2020/program-jsonld)
 
 **Organizers:**
 - Harold Solbrig (Johns Hopkins University) and

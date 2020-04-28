@@ -14,6 +14,8 @@ order: 4
 
 ## **Dragon: Schema Integration at Uber Scale**
 
+*Slides*: [Dragon: Schema Integration at Uber Scale](https://eng.uber.com/dragon-schema-integration-at-uber-scale/)
+
 #### **Abstract**
 
 The compelling vision of a “giant global graph” of interconnected things, or entities identified by symbols, has been somewhat overshadowed in recent years by the successes of sub-symbolic techniques in big data processing. Certainly, at large tech companies like Uber, you will hear the words “machine learning” far more often than you will hear the words “ontology” or “semantics”. However, most of our data is in fact symbolic at its core, conforming to schemas that can be described in terms of various type algebras. There is enormous untapped potential for data integration and data discovery using controlled vocabularies, the main obstacles being the sheer number and heterogeneity of the schemas, languages, and data modeling practices in use, as well as their conceptual distance from familiar ontology frameworks. What is the simplest unifying abstraction for graph schemas that will carry strongly-typed entities and well-defined relationships into every component of our data infrastructure? Does a “knowledge graph” ultimately belong at the periphery or the center of data modeling efforts of this scale? In this talk, we will explore an algebraic approach to schema integration and a new open source tool named Dragon, both part of a broader data standardization and metadata management effort currently underway at Uber.

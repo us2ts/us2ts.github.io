@@ -11,7 +11,7 @@ order: 1
 
 ----------------------------------------------------------------
 
-**News:** Speakers can upload their slides now to the shared [**Google Drive**](http://bit.ly/us2ts2020public) folder now.
+**News:** Speaker slides are available in the shared [**Google Drive**](http://bit.ly/us2ts2020public) folder now.
 
 ----------------------------------------------------------------
 

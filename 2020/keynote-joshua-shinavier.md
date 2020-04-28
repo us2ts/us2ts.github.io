@@ -12,7 +12,7 @@ order: 4
 
 ----------------------------------------------------------------
 
-## **Taming the Dragon: Schema Integration at Uber Scale**
+## **Dragon: Schema Integration at Uber Scale**
 
 #### **Abstract**
 

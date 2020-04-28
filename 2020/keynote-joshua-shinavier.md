@@ -14,7 +14,7 @@ order: 4
 
 ## **Dragon: Schema Integration at Uber Scale**
 
-*Slides*: [Dragon: Schema Integration at Uber Scale](https://eng.uber.com/dragon-schema-integration-at-uber-scale/)
+**Slides**: [Dragon: Schema Integration at Uber Scale](https://eng.uber.com/dragon-schema-integration-at-uber-scale/)
 
 #### **Abstract**
 

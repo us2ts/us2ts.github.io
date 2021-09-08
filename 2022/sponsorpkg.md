@@ -9,7 +9,7 @@ published: true
 order: 6
 ---
 
-US2TS would not be possible without the generous support of sponsors. We offer the following standard tiers for sponsorship. Special arrangements, whether within or outside one of these tiers, are possible if a sponsor’s needs are not well covered by any of the tiers. If you are interested in sponsoring but require a special arrangement please email contact@us2ts.org.
+US2TS would not be possible without the generous support of sponsors. We offer the following standard tiers for sponsorship. Special arrangements, whether within or outside one of these tiers, are possible if a sponsor’s needs are not well covered by any of the tiers. If you are interested in sponsoring but require a special arrangement please email [US2TS2022@gmail.com](mailto:US2TS2022@gmail.com).
 
 ### Standard Tier
 

@@ -20,7 +20,7 @@ author:
 google_analytics:    'UA-150938475-1'
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: orange
+color-scheme: red 
 
 # Permalinks
 permalink: pretty

@@ -12,7 +12,7 @@ order: 2
 
 The goal of the U.S. Semantic Technologies Symposium series is to bring together the U.S. Semantic Web community and begin forming a research network. We achieve this by supporting communication across disciplinary, organizational, and geographical boundaries. The Symposium events provide a forum by which participants can share information and ideas, coordinate ongoing or planned research activities, foster synthesis and new collaborations, develop community standards, and advance their science and education through communication and the sharing of ideas.
 
-The [inaugural US2TS]({{site.baseurl}}2018) was held in March 2018 at Wright State University, Dayton, Ohio. The [second US2TS]({{site.baseurl}}2019) was held in March 2019 at Duke University, Durham, North Carolina, and the third was held in March 2020 at NC State University, Raleigh, North Carolina.  The fourth was postponed until 2022 and will be held at Michigan State University, East Lansing, MI.
+The <a href="../{{ site.baseurl }}2018" target="_blank">inaugural US2TS</a> was held in March 2018 at Wright State University, Dayton, Ohio. The <a href="../{{ site.baseurl }}2019" target="_blank">second US2TS</a> was held in March 2019 at Duke University, Durham, North Carolina, and the <a href="../{{ site.baseurl }}2020" target="_blank">third US2TS</a> was held in March 2020 at NC State University, Raleigh, North Carolina.  The fourth was postponed until 2022 and will be held at Michigan State University, East Lansing, MI.
 
 ## Steering Committee
 

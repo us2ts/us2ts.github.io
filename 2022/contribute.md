@@ -54,7 +54,7 @@ Please prepare a (max) 2 page submission indicating:
 - The 2/3 person team (names & affiliations) that will lead the session
 - Speakers (when applicable). It is strictly required to specify the speakers if you are proposing a panel, in which case they must be already confirmed.
 - Expected participation (give a prediction of who would be interested in attending your session)
-- Submit your proposal on Easychair: Coming soon.
+- Submit your proposal on <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">Easychair</a>.
 
 ### **Symposium Outcome**
 
@@ -81,7 +81,7 @@ We will have two Lightning Talks sessions. These will be an open forum where any
 - each presenter will have exactly one slide (PDF, landscape, 3:4)
 - each presenter will have 2 minutes (we might adjust the time slightly, according to participation, but at least 2 minutes)
 - presentation slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
-- Submit your talk using Easychair: Coming soon.
+- Submit your talk using <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">Easychair</a>.
 
 ----------------------------------------------------------------
 
@@ -99,6 +99,6 @@ Posters will be displayed throughout the conference. These will be an open forum
 ### **Rules**
 - Poster maximum size - Coming Soon
 - eposter slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
-- Submit your poster abstract using Easychair: Coming Soon.
+- Submit your poster abstract using <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">Easychair</a>.
 
 **We look forward to your great contributions and participation. See you all on March 10 - 12, 2022, East Lansing, MI, USA.**

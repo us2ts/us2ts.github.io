@@ -29,6 +29,17 @@ US2TS would not be possible without the generous support of sponsors. We offer t
 
 **Requested amount: $1,500** (availability as permitted by space for demonstration tables)
 
+### Travel Scholarship Sponsor
+
+* logo on website, listed as travel sponsor
+* Travel sponsorship named after you
+* logo on all event promotions
+* inclusion of flyer (if provided) in conference pack
+* table (and chair if desired) for demonstration or display
+* one free registration
+
+**Requested amnount: $1,000 + travel expenses up to $1,500 x number of participants you wish to support**
+
 ### Special Event Sponsor
 
 * logo on website, listed as social event sponsor

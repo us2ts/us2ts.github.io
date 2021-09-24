@@ -18,7 +18,7 @@ The US2TS Symposium series is an emerging premier forum for fostering community 
 
 Semantics is an inherently multidisciplinary field that attracts engagement from a broad range of researchers and practitioners. Participants at the US2TS come from disciplines in computer science and engineering, natural sciences, geoscience, biology, library science, food science, biomedical and health care sciences, social sciences and the humanities, and many others. Discussions at the symposium cover core topics such as the Semantic Web, Ontologies, Knowledge Graph, Linked Data and AI on the Web, Privacy and Trust, etc., as well as the intersection of such topics with areas such as the Internet of Things (IoT), Artificial Intelligence, and Blockchains.
 
-US2TS 2022 organizational committee invites your contributions and participation in the 2022 edition of US2TS to be held on March 10-12, 2022  in East Lansing, Michigan State University, MI, USA.
+US2TS 2022 organizational committee invites your contributions and participation in the 2022 edition of US2TS to be held on March 9-11, 2022  in East Lansing, Michigan State University, MI, USA.
 
 This year we are welcoming a variety of session proposals, such as proposals for various types of working sessions, hackathons, tutorials, challenges (bring your own “sharks” for a panel!), education and technology tracks!
 

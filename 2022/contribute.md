@@ -63,7 +63,7 @@ Important Dates
 - Deadline for submissions: December 3rd 2021
 - Notifications: December 17th 2021
 - Final program for the sessions: January 14th 2022
-- Symposium dates: March 10-12, 2022
+- Symposium dates: March 9-11, 2022
 
 ----------------------------------------------------------------
 
@@ -101,4 +101,4 @@ Posters will be displayed throughout the conference. These will be an open forum
 - eposter slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
 - Submit your poster abstract using <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">Easychair</a>.
 
-**We look forward to your great contributions and participation. See you all on March 10 - 12, 2022, East Lansing, MI, USA.**
+**We look forward to your great contributions and participation. See you all on March 9 - 11, 2022, East Lansing, MI, USA.**

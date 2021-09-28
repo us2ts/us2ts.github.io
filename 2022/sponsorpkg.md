@@ -17,7 +17,7 @@ US2TS would not be possible without the generous support of sponsors. We offer t
 * logo on all event promotions
 * inclusion of flyer (if provided) in conference pack
 
-**Requested amnount: $1,000**
+**Requested amount: $1,000**
 
 ### Platinum Tier
 

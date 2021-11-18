@@ -18,29 +18,29 @@ We are grateful for the following sponsors, who have generously agreed to financ
 
 ### **Platinum Sponsor**
 
-![Amazon](/2022/images/sponsor-amazon.png)
+[![Amazon](/2022/images/sponsor-amazon.png)](https://aws.amazon.com)
 
 ---
 
 ### **Special Event Sponsor**
 
-![BioTeam](/2022/images/sponsor-bioteam.png)
+[![BioTeam](/2022/images/sponsor-bioteam.png)](https://bioteam.net)
 
 ---
 
 ### **Standard Sponsor**
 
-![ios press](/2022/images/sponsor-iosPress.png)
+[![ios press](/2022/images/sponsor-iosPress.png)](https://www.iospress.com)
 
 ---
 
 ### **Standard Sponsor**
 
-![Raytheon BBN](/2022/images/sponsor-raytheon.png)
+[![Raytheon BBN](/2022/images/sponsor-raytheon.png)](https://www.raytheon.com/ourcompany/bbn)
 
 
 ---
 
 ### **Standard Equivalent Sponsor**
 
-![Taylor-Francis](/2022/images/sponsor-taylorFrancis.jpg)
+[![Taylor-Francis](/2022/images/sponsor-taylorFrancis.jpg)](https://www.tandfonline.com)

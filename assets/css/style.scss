@@ -99,6 +99,10 @@ button {
   border-radius: 10px;
 }
 
+th, td {
+  text-align: left;
+}
+
 @media print {
   .printdiv {page-break-after: always;}
 }

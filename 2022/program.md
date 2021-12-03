@@ -23,11 +23,11 @@ An outline schedule for the US2TS 2022 Symposium is available below:
 | **March 9, 2022, Wednesday** | RCAH Theatre, Snyder Hall, Terrace Level, 362 Bogue St. East Lansing, MI 48825 |
 | ------------- | ------------- |
 | **8:00am**      | Registration opens  -- Continental Breakfast |
-| **10:30 - 11:50**  | Intro and Keynote - Louiqa Raschid |
+| **10:30 - 11:50**  | Intro and Keynote |
 | **Noon - 1:50**  | Lunch and Opening Session |
 | **2:00 - 3:30**  | Session |
 | **3:30 - 4:00**  |  Coffee Break |
-| **4:00 - 4:30**  | Invited Talk - Chaitanya Baru |
+| **4:00 - 4:30**  | Invited Talk |
 | **4:35 – 5:35**  | Lightning Talks (1) |
 | **5:40 - 6:10**  | Day 1 Sessions Reports |
 | **7:00 - 9:00**  | Reception (finger food and cash bar) |

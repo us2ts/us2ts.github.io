@@ -11,7 +11,7 @@ order: 1
 
 ----------------------------------------------------------------
 
-**News:** [Call for Contributions](https://us2ts.org/2022/contribute) is now available.
+**News:** Call for Contributions is now available. [Submission date extended to December 19, 2021.](https://us2ts.org/2022/contribute)
 
 ----------------------------------------------------------------
 

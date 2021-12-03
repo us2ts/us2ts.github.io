@@ -14,6 +14,11 @@ order: 10
 
 # Call for Contributions (2022)
 
+- **Deadline for submissions: December 3rd 2021**
+- **Notifications: December 17th 2021**
+- **Final program for the sessions: January 14th 2022**
+- **Symposium dates: March 9-11, 2022**
+
 The US2TS Symposium series is an emerging premier forum for fostering community between academic, industry and government researchers and practitioners in the US that develop or apply semantic technologies. The interest in semantics has been strengthened by the growing dependence on the Web and the continuously increasing importance of large-scale data sharing, integration, and reuse.
 
 Semantics is an inherently multidisciplinary field that attracts engagement from a broad range of researchers and practitioners. Participants at the US2TS come from disciplines in computer science and engineering, natural sciences, geoscience, biology, library science, food science, biomedical and health care sciences, social sciences and the humanities, and many others. Discussions at the symposium cover core topics such as the Semantic Web, Ontologies, Knowledge Graph, Linked Data and AI on the Web, Privacy and Trust, etc., as well as the intersection of such topics with areas such as the Internet of Things (IoT), Artificial Intelligence, and Blockchains.
@@ -59,11 +64,6 @@ Please prepare a (max) 2 page submission indicating:
 ### **Symposium Outcome**
 
 After the Symposium we will invite all session chairs to co-edit a summary of the event or a position paper, if possible, which will be formally published.
-Important Dates
-- Deadline for submissions: December 3rd 2021
-- Notifications: December 17th 2021
-- Final program for the sessions: January 14th 2022
-- Symposium dates: March 9-11, 2022
 
 ----------------------------------------------------------------
 

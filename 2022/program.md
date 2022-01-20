@@ -12,7 +12,7 @@ order: 4
 
 ### Event Date:
 
-Wednesday, March 9, 2022 10:30 AM – Friday, March 11, 2022 4:00 PM (Eastern Time)
+~~Wednesday, March 9, 2022 10:30 AM – Friday, March 11, 2022 4:00 PM (Eastern Time)~~ New Dates Soon
 
 ----------------------------------------------------------------
 

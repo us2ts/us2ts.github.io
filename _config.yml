@@ -4,7 +4,7 @@
 title:               'U.S. Semantic Technologies Symposium Series'
 editiontitle:        '4th U.S. Semantic Technologies Symposium'
 location:            'Michigan State University, East Lansing, MI'
-date:                'March 9-11, 2022'
+date:                '<s>March 9-11, 2022</s> New Dates Soon'
 description:         'Annual conference for the North-American Semantic Web community'
 url:                 'http://us2ts.org'
 logo:                'us2ts_color.png'
@@ -20,7 +20,7 @@ author:
 google_analytics:    'UA-150938475-1'
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: red 
+color-scheme: red
 
 # Permalinks
 permalink: pretty

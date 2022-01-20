@@ -11,7 +11,9 @@ order: 1
 
 ----------------------------------------------------------------
 
-**News:** Call for Contributions is now available. [Submission date extended to December 19, 2021.](https://us2ts.org/2022/contribute)
+**News:** Due to ongoing concerns about Covid 19, 4th U.S. Semantic Technologies Symposium has been postponed.  The Symposium is postponed and not canceled; we will announce new dates shortly.  With the new dates we will extend the call but if your work has been accepted, our hope is that you will present at the symposium when rescheduled.
+
+We also want to announce the support and funding by the National Science Foundation (NSF) to help students and early career researchers with travel.  More on this soon as well as new dates.
 
 ----------------------------------------------------------------
 

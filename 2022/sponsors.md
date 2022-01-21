@@ -14,6 +14,8 @@ US2TS would not be possible without the generous support of our sponsors. Please
 
 We are grateful for the following sponsors, who have generously agreed to financially support US2TS 2022.
 
+[![National Science Foundation](/2022/images/sponsor-nsf.png)](https://www.nsf.gov)
+
 ---
 
 ### **Platinum Sponsor**
@@ -40,6 +42,7 @@ We are grateful for the following sponsors, who have generously agreed to financ
 
 
 ---
+
 
 ### **Standard Equivalent Sponsor**
 

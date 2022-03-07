@@ -12,7 +12,7 @@ order: 4
 
 ### Event Date:
 
-~~Wednesday, March 9, 2022 10:30 AM – Friday, March 11, 2022 4:00 PM (Eastern Time)~~ New Dates Soon
+Thursday, September 29, 2022 10:30 AM – Saturday, October 1, 2022 4:00 PM (Eastern Time)
 
 ----------------------------------------------------------------
 
@@ -20,7 +20,7 @@ order: 4
 
 An outline schedule for the US2TS 2022 Symposium is available below:
 
-| **March 9, 2022, Wednesday** | RCAH Theatre, Snyder Hall, Terrace Level, 362 Bogue St. East Lansing, MI 48825 |
+| **September 29, 2022, Thursday** | RCAH Theatre, Snyder Hall, Terrace Level, 362 Bogue St. East Lansing, MI 48825 |
 | ------------- | ------------- |
 | **8:00am**      | Registration opens  -- Continental Breakfast |
 | **10:30 - 11:50**  | Intro and Keynote |
@@ -33,7 +33,7 @@ An outline schedule for the US2TS 2022 Symposium is available below:
 | **7:00 - 9:00**  | Reception (finger food and cash bar) |
 |  |  |
 |  |  |
-| **March 10, 2022, Thursday** | **RCAH Theatre, Snyder Hall, Terrace Level** |
+| **September 30, 2022, Friday** | **RCAH Theatre, Snyder Hall, Terrace Level** |
 | ------------- | ------------- |
 | **8:00am** | Registration opens - Continental Breakfast |
 | **9:30 - 10:30**  | [Intro and Keynote |
@@ -49,7 +49,7 @@ An outline schedule for the US2TS 2022 Symposium is available below:
 | **6:45pm -**  | Dinner on your own |
 |  |  |
 |  |  |
-| **March 11, 2022, Friday** | **RCAH Theatre, Snyder Hall, Terrace Level** |
+| **October 1, 2022, Saturday** | **RCAH Theatre, Snyder Hall, Terrace Level** |
 | ------------- | ------------- |
 | **8:00am**  | Registration opens - Continental Breakfast  |
 | **9:30 - 10:30**  | Intro and Keynote |

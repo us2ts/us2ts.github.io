@@ -14,16 +14,16 @@ order: 10
 
 # Call for Contributions (2022)
 
-- **Deadline for submissions: December 19th 2021**
-- **Notifications: January 8th 2022**
-- **Final program for the sessions: January 14th 2022**
-- **Symposium dates: March 9-11, 2022**
+- **Deadline for submissions: June 1st, 2022**
+- **Notifications: July 1st, 2022**
+- **Final program for the sessions: August 30th, 2022**
+- **Symposium dates: Sept. 29 - Oct. 1, 2022**
 
 The US2TS Symposium series is an emerging premier forum for fostering community between academic, industry and government researchers and practitioners in the US that develop or apply semantic technologies. The interest in semantics has been strengthened by the growing dependence on the Web and the continuously increasing importance of large-scale data sharing, integration, and reuse.
 
 Semantics is an inherently multidisciplinary field that attracts engagement from a broad range of researchers and practitioners. Participants at the US2TS come from disciplines in computer science and engineering, natural sciences, geoscience, biology, library science, food science, biomedical and health care sciences, social sciences and the humanities, and many others. Discussions at the symposium cover core topics such as the Semantic Web, Ontologies, Knowledge Graph, Linked Data and AI on the Web, Privacy and Trust, etc., as well as the intersection of such topics with areas such as the Internet of Things (IoT), Artificial Intelligence, and Blockchains.
 
-US2TS 2022 organizational committee invites your contributions and participation in the 2022 edition of US2TS to be held on March 9-11, 2022  in East Lansing, Michigan State University, MI, USA.
+US2TS 2022 organizational committee invites your contributions and participation in the 2022 edition of US2TS to be held on Sept. 29 - Oct. 1, 2022 in East Lansing, Michigan State University, MI, USA.
 
 This year we are welcoming a variety of session proposals, such as proposals for various types of working sessions, hackathons, tutorials, challenges (bring your own “sharks” for a panel!), education and technology tracks!
 
@@ -101,4 +101,4 @@ Posters will be displayed throughout the conference. These will be an open forum
 - eposter slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
 - Submit your poster abstract using <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">Easychair</a>.
 
-**We look forward to your great contributions and participation. See you all on March 9 - 11, 2022, East Lansing, MI, USA.**
+**We look forward to your great contributions and participation. See you all on Sept. 29 - Oct. 1, 2022, East Lansing, MI, USA.**

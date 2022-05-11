@@ -14,7 +14,7 @@ order: 10
 
 # Call for Contributions (2022)
 
-- **Deadline for submissions: June 1st, 2022**
+- **Deadline for submissions: June 20th, 2022**
 - **Notifications: July 1st, 2022**
 - **Final program for the sessions: August 30th, 2022**
 - **Symposium dates: Sept. 29 - Oct. 1, 2022**

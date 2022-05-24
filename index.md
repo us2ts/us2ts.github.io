@@ -11,7 +11,16 @@ order: 1
 
 ----------------------------------------------------------------
 
-**News:** The 4th U.S. Semantic Technologies Symposium has been rescheduled for Thursday, September 29, 2022 - Saturday, October 1, 2022
+**News:** The 4th U.S. Semantic Technologies Symposium has been rescheduled for Thursday, September 29, 2022 - Saturday, October 1, 2022.
+
+As part of the rescheduling, the symposium will be part of the Michigan Week of Ontology and Semantic Web.  The Michigan Week of Ontology and Semantic Web featuring the 4th US2TS and the [13th International Conference on Biomedical Ontology (ICBO)](https://icbo-conference.github.io/icbo2022/).  Back to back the events will be held Sunday, September 25, through Saturday, October 1, 2022.
+
+The dates for each conference are:
+
+- **ICBO**: Sunday, September 25, through Wednesday, September 28
+- **US2TS**: Thursday, September 29, through Saturday, October 1 Travel between Ann Arbor (for ICBO) and East Lansing (for US2TS) takes about one hour and 15 minutes. Joint activities will be arranged for the collaborative Michigan Week.
+
+Stay tuned for more information later …
 
 ----------------------------------------------------------------
 

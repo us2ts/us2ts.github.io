@@ -14,7 +14,7 @@ Registration will soon be open through the US2TS 2022 registration website.
 
 **Early registration cost is $170 Standard and $60 for Students.**
 
-**After February 10, costs rise to $300 and $120, respectively.**
+**Late registration, costs rise to $300 and $120, respectively.**
 
 Registration covers admission to the conference, including the social event. Coffee, water, and snack food will be provided at morning and afternoon breaks, but meals (lunch, dinner) are not covered. The Talley Student Union (see venue information), where the event is held, has a variety of inexpensive food options ($8-11 for lunch, for example), and most vendors will be open during the conference.
 

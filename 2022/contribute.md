@@ -27,6 +27,8 @@ US2TS 2022 organizational committee invites your contributions and participation
 
 This year we are welcoming a variety of session proposals, such as proposals for various types of working sessions, hackathons, tutorials, challenges (bring your own “sharks” for a panel!), education and technology tracks!
 
+For early career scholars and graduate students, we do have NSF funding to support some travel. You can apply [here](https://docs.google.com/forms/d/e/1FAIpQLSf_1kP5TenhOKAmW1M1-ZQMtCjeeSvToGi8L9l-NcSJW_bumg/viewform?usp=pp_url).
+
 ----------------------------------------------------------------
 
 # Call for Session Proposals

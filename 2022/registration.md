@@ -20,6 +20,8 @@ Registration covers admission to the conference, including the social event. Cof
 
 Poster display space is free of charge at least until the end of Early Registration, but limited and allocated first-come first-serve. If you intend to present a poster, please indicate so as part of your registration.
 
-We are trying hard to keep costs of attendance low and affordable. If you require travel support to attend, a limited amount of travel support grants are available for students and early-career professionals (note: deadline for applying is Feb 10).
+We are trying hard to keep costs of attendance low and affordable. If you require travel support to attend, a limited amount of travel support grants are available for students and early-career professionals.
+
+For early career scholars and graduate students, we do have NSF funding to support some travel. You can apply [here](https://docs.google.com/forms/d/e/1FAIpQLSf_1kP5TenhOKAmW1M1-ZQMtCjeeSvToGi8L9l-NcSJW_bumg/viewform?usp=pp_url).
 
 Information about accommodation can be found under the venue information.

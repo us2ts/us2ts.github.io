@@ -12,8 +12,7 @@ order: 9
 
 ## **Venue Address**
 
-RCAH Theatre, Snyder Hall, Terrace Level
-362 Bogue St. East Lansing, MI 48825
+MSU Union, 49 Abbot Rd, East Lansing, MI 48824
 
 ----------------------
 

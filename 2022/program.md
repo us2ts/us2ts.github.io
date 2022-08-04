@@ -20,44 +20,42 @@ Thursday, September 29, 2022 10:30 AM – Saturday, October 1, 2022 4:00 PM (Eas
 
 An outline schedule for the US2TS 2022 Symposium is available below:
 
-| **September 29, 2022, Thursday** | RCAH Theatre, Snyder Hall, Terrace Level, 362 Bogue St. East Lansing, MI 48825 |
+| **September 29, 2022, Thursday** | MSU Union, 49 Abbot Rd, East Lansing, MI 48824 |
 | ------------- | ------------- |
-| **8:00am**      | Registration opens  -- Continental Breakfast |
-| **10:30 - 11:50**  | Intro and Keynote |
-| **Noon - 1:50**  | Lunch and Opening Session |
-| **2:00 - 3:30**  | Session |
-| **3:30 - 4:00**  |  Coffee Break |
-| **4:00 - 4:30**  | Invited Talk |
-| **4:35 – 5:35**  | Lightning Talks (1) |
-| **5:40 - 6:10**  | Day 1 Sessions Reports |
-| **7:00 - 9:00**  | Reception (finger food and cash bar) |
+| **8:30am**      | Introduction and Welcome, Housekeeping |
+| **9:00am**  | Keynote |
+| **10:00am**  | Coffee Break |
+| **10:30am**  | Sessions for Special Interest Groups |
+| **12:00pm**  |  Lunch - Sponsored Talk with Food |
+| **1:00pm**  | Sessions for Special Interest Groups |
+| **2:30pm**  | Break |
+| **3:00pm**  | Sessions for Special Interest Groups |
+| **4:30pm**  | Optional Working Sessions |
+| **6:00pm**  | End |
 |  |  |
 |  |  |
-| **September 30, 2022, Friday** | **RCAH Theatre, Snyder Hall, Terrace Level** |
+| **September 30, 2022, Friday** | **MSU Union** |
 | ------------- | ------------- |
-| **8:00am** | Registration opens - Continental Breakfast |
-| **9:30 - 10:30**  | [Intro and Keynote |
-| **10:30 - 11:00**  | Coffee Break  |
-| **11:00am - 12:30pm**  | Session |
-| **12:30 - 2:00**  |  Lunch (Bird of a feather gatherings) |
-| **2:00 - 3:30**  | Session |
-| **3:30 - 4:00**  | Coffee Break |
-| **4:00 - 4:30**  | Invited Talk |
-| **4:35 - 5:45**  | Lightning talks (2)|
-|   | Day 2 Sessions Reports |
-| **5:45 - 6:45**  | Poster Presentations |
-| **6:45pm -**  | Dinner on your own |
+| **8:30am**      | Introduction and Welcome, Housekeeping |
+| **9:00am**  | Keynote |
+| **10:00am**  | Coffee Break |
+| **10:30am**  | Sessions for Special Interest Groups |
+| **12:00pm**  |  Lunch - Sponsored Talk with Food |
+| **1:00pm**  | Sessions for Special Interest Groups |
+| **2:30pm**  | Break |
+| **3:00pm**  | Sessions for Special Interest Groups |
+| **4:30pm**  | Optional Working Sessions |
+| **6:00pm**  | End |
 |  |  |
 |  |  |
-| **October 1, 2022, Saturday** | **RCAH Theatre, Snyder Hall, Terrace Level** |
+| **October 1, 2022, Saturday** | **MSU Union** |
 | ------------- | ------------- |
-| **8:00am**  | Registration opens - Continental Breakfast  |
-| **9:30 - 10:30**  | Intro and Keynote |
-| **10:30 - 11:00**  | Coffee Break |
-| **11:00 - 12:30**  |  Session |
-| **12:30 - 2:00**  | Lunch Session |
-| **2:00 - 3:30**  | Session - town hall |
-| **3:30 - 4:00**  | Coffee and Symposium Reflections, and Closing |
+| **8:30am**      | Introduction and Welcome, Housekeeping |
+| **9:00am**  | Keynote |
+| **10:00am**  | Coffee Break |
+| **10:30pm**  | Sessions for Special Interest Groups |
+| **12:00pm**  | Town Hall with Brown Bag Lunch|
+| **6:00pm**  | End |
 
 ----------------------------------------------------------------
 

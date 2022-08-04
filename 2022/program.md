@@ -26,12 +26,15 @@ An outline schedule for the US2TS 2022 Symposium is available below:
 | **9:00am**  | Keynote |
 | **10:00am**  | Coffee Break |
 | **10:30am**  | Sessions for Special Interest Groups |
-| **12:00pm**  |  Lunch - Sponsored Talk with Food |
+| **12:00pm**  |  Lunch |
 | **1:00pm**  | Sessions for Special Interest Groups |
 | **2:30pm**  | Break |
-| **3:00pm**  | Sessions for Special Interest Groups |
-| **4:30pm**  | Optional Working Sessions |
-| **6:00pm**  | End |
+| **3:00pm**  | Submitted Talk |
+| **3:15pm**  | Submitted Talk |
+| **3:30pm**  | Submitted Talk |
+| **3:45pm**  | Submitted Talk |
+| **4:00pm**  | Poster |
+| **5:00pm**  | End (Reception at 8:00 pm) |
 |  |  |
 |  |  |
 | **September 30, 2022, Friday** | **MSU Union** |
@@ -55,7 +58,7 @@ An outline schedule for the US2TS 2022 Symposium is available below:
 | **10:00am**  | Coffee Break |
 | **10:30pm**  | Sessions for Special Interest Groups |
 | **12:00pm**  | Town Hall with Brown Bag Lunch|
-| **6:00pm**  | End |
+| **1:00pm**  | End |
 
 ----------------------------------------------------------------
 

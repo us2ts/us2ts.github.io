@@ -18,6 +18,10 @@ We hope you are as excited as we are about your work and its upcoming presentati
 
 **Online Engagement:** Please be mindful of presenters’ privacy when it comes to sharing photos, video, and other presentation content from conference sessions, and abide by any expressed wishes to keep certain content offline. When you do post about the conference on social media, please include #us2ts2022 in your posts and tweets.
 
+**Poster Presentation Expectations:** Posters should preferably be approximately 3'x2' and in landscape orientation. Text and figures should be large enough to read from 1-2 m distance. Posters can be made from paper or fabric. Thumb tacks will be provided. Feel free to provide handouts and business cards as take-aways.
+
+**Session Expectations:** Session organizers are expected to find speakers, develop the agenda, and lead the session. Each room has the capability to include remote participants at the session organizers' discretion. 
+
 If you have any additional questions or require special accommodations, please contact us at [US2TS2022@gmail.com](mailto:US2TS2022@gmail.com)
 
 We wish you safe travels, and we look forward to welcoming you to Michigan State University!

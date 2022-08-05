@@ -22,8 +22,8 @@ An outline schedule for the US2TS 2022 Symposium is available below:
 
 | **September 29, 2022, Thursday** | MSU Union, 49 Abbot Rd, East Lansing, MI 48824 | Room 1 |  Room 2 |
 | ------------- | ------------- |
-| **8:30am**      | Introduction and Welcome, Housekeeping | Suzy Lewis |
-| **9:00am**  | Keynote |
+| **8:30am**      | Introduction and Welcome, Housekeeping | Anne Thessen & Hande Kucuk McGinty |
+| **9:00am**  | Keynote | Suzy Lewis |
 | **10:00am**  | Coffee Break |
 | **10:30am**  | Sessions for Special Interest Groups | Convergence Accelerator | Easier RDF |
 | **12:00pm**  |  Lunch |
@@ -39,7 +39,7 @@ An outline schedule for the US2TS 2022 Symposium is available below:
 |  |  |
 | **September 30, 2022, Friday** | **MSU Union** | **Room 1** |  **Room 2** |
 | ------------- | ------------- |
-| **8:30am**      | Introduction and Welcome, Housekeeping |
+| **8:30am**      | Introduction and Welcome, Housekeeping | Anne Thessen  & Hande Kucuk McGinty |
 | **9:00am**  | Keynote | Amazon Speaker |
 | **10:00am**  | Coffee Break |
 | **10:30am**  | Sessions for Special Interest Groups | Food I | Common-sense reasoning |
@@ -53,7 +53,7 @@ An outline schedule for the US2TS 2022 Symposium is available below:
 |  |  |
 | **October 1, 2022, Saturday** | **MSU Union** | **Room 1** |  **Room 2** |
 | ------------- | ------------- |
-| **8:30am**      | Introduction and Welcome, Housekeeping |
+| **8:30am**      | Introduction and Welcome, Housekeeping | Anne Thessen  & Hande Kucuk McGinty |
 | **9:00am**  | Keynote | John Graybeal |
 | **10:00am**  | Coffee Break |
 | **10:30pm**  | Sessions for Special Interest Groups | Food Shed |

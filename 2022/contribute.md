@@ -11,6 +11,11 @@ order: 10
 ---
 
 ----------------------------------------------------------------
+# Contributions Closed
+
+Submissions are closed except for a limited number of posters, lightning talks, and work sessions. To propose one of these, email [US2TS2022@gmail.com](mailto:US2TS2022@gmail.com). First come first serve until all space is taken.
+
+----------------------------------------------------------------
 
 # Call for Contributions (2022)
 

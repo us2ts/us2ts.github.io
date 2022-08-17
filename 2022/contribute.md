@@ -19,6 +19,8 @@ Submissions are closed except for a limited number of posters, lightning talks, 
 
 # Call for Contributions (2022)
 
+US2TS organizing committee is still accepting poster and lightning talk abstracts for the conference and we encourage session organizers to submit posters. To submit posters, please follow the <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">EasyChair link</a>. We are also taking proposals for working sessions through EasyChair. Please include enough information in the proposal for participants to decide if they want to contribute. There is limited space/time so acceptance will be on a first-come-first-served basis.
+
 - **Deadline for submissions: June 20th, 2022**
 - **Notifications: July 1st, 2022**
 - **Final program for the sessions: August 30th, 2022**

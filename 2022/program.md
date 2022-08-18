@@ -31,23 +31,23 @@ Schedule at a Glance (see talk details below schedule):
 | **2:30pm**  | Break |  | Posters on Display |
 | **3:00pm**  | Submitted Talk | NHANES |
 | **3:15pm**  | Submitted Talk | Hybrid AI |
-| **3:30pm**  | Submitted Talk | GO-MAP |
-| **3:45pm**  | Submitted Talk | TBD |
-| **4:00pm**  | Poster | Posters on Display |
-| **5:00pm**  | End (Reception at 8:00 pm) |
+| **3:30pm**  | Lightning Talks | TBD |
+| **3:45pm**  | Lightning Talks | TBD |
+| **4:00pm**  | Poster | | Posters on Display |
+| **5:00pm**  | End (Reception at 8:00 pm) |  Steering Committee Meeting (Invitation Only) |
 |  |  |
 |  |  |
 | **September 30, 2022, Friday** | **MSU Union** | **Room 1** |  **Room 2** |
 | ------------- | ------------- |
 | **8:30am**      | Introduction and Welcome, Housekeeping | Anne Thessen  & Hande Kucuk McGinty |
-| **9:00am**  | Keynote | Amazon Speaker |
+| **9:00am**  | Keynote | Ora Lassila |
 | **10:00am**  | Coffee Break |
 | **10:30am**  | Sessions for Special Interest Groups | Food & Health I | Common-sense reasoning |
 | **12:00pm**  |  Lunch - Sponsored Talk with Food | BioTeam |
-| **1:00pm**  | Sessions for Special Interest Groups | Food & Health II |
+| **1:00pm**  | Sessions for Special Interest Groups | Food & Health II | Environmental Data Integration |
 | **2:30pm**  | Break |  | Posters on display |
-| **3:00pm**  | Sessions for Special Interest Groups | Food & Health III |
-| **4:30pm**  | Optional Working Sessions | TBD |
+| **3:00pm**  | Sessions for Special Interest Groups | Food & Health III | AI readiness |
+| **4:30pm**  | Optional Working Sessions | TBD | AI readiness |
 | **6:00pm**  | End |
 |  |  |
 |  |  |
@@ -165,12 +165,6 @@ A lack of “common ground” could lead to an erosion of trust in AI, which def
 **Presenter:** Alessandro Oltramari
 
 <br>
-## **Article Navigation Standardized genome-wide function prediction enables comparative functional genomics: a new application area for Gene Ontologies in plants (GO-MAP)**
-The availability of genome-wide gene function annotations enables researchers to generate hypotheses and prioritize candidate genes that may be responsible for phenotypes of interest. In this study, we have functionally annotated 18 crop plant genomes across 14 species using the GOMAP pipeline (Gene Ontology Meta Annotator for Plants; doi.org/10.1186/s13007-021-00754-1). Compared to other GO (Gene Ontology) annotation datasets, GOMAP offers datasets with higher gene coverage and more GO term annotations. We were interested in determining whether the GOMAP-generated datasets could be used to perform comparative functional genomic analyses across the different species of plants. Therefore, we generated dendrograms of functional relatedness based on GO term datasets of the 18 genomes as a proof of concept. The resulting dendrograms were compared to well-established species-level evolutionary phylogenies to assess whether the generated trees were in agreement with known evolutionary relationships, which they largely are. Where discrepancies were observed, we determined branch support based on jack-knifing then removed individual annotation sets by genome to identify the annotation sets causing unexpected relationships. As a conclusion, using GOMAP-generated functional annotations across different plant species generally retain sufficient biological signal to recover known phylogenetics relationships based on genome-wide functional similarities. This shows that comparative functional genomics across species based on GO data hold promise for generating novel hypotheses about comparative gene function and traits.
-
-**Presenters:** Leila Fattel, Dennis Psaroudakis, Colleen Yanarella, Kevin Chiteri, Haley Dostalik, Parnal Joshi, Dollye Starr, Ha Vu, Kokulapalan Wimalanathan, and Carolyn Lawrence-Dill
-
-<br>
 
 ----------------------------------------------------------------
 
@@ -221,6 +215,13 @@ This poster or lightning talk summarizes the authors concepts and ongoing work o
 Recent research has revealed that many machine-learning models and datasets suffer from various forms of bias, and a wide variety of metrics have been developed in order to evaluate a model's fairness. However, there is no one gold standard for fairness evaluation—instead, a model developer must choose  which fairness metrics to use from among dozens.  Additional challenges arise as many metrics have alternate naming schemes, and are not consistent across sources, and are often mutually exclusive. In order to provide guidance in fairness metric selection, understanding, and interpretation, we introduce the Fairness Metrics Ontology (FMO) aimed to provide guidance for choosing metrics aimed initially at machine learning model evaluation. FMO is a single comprehensive knowledge source which defines each fairness metric leveraging existing well-cited literature, describes their use cases, and delineates the inter-relationships between them. In addition, we define additional concepts related to fairness: these are the different types of biases that fairness metrics address, the different categories of fairness metrics, and the underlying statistical metrics used to calculate each fairness metric. Furthermore, we provide concepts related to machine-learning models and datasets, in order to enable the representation of demonstrating the utility of FMO by using it with an OWL reasoner to recommend metrics for specific machine-learning models, and are in the process of developing a system that uses FMO-based knowledge graph representation to compute and track fairness metric information over time.
 
 **Authors:** Jade Franklin, Mohamed Ghalwash, Jamie McCusker, Kristin Bennett, and Deborah McGuinness
+
+<br>
+
+## **Article Navigation Standardized genome-wide function prediction enables comparative functional genomics: a new application area for Gene Ontologies in plants (GO-MAP)**
+The availability of genome-wide gene function annotations enables researchers to generate hypotheses and prioritize candidate genes that may be responsible for phenotypes of interest. In this study, we have functionally annotated 18 crop plant genomes across 14 species using the GOMAP pipeline (Gene Ontology Meta Annotator for Plants; doi.org/10.1186/s13007-021-00754-1). Compared to other GO (Gene Ontology) annotation datasets, GOMAP offers datasets with higher gene coverage and more GO term annotations. We were interested in determining whether the GOMAP-generated datasets could be used to perform comparative functional genomic analyses across the different species of plants. Therefore, we generated dendrograms of functional relatedness based on GO term datasets of the 18 genomes as a proof of concept. The resulting dendrograms were compared to well-established species-level evolutionary phylogenies to assess whether the generated trees were in agreement with known evolutionary relationships, which they largely are. Where discrepancies were observed, we determined branch support based on jack-knifing then removed individual annotation sets by genome to identify the annotation sets causing unexpected relationships. As a conclusion, using GOMAP-generated functional annotations across different plant species generally retain sufficient biological signal to recover known phylogenetics relationships based on genome-wide functional similarities. This shows that comparative functional genomics across species based on GO data hold promise for generating novel hypotheses about comparative gene function and traits.
+
+**Presenters:** Leila Fattel, Dennis Psaroudakis, Colleen Yanarella, Kevin Chiteri, Haley Dostalik, Parnal Joshi, Dollye Starr, Ha Vu, Kokulapalan Wimalanathan, and Carolyn Lawrence-Dill
 
 <br>
 

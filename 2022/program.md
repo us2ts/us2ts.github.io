@@ -12,7 +12,7 @@ order: 4
 
 ### Event Date:
 
-Thursday, September 29, 2022 10:30 AM – Saturday, October 1, 2022 4:00 PM (Eastern Time)
+Thursday, September 29, 2022 10:30 AM – Saturday, October 1, 2022 1:00 PM (Eastern Time)
 
 ----------------------------------------------------------------
 

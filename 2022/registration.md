@@ -12,7 +12,7 @@ order: 3
 
 Registration is now open! [Register here](https://forms.gle/wHojjkfZVAqVNKU57){:target="_blank"}.
 
-**Early registration cost is $170 Standard and $60 for Students.**
+**Early registration cost is $170 Standard and $60 for Students. Last-minute (After September 21st) and on-site registration will double.**
 
 Registration covers admission to the conference, including the social event. Coffee, water, and snack food will be provided at morning and afternoon breaks, but meals (lunch, dinner) are not covered. The Talley Student Union (see venue information), where the event is held, has a variety of inexpensive food options ($8-11 for lunch, for example), and most vendors will be open during the conference.
 

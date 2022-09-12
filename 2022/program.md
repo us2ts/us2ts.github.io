@@ -12,7 +12,7 @@ order: 4
 
 ### Event Date:
 
-Thursday, September 29, 2022 10:30 AM – Saturday, October 1, 2022 4:00 PM (Eastern Time)
+Thursday, September 29, 2022 10:30 AM – Saturday, October 1, 2022 1:00 PM (Eastern Time)
 
 ----------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Schedule at a Glance (see talk details below schedule):
 | **September 29, 2022, Thursday** | MSU Union, 49 Abbot Rd, East Lansing, MI 48824 | Room 1 |  Room 2 |
 | ------------- | ------------- |
 | **8:30am**      | Introduction and Welcome, Housekeeping | Anne Thessen & Hande Kucuk McGinty |
-| **9:00am**  | Keynote | Suzy Lewis |
+| **9:00am**  | Keynote | Nicole Vasilevsky |
 | **10:00am**  | Coffee Break |
 | **10:30am**  | Sessions for Special Interest Groups | Convergence Accelerator | Easier RDF |
 | **12:00pm**  |  Lunch |
@@ -31,7 +31,7 @@ Schedule at a Glance (see talk details below schedule):
 | **2:30pm**  | Break |  | Posters on Display |
 | **3:00pm**  | Submitted Talk | NHANES |
 | **3:15pm**  | Submitted Talk | Hybrid AI |
-| **3:30pm**  | Lightning Talks | TBD |
+| **3:30pm**  | Submitted Talks | COSMO |
 | **3:45pm**  | Lightning Talks | TBD |
 | **4:00pm**  | Poster | | Posters on Display |
 | **5:00pm**  | End (Reception at 8:00 pm) |  Steering Committee Meeting (Invitation Only) |
@@ -46,8 +46,8 @@ Schedule at a Glance (see talk details below schedule):
 | **12:00pm**  |  Lunch - Sponsored Talk with Food | BioTeam |
 | **1:00pm**  | Sessions for Special Interest Groups | Food & Health II | Environmental Data Integration |
 | **2:30pm**  | Break |  | Posters on display |
-| **3:00pm**  | Sessions for Special Interest Groups | Food & Health III | AI readiness |
-| **4:30pm**  | Optional Working Sessions | TBD | AI readiness |
+| **3:00pm - 4:30pm**  | Sessions for Special Interest Groups | Food & Health III | AI readiness |
+| **4:30pm - 6:00pm**  | Sessions for Special Interest Groups | FAIR semantic resources | AI readiness |
 | **6:00pm**  | End |
 |  |  |
 |  |  |
@@ -124,7 +124,7 @@ Knowledge graphs are not merely a set of technologies but a novel paradigm for t
 
 This session will provide an exposition of large-scale knowledge graphs for environmental data integration and intelligence. More specifically, a framework of leveraging spatial and temporal knowledge as the nexus to integrate environmental data of various themes will be emphasized in this tutorial based on real world examples. In addition, an overview of state-of-the-art spatiotemporally-explicit machine learning methods, tools, and their potential as well as limitations addressing geospatial challenges will be discussed in this session.
 
-**Session Organizers:** Rui Zhu, Gengchen Mai, Cogan Shimizu, Shirly Stephen, Thomas Thelen, Ling Cai, Yuanyuan Tian, and Zhining Gu
+**Session Organizers:** Lu Zhou, Gengchen Mai, Cogan Shimizu, Shirly Stephen, Thomas Thelen, Ling Cai, Yuanyuan Tian, and Zhining Gu
 
 <br>
 ## **Semantics of Sustainability: Building a Smart Foodshed Application Ontology (Food Shed)**
@@ -141,6 +141,30 @@ The workshop will conclude by outlining the steps necessary to further cohere id
 _This amendment, to the panel “Semantics of Sustainability: Building a Smart Foodshed Application Ontology”, advances to employ our meta-framework-based participative approach to manage stakeholders’ engagement during the workshop session. We suggest strategies to outline ontological coherent and robust foundations, from the varied session participants’ perspectives, for further developing a Smart Foodshed Application Ontology, to enhance transitioning to healthier and more sustainable food systems._
 
 **Session Organizers:** Giorgio Alberto Ubbiali, Andrea Borghini, Nicola Piras, and Matthew C. Lange
+
+<br>
+
+## **Ontology and Data Readiness for AI/ML (AI Readiness)**
+This US2TS session provides a summary or highlights of the ICBO2022 conference around the theme of “ontology and data readiness for AI/ML”. It is also an extension of the FAIR Ontology Harmonization and TRUST data interoperability session. This session will focus on:
+
+1. What value can ontological engineering bring to supporting AI/ML data readiness?
+2. How can the ontology community best implement such support?
+
+Ontologies provide prior knowledge to AI/ML models, decrease the size of required ML training sets, support AI/ML explainability through definitions, and support consistency checking through explicit logical commitments.
+We aim to bring together domain experts from different biomedical areas to discuss these issues.
+
+**Session Organizer:**  Yongqun “Oliver” He, John Beverley, Sivaram Arabandi, Asiyah Yu Lin, Hande Küçük McGinty
+
+<br>
+
+
+## **Towards FAIR, Trustworthy and Harmonized Semantic Resources (FAIR Semantic Resources)**
+Many diverse ontologies and increasingly Knowledge Graphs (KGs) ,along with other semantic resources like controlled vocabularies, have been developed  across the biomedical and other domains.  These are used for a variety of needs including help make data Findability, Accessibility, Interoperability, and Reuse (FAIR).  To avoid repetitive modeling and represent the common knowledge from different groups/organizations, it is desirable to develop some consensus of FAIRness across a range of relevant semantic resources a semantic spectrum.  This includes such digital representations of structured vocabularies, but also the high levels of domain ontologies and ontology design patterns to support a wide range of use cases.  FAIR principle along with the Transparency, Responsibility, User Focus, Sustainability and Technology (TRUST) principle have been established and accepted by the global scientific community for digital objects. Can principles like these also be applied to help manage and standardize ontologies and other semantic resources and support ample opportunities for semantic resource discovery, trustful use/reuse sharing?
+
+Recently there have been several relevant discussion of FAIR semantic resource concepts at OntoFAIR and FOHTI workshops.  These help address  how the FAIR principles are supported by the use of schemes, vocabulary, and ontologies which are ideally  themselves findable, accesable and interoperable. One well discussed example is how OBO Foundry principles support FAIR aims and how this has been extended with Core Ontology for Biology and Biomedicine (COB) in an effort to provides a set of foundational classes and relations that should be used by all OBO ontologies. A similar effort of standardized relations to bring efforts together has also been discussed for ontology design patterns. A distinguished panel of Chris Mungall, Pascal Hitlzer  and Ramona Walls will discuss steps towards FAIR, Trustworthy and Harmonized Semantic Resources. Expected topics are the role of modularization, the use of Ontology Design Patterns and Reference Ontologies along with some of the challenges and perspectives projects face in adopting FAIR principles for semantic resources.  These include agreed upon metrics for FAIRness assessment; and FAIRness differences between domain and cross-domain ontologies and how they each can support FAIR data.
+
+
+**Session Organizer:**  Gary Berg-Cross
 
 <br>
 
@@ -163,6 +187,15 @@ What is crucial, in this context, is to have a framework guaranteeing that AI-ba
 A lack of “common ground” could lead to an erosion of trust in AI, which defies one of the core purposes of this technology, i.e. to foster human-machine collaboration. Neuro-symbolic AI can play the role of such a framework: in the poster, we present specific methods to harvest experts know-how, combining it with semantically-structured data and ultimately transforming this knowledge corpus into actionable recommendations that experts can follow to make decisions in a timely manner. This transformation occurs through hybrid reasoning, emerging from the interplay between rule-based inferences, a cognitively adequate way to formalize experts' know-how, and machine learning, which can be used to rapidly gain insights from high volumes of data, a process that would otherwise be time consuming and require extraordinary manual effort (e.g., finding errors, recurring patterns, etc.).
 
 **Presenter:** Alessandro Oltramari
+
+<br>
+
+## **Investigating Semantic Primitives Using an OWL-based Ontology**
+The COSMO ontology project was initiated to provide a foundation ontology (FO) to enable broad semantic interoperability by identifying a &quot;logical defining vocabulary&quot; (LDV), a subset of the elements in the FO, that in combination can provide logical specifications for any entity of interest. This effort includes an attempt to identify as many “semantic primitives” (elements that cannot themselves be properly specified by combinations of other elements in the ontology) as can be recognized as needed to provide the basic logical component elements of a broad range of concepts. The OWL format was chosen to allow logical consistency checking in Protégé for the full ontology as it grew larger. As the ontology grew, it became clear that a small ‘top-level’ ontology would be inadequate to provide sufficient detail for multiple independent developers to create unambiguous extensions understandable to each other and adequate for computational consistency. The COMO uses parts of the OpenCYC ontology and the WordNet hierarchy and synset labels. The COSMO currently has over 30,000 OWL:Classes and over 1360 OWL:ObjectProperties relating those classes, with over 20,000 of the most common words of
+English labeling at least one OWL:Class. The project has reached a point where further development will be greatly assisted by feedback from other ontology or database developers to fill in gaps and make modifications important to the various fields that can use a common LDV for interoperability of their applications. One metric for the adequacy of the LDV thus developed is the frequency with which new relations between the classes – the OWL:ObjectProperties – need to be added as new groups of OWL:Classes are added. That metric is presented as a graph.
+
+
+**Presenter:** Patrick Cassidy
 
 <br>
 
@@ -221,7 +254,14 @@ Recent research has revealed that many machine-learning models and datasets suff
 ## **Article Navigation Standardized genome-wide function prediction enables comparative functional genomics: a new application area for Gene Ontologies in plants (GO-MAP)**
 The availability of genome-wide gene function annotations enables researchers to generate hypotheses and prioritize candidate genes that may be responsible for phenotypes of interest. In this study, we have functionally annotated 18 crop plant genomes across 14 species using the GOMAP pipeline (Gene Ontology Meta Annotator for Plants; doi.org/10.1186/s13007-021-00754-1). Compared to other GO (Gene Ontology) annotation datasets, GOMAP offers datasets with higher gene coverage and more GO term annotations. We were interested in determining whether the GOMAP-generated datasets could be used to perform comparative functional genomic analyses across the different species of plants. Therefore, we generated dendrograms of functional relatedness based on GO term datasets of the 18 genomes as a proof of concept. The resulting dendrograms were compared to well-established species-level evolutionary phylogenies to assess whether the generated trees were in agreement with known evolutionary relationships, which they largely are. Where discrepancies were observed, we determined branch support based on jack-knifing then removed individual annotation sets by genome to identify the annotation sets causing unexpected relationships. As a conclusion, using GOMAP-generated functional annotations across different plant species generally retain sufficient biological signal to recover known phylogenetics relationships based on genome-wide functional similarities. This shows that comparative functional genomics across species based on GO data hold promise for generating novel hypotheses about comparative gene function and traits.
 
-**Presenters:** Leila Fattel, Dennis Psaroudakis, Colleen Yanarella, Kevin Chiteri, Haley Dostalik, Parnal Joshi, Dollye Starr, Ha Vu, Kokulapalan Wimalanathan, and Carolyn Lawrence-Dill
+**Authors:** Leila Fattel, Dennis Psaroudakis, Colleen Yanarella, Kevin Chiteri, Haley Dostalik, Parnal Joshi, Dollye Starr, Ha Vu, Kokulapalan Wimalanathan, and Carolyn Lawrence-Dill
+
+<br>
+
+## **Explaining Deep Learning with Background Knowledge**
+Neural networks have successfully answered very complex tasks across many fields. Nonetheless, deep neural networks are still considered black boxes as there is no human interpretable explanation for why the network gave a specific output. We propose identifying hidden layer activation patterns in trained Deep Neural Networks by utilizing an expressive knowledge graph as background knowledge to map it with the dataset with an explanation generation algorithm, i.e., concept induction, to arrive at human-understandable interpretations.
+
+**Author:** Abhilekha Dalal
 
 <br>
 
@@ -229,4 +269,11 @@ The availability of genome-wide gene function annotations enables researchers to
 
 # Lightning Talks {#lightning-talks}
 
-Information coming soon.
+## **Ontology Design for Wikibase**
+Wikibase – which is the software underlying Wikidata – is a powerful platform for knowledge graph creation and management. However, it has been developed with a crowd-sourced knowledge graph creation scenario in mind, which in particular means that it has not been designed for use case scenarios in which a tightly controlled high-quality schema, in the form of an ontology, is to be imposed, and indeed, independently developed ontologies do not necessarily map seamlessly to the Wikibase approach. We report on a preprint [1] in which we provide the key ingredients needed in order to combine traditional ontology modeling with use of the Wikibase platform, namely a set of axiom patterns that bridge the paradigm gap, together with usage instructions and a worked example for historical data.
+
+[1] Cogan Shimizu, Andrew Eells, Seila Gonzalez, Lu Zhou, Pascal Hitzler, Alicia Sheill, Catherine Foley, Dean Rehberger, Ontology Design Facilitating Wikibase Integration - and a Worked Example for Historical Data. https://arxiv.org/abs/2205.14032
+
+**Presenters:** Cogan Shimizu, Andrew Eells, and Pascal Hitzler
+
+<br>

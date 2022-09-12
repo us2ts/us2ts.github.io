@@ -40,6 +40,11 @@ We are grateful for the following sponsors, who have generously agreed to financ
 
 [![Raytheon BBN](/2022/images/sponsor-raytheon.png)](https://www.raytheon.com/ourcompany/bbn)
 
+---
+
+### **Standard Sponsor**
+
+[![bosch](/2022/images/sponsor-bosch.jpg)](https://www.bosch.us)
 
 ---
 

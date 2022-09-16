@@ -64,9 +64,18 @@ Schedule at a Glance (see talk details below schedule):
 
 # Keynotes And Invited Talks {#keynotes}
 
-## **Suzy Lewis**
+## **Nicole Vasilevsky**
+Nicole Vasilevsky’s research focuses on the development and use of semantic technologies to facilitate new knowledge discovery and promote scientific reproducibility as part of the Translational and Integrative Sciences Lab at the University of Colorado Anschutz Medical Campus. Her expertise is in biocuration, and the development of biomedical ontologies and data standards for phenotypes, diseases. and other biomedical domains with the goal of improving disease diagnostics and health outcomes. Additionally, she is active in educational efforts in ontology development and data science.
 
 ## **John Graybeal**
+John Graybeal is a Technical Program Manager at the Stanford Center for Biomedical Informatics Research (BMIR), the home of Protégé (and WebProtégé), BioPortal (and OntoPortal), and CEDAR. Previously he was a Principal Investigator of the Marine Metadata Interoperability Project, which created the MMI Ontology Registry and Repository, and later led to the creation of the ESIP Community Ontology Repository. Most recently he has been heavily involved in metadata and harmonization efforts on behalf of the NIH Rapid Acceleration of Diagnostics RADx Data Hub, and supports the NIH Human Biomolecular Atlas Program (HuBMAP) project, as well as contributing to the Simple Standard for Sharing Ontological Mappings (SSSOM) project.
+
+## **Ora Lassila**
+Ora Lassila is a Principal Graph Technologist in the Amazon Neptune team. Earlier, he was a Managing Director at State Street, heading their efforts to adopt ontologies and graph databases. Before that, he worked as a technology architect at Pegasystems, as an architect and technology strategist at Nokia Location & Commerce (aka HERE), and prior to that he was a Research Fellow at the Nokia Research Center Cambridge. He was an elected member of the Advisory Board of the World Wide Web Consortium (W3C) in 1998-2013, and represented Nokia in the W3C Advisory Committee in 1998-2002. In 1996-1997 he was a Visiting Scientist at MIT Laboratory for Computer Science, working with W3C and launching the Resource Description Framework (RDF) standard; he served as a co-editor of the RDF Model and Syntax specification.
+
+Much of his research work at the Nokia Research Center focused on the Semantic Web and particularly its applications to mobile and ubiquitous computing. He collaborated with several US universities, and was an active participant in the DARPA Agent Markup Language (DAML) program.
+
+His positions before that include Project Manager at the Robotics Institute of Carnegie Mellon University and Research Scientist at the CS Laboratory of Helsinki University of Technology (now Aalto University). He has also worked as a software engineer in several companies (including his own start-up). He is the author of more than 100 conference papers and journal articles. Dr. Lassila holds a Ph.D. in Computer Science from the Helsinki University of Technology (renamed Aalto University some years ago).
 
 ----------------------------------------------------------------
 
@@ -158,13 +167,15 @@ We aim to bring together domain experts from different biomedical areas to discu
 <br>
 
 
-## **Towards FAIR, Trustworthy and Harmonized Semantic Resources (FAIR Semantic Resources)**
-Many diverse ontologies and increasingly Knowledge Graphs (KGs) ,along with other semantic resources like controlled vocabularies, have been developed  across the biomedical and other domains.  These are used for a variety of needs including help make data Findability, Accessibility, Interoperability, and Reuse (FAIR).  To avoid repetitive modeling and represent the common knowledge from different groups/organizations, it is desirable to develop some consensus of FAIRness across a range of relevant semantic resources a semantic spectrum.  This includes such digital representations of structured vocabularies, but also the high levels of domain ontologies and ontology design patterns to support a wide range of use cases.  FAIR principle along with the Transparency, Responsibility, User Focus, Sustainability and Technology (TRUST) principle have been established and accepted by the global scientific community for digital objects. Can principles like these also be applied to help manage and standardize ontologies and other semantic resources and support ample opportunities for semantic resource discovery, trustful use/reuse sharing?
+## **Towards FAIR, Trustworthy and Harmonized Semantic Resources (Part of FOHTI-22: FAIR ontology harmonization and TRUST data interoperability Workshop)(FAIR Semantic Resources)**
+To avoid repetitive modeling and harmonize the common knowledge from different groups/organizations, it is desirable to develop some consensus of FAIRness across a range of relevant semantic resources This includes digital representations of structured vocabularies, but also the high levels of domain ontologies and ontology design patterns to support a wide range of use cases. The FAIR principle along with the Transparency, Responsibility, User Focus, Sustainability and Technology (TRUST) principle have been established and accepted by the global scientific community for digital objects. Can principles like these also be applied to help manage and standardize ontologies and other semantic resources and support opportunities for semantic resource discovery and TRUSTful sharing? Recently there have been several relevant discussions of FAIR semantic resource concepts at the Onto4FAIR and FOHTI workshops. One example is how OBO Foundry principles support FAIR aims and how this has been extended by the Core Ontology for Biology and Biomedicine (COB) in an effort to provide a set of foundational classes and relations that should be used by all OBO ontologies.
 
-Recently there have been several relevant discussion of FAIR semantic resource concepts at OntoFAIR and FOHTI workshops.  These help address  how the FAIR principles are supported by the use of schemes, vocabulary, and ontologies which are ideally  themselves findable, accesable and interoperable. One well discussed example is how OBO Foundry principles support FAIR aims and how this has been extended with Core Ontology for Biology and Biomedicine (COB) in an effort to provides a set of foundational classes and relations that should be used by all OBO ontologies. A similar effort of standardized relations to bring efforts together has also been discussed for ontology design patterns. A distinguished panel of Chris Mungall, Pascal Hitlzer  and Ramona Walls will discuss steps towards FAIR, Trustworthy and Harmonized Semantic Resources. Expected topics are the role of modularization, the use of Ontology Design Patterns and Reference Ontologies along with some of the challenges and perspectives projects face in adopting FAIR principles for semantic resources.  These include agreed upon metrics for FAIRness assessment; and FAIRness differences between domain and cross-domain ontologies and how they each can support FAIR data.
+In this panel, three distinguished ontology architects (Chris Mungall, Pascal Hitlzer  and Ramona Walls) will answer audience questions regarding steps towards FAIR, TRUSTworthy and harmonized semantic resources. Expected topics include the role of modularization, the use of Ontology Design Patterns and Reference Ontologies, and challenges that projects face in adopting FAIR principles for semantic resources.
 
 
-**Session Organizer:**  Gary Berg-Cross
+**Session Organizers:**  Asiyah Lin (NIH), Gary Berg-Cross, Nomi Harris
+Panelists: Pascal Hitzler (Kansas State University), Chris Mungall (Lawrence Berkeley National Laboratory), Ramona Walls (Critical Path Institute)
+
 
 <br>
 
@@ -262,6 +273,13 @@ The availability of genome-wide gene function annotations enables researchers to
 Neural networks have successfully answered very complex tasks across many fields. Nonetheless, deep neural networks are still considered black boxes as there is no human interpretable explanation for why the network gave a specific output. We propose identifying hidden layer activation patterns in trained Deep Neural Networks by utilizing an expressive knowledge graph as background knowledge to map it with the dataset with an explanation generation algorithm, i.e., concept induction, to arrive at human-understandable interpretations.
 
 **Author:** Abhilekha Dalal
+
+<br>
+
+## **Improving Deep Learning Performance Using Background Knowledge**
+Deep Neural Network is a mostly used system for correctly understanding data. Increasing performance of the deep neural network using background knowledge is being explored for many days. In our work, we have used conception induction and knowledge graphs for explaining learning improvements through background knowledge. For this study, we have used the public text dataset and a traditional deep learning model for data analysis. We also prepared a knowledge graph for providing background knowledge for network inputs and ran an analysis through ECII. Then based on the results we’ve explained our findings from the study.
+
+**Authors:** Sulogna Chowdhury and Pascal Hitzler
 
 <br>
 

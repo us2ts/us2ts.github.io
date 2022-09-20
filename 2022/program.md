@@ -34,7 +34,7 @@ Schedule at a Glance (see talk details below schedule):
 | **3:30pm**  | Submitted Talks | COSMO |
 | **3:45pm**  | Lightning Talks | TBD |
 | **4:00pm**  | Poster | | Posters on Display |
-| **5:00pm**  | End (Reception at 8:00 pm) |  Steering Committee Meeting (Invitation Only) |
+| **5:00pm**  | End (Reception at 7:00 pm) |  Steering Committee Meeting (Invitation Only) |
 |  |  |
 |  |  |
 | **September 30, 2022, Friday** | **MSU Union** | **Room 1** |  **Room 2** |

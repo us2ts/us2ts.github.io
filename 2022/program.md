@@ -151,7 +151,7 @@ The workshop will conclude by outlining the steps necessary to further cohere id
 
 _This amendment, to the panel “Semantics of Sustainability: Building a Smart Foodshed Application Ontology”, advances to employ our meta-framework-based participative approach to manage stakeholders’ engagement during the workshop session. We suggest strategies to outline ontological coherent and robust foundations, from the varied session participants’ perspectives, for further developing a Smart Foodshed Application Ontology, to enhance transitioning to healthier and more sustainable food systems._
 
-**Session Organizers:** Giorgio Alberto Ubbiali, Andrea Borghini, Nicola Piras, and Matthew C. Lange
+**Session Organizers:** Giorgio Alberto Ubbiali, Patrick Huber, Kurt Richter, Andrea Borghini, Nicola Piras, and Matthew C. Lange
 
 <br>
 
@@ -282,6 +282,20 @@ Neural networks have successfully answered very complex tasks across many fields
 Deep Neural Network is a mostly used system for correctly understanding data. Increasing performance of the deep neural network using background knowledge is being explored for many days. In our work, we have used conception induction and knowledge graphs for explaining learning improvements through background knowledge. For this study, we have used the public text dataset and a traditional deep learning model for data analysis. We also prepared a knowledge graph for providing background knowledge for network inputs and ran an analysis through ECII. Then based on the results we’ve explained our findings from the study.
 
 **Authors:** Sulogna Chowdhury and Pascal Hitzler
+
+<br>
+
+## **Pointer Network in Deep Deductive Reasoning**
+Deep Deductive Reasoning aims at leveraging modern deep-learning techniques to perform deductive reasoning. The nature of the problem is hard for the deep-learning models to create an embedding such that it extracts the inference rules/logic that lies underneath the symbolic representation that has been presented to the network as input. It is considered to be symbol-invariant. In sequence-to-sequence architecture, what happens is the model tries to learn the relationship between symbols. We have implemented Pointer Network to generate a full inference of a given graph, and the particular configuration of the network resulted in very low accuracy.
+
+**Authors:** Rushrukh Rayan
+
+<br>
+
+## **Deep Supervised Reasoning**
+Deep learning (DL) has emerged in almost every aspect of our life. Besides, it has groundbreaking accuracy and considerable results in various applications; we know little about its reasoning and decision-making behind the scenes. Semantic web technologies have proven to be one of the promising ways to increase the explainability of DL models by providing supervision on how to reason. In this research, we employ an iterative approach named Prototype Learning (PL) to help DL models learn to better reason. PL is an instance-based reasoning approach that tries to find the most relevant examples during each inference in DL models. Our preliminary results show that this method can increase the transparency of the reasoning process of DL models.
+
+**Authors:** Mohammad Saeid Mahdavinejad, Pascal Hitzler
 
 <br>
 

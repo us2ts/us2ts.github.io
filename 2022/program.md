@@ -18,9 +18,11 @@ Thursday, September 29, 2022 10:30 AM – Saturday, October 1, 2022 1:00 PM (Eas
 
 # Schedule
 
-Schedule at a Glance (see talk details below schedule):
+Schedule at a glance (see talk details below schedule):
 
-| **September 29, 2022, Thursday** | MSU Union, 49 Abbot Rd, East Lansing, MI 48824 | Room 1 |  Room 2 |
+**All session will be at MSU Union, 49 Abbot Rd, East Lansing, MI 48824 (except reception).**
+
+| **September 29, 2022, Thursday** | Type | Lake Huron Room, 3rd Floor |  Lake Superior Room, 3rd Floor |
 | ------------- | ------------- |
 | **8:30am**      | Introduction and Welcome, Housekeeping | Anne Thessen & Hande Kucuk McGinty |
 | **9:00am**  | Keynote | Nicole Vasilevsky |
@@ -37,7 +39,7 @@ Schedule at a Glance (see talk details below schedule):
 | **5:00pm**  | End (Reception at 7:00 pm) |  Steering Committee Meeting (Invitation Only) |
 |  |  |
 |  |  |
-| **September 30, 2022, Friday** | **MSU Union** | **Room 1** |  **Room 2** |
+| **September 30, 2022, Friday** | **Type** | **Lake Huron Room, 3rd Floor** |  **Lake Superior Room, 3rd Floor** |
 | ------------- | ------------- |
 | **8:30am**      | Introduction and Welcome, Housekeeping | Anne Thessen  & Hande Kucuk McGinty |
 | **9:00am**  | Keynote | Ora Lassila |
@@ -51,7 +53,7 @@ Schedule at a Glance (see talk details below schedule):
 | **6:00pm**  | End |
 |  |  |
 |  |  |
-| **October 1, 2022, Saturday** | **MSU Union** | **Room 1** |  **Room 2** |
+| **October 1, 2022, Saturday** | **Type** | **Lake Huron Room, 3rd Floor** |  **Lake Superior Room, 3rd Floor** |
 | ------------- | ------------- |
 | **8:30am**      | Introduction and Welcome, Housekeeping | Anne Thessen  & Hande Kucuk McGinty |
 | **9:00am**  | Keynote | John Graybeal |

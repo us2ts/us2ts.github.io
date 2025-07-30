@@ -1,24 +1,22 @@
 ---
 layout: page
-title: 4th U.S. Semantic Technologies Symposium
+title: 5th U.S. Semantic Technologies Symposium
 sidebartitle: Home
 published: true
 mainnav: true
 sidenav: true
-author: Maulik R. Kamdar
+author: Cogan Shimizu
 order: 1
 ---
 
 ----------------------------------------------------------------
 
-**News:** The 4th U.S. Semantic Technologies Symposium has been rescheduled for Thursday, September 29, 2022 - Saturday, October 1, 2022.
-
-As part of the rescheduling, the symposium will be part of the Michigan Week of Ontology and Semantic Web.  The Michigan Week of Ontology and Semantic Web featuring the 4th US2TS and the [13th International Conference on Biomedical Ontology (ICBO)](https://icbo-conference.github.io/icbo2022/).  Back to back the events will be held Sunday, September 25, through Saturday, October 1, 2022.
+**News:** The 4th U.S. Semantic Technologies Symposium will be co-located with 13th International Conference on Knowledge Capture (K-CAP 2025) at Wright State University, Dayton, OH, USA.
 
 The dates for each conference are:
 
-- **ICBO**: Sunday, September 25, through Wednesday, September 28
-- **US2TS**: Thursday, September 29, through Saturday, October 1 Travel between Ann Arbor (for ICBO) and East Lansing (for US2TS) takes about one hour and 15 minutes. Joint activities will be arranged for the collaborative Michigan Week.
+- **US2TS**: Monday, December 8 through Wednesday, December 10.
+- **K-CAP**: Wednesday, December 10, through Friday, December 12.
 
 Stay tuned for more information later …
 
@@ -33,12 +31,12 @@ The goal of the U.S. Semantic Technologies Symposium series is to bring together
 To this end, the 2022 Symposium will be an informal gathering with plenty of time for discussion and breakout sessions. We encourage anyone with an interest in the Semantic Web, regardless of field, to attend.
 
 _Organizing Committee:_
-- Hande Küçük McGinty (General Chair)
-- Anne E Thessen (Program Chair)
-- Dean Rehberger (Local Chair)
+- Cogan Shimizu (General Chair)
+- Rafael Gonçalves (Program Co-Chair)
+- Heng Zheng (Program Co-Chair)
+- Antrea Christou (Local Chair)
 
 _Outgoing committee members:_
-- Hilmar Lapp (Outgoing General Chair)
-- Juan Sequeda (Outgoing Program Chair)
-- Kemafor Anyanwu Ogan (Outgoing Program Chair and Local Chair)
-- Maulik R. Kamdar (Maulik R. Kamdar)
+- Hande Küçük McGinty (Outgoing General Chair)
+- Anne E Thesen (Outgoing Program Chair)
+- Dean Rehberger (Outgoing Local Chair)

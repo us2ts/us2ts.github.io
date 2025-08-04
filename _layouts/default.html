@@ -25,6 +25,9 @@
           </h1>
           <div class="topnav">
             {% assign current_section = page.url | split: '/' | slice: 1, 1 | first %}
+            {% if current_section == "" %}
+              {% assign current_section = "2025" %}
+            {% endif %}
             {% assign pages_list = site.pages | sort:"order" %}
             {% for node in pages_list %}
               {% if node.title != null %}

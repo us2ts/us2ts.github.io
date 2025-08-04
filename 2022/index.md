@@ -1,6 +1,9 @@
 ---
 layout: page
 title: US2TS 2022
+editiontitle: 4th U.S. Semantic Technologies Symposium
+location: Michigan State University, East Lansing, MI
+date: Sept. 29 - Oct. 1, 2022
 permalink: /2022/
 ---
 

@@ -24,12 +24,16 @@
             <br><small><b>{{ page.date | default: site.date }}</b> at {{ page.location | default: site.location }}</small>
           </h1>
           <div class="topnav">
+            {% assign current_section = page.url | split: '/' | slice: 1, 1 | first %}
             {% assign pages_list = site.pages | sort:"order" %}
             {% for node in pages_list %}
               {% if node.title != null %}
                 {% if node.layout == "page" %}
                   {% if node.mainnav %}
-                    <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
+                    {% assign node_section = node.url | split: '/' | slice: 1, 1 | first %}
+                    {% if node_section == current_section %}
+                      <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
+                    {% endif %}
                   {% endif %}
                 {% endif %}
               {% endif %}

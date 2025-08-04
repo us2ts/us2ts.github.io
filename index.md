@@ -11,7 +11,7 @@ order: 1
 
 ----------------------------------------------------------------
 
-**News:** The 4th U.S. Semantic Technologies Symposium will be co-located with 13th International Conference on Knowledge Capture (K-CAP 2025) at Wright State University, Dayton, OH, USA.
+**News:** The 5th U.S. Semantic Technologies Symposium will be co-located with 13th International Conference on Knowledge Capture (K-CAP 2025) at Wright State University, Dayton, OH, USA.
 
 The dates for each conference are:
 
@@ -28,13 +28,15 @@ Yet, the division between computer science, natural science, and academia/govern
 
 The goal of the U.S. Semantic Technologies Symposium series is to bring together the U.S. Semantic Web community and begin forming such a research network. We achieve this by supporting communication across disciplinary, organizational, and geographical boundaries. The Symposium events provide a forum by which participants can share information and ideas, coordinate ongoing or planned research activities, foster synthesis and new collaborations, develop community standards, and advance their science and education through communication and the sharing of ideas.
 
-To this end, the 2022 Symposium will be an informal gathering with plenty of time for discussion and breakout sessions. We encourage anyone with an interest in the Semantic Web, regardless of field, to attend.
+To this end, the 2025 Symposium will be an informal gathering with plenty of time for discussion and breakout sessions. We encourage anyone with an interest in the Semantic Web, regardless of field, to attend.
 
 _Organizing Committee:_
 - Cogan Shimizu (General Chair)
 - Rafael Gonçalves (Program Co-Chair)
 - Heng Zheng (Program Co-Chair)
-- Antrea Christou (Local Chair)
+- Ashutosh Shivakumar — (Local Co-Chair)
+- Antrea Christou (Local Co-Chair)
+- Soheil Abadifard (Web & Publicity Chair)
 
 _Outgoing committee members:_
 - Hande Küçük McGinty (Outgoing General Chair)

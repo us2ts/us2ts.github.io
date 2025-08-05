@@ -52,9 +52,9 @@ We encourage session proposals about cross-discipline topics which are of concer
 Please prepare a (max) 2-page submission indicating:
 - Name of the session
 - Topic: please indicate which cross-discipline topics the session will tackle. Here you can also specify if there is any particular vertical of interest (e.g. legal, life science, medical, publisher/scholarly data, cultural heritage, library, museum, oil/gas, engineering, airplane, e-commerce, etc)
-- Type of session: Panel | Presentations | Break-out discussion | Tutorial | Other (please specify)
+- Type of session: Panel / Presentations / Break-out discussion / Tutorial / Other (please specify)
 - Short description of the session
-- The 2 or 3 person team (names & affiliations) that will lead the session
+- The 2 or 3-person team (names & affiliations) that will lead the session
 - Speakers(when applicable). It is strictly required to specify the speakers if you are proposing a panel, in which case they must be already confirmed.
 - Expected participation (give a prediction of who would be interested in attending your session)
 - Submit your proposal on <a href="https://easychair.org/conferences/?conf=us2ts" target="_blank">EasyChair</a>
@@ -78,7 +78,7 @@ We will have two Lightning Talks sessions. These will be an open forum where any
 
 ### **Submission Guidelines:**
 
-- Each presenter will have <span style="color:yellow">exactly one slide (PDF, landscape, 3:4)</span>.
+- Each presenter will have <span style="color:maroon">exactly one slide (PDF, landscape, 3:4)</span>
 - Each presenter will have 2 minutes (we might adjust the time slightly, according to participation, but at least 2 minutes)
 - Presentation slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
 - Submit your talk using <a href="https://easychair.org/conferences/?conf=us2ts" target="_blank">EasyChair</a>.
@@ -102,6 +102,6 @@ Posters will be displayed throughout the conference. These will be an open forum
 **We look forward to your great contributions and participation. See you all on Dec. 08 - 10, 2025, Wright State University, Dayton, OH, USA.**
 
 # Contact
-All questions about submissions should be emailed to: contact-us2ts2025@googlegroups.com
+All questions about submissions should be emailed to: [contact-us2ts2025@googlegroups.com](mailto:contact-us2ts2025@googlegroups.com).
 
 ----------------------------------------------------------------

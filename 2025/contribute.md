@@ -11,97 +11,97 @@ order: 3
 
 ----------------------------------------------------------------
 
-# Call for Contributions (2025)
+# Important Dates
 
-US2TS organizing committee is accepting poster and lightning talk abstracts for the conference and we encourage session organizers to submit posters. To submit posters, please follow the <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">EasyChair link</a>. We are also taking proposals for working sessions through EasyChair. Please include enough information in the proposal for participants to decide if they want to contribute. There is limited space/time so acceptance will be on a first-come-first-served basis.
-
-- **Deadline for submissions: June 20th, 2025**
-- **Notifications: July 1st, 2025**
-- **Final program for the sessions: August 30th, 2025**
-- **Symposium dates: Sept. 29 - Oct. 1, 2025**
+- **Deadline for Posters & Lightning Talks: August 25th, 2025**
+- **Deadline for Session proposals: August 25th, 2025**
+- **Notifications: September 12th, 2025**
+- **Confirmed outline of the sessions: October 10th, 2025**
+- **Final program for the sessions: November 7th, 2025**
+- **Symposium dates: December 08 - 10, 2025**
 
 The US2TS Symposium series is an emerging premier forum for fostering community between academic, industry and government researchers and practitioners in the US that develop or apply semantic technologies. The interest in semantics has been strengthened by the growing dependence on the Web and the continuously increasing importance of large-scale data sharing, integration, and reuse.
 
-Semantics is an inherently multidisciplinary field that attracts engagement from a broad range of researchers and practitioners. Participants at the US2TS come from disciplines in computer science and engineering, natural sciences, geoscience, biology, library science, food science, biomedical and health care sciences, social sciences and the humanities, and many others. Discussions at the symposium cover core topics such as the Semantic Web, Ontologies, Knowledge Graph, Linked Data and AI on the Web, Privacy and Trust, etc., as well as the intersection of such topics with areas such as the Internet of Things (IoT), Artificial Intelligence, and Blockchains.
+Semantics is an inherently multidisciplinary field that attracts engagement from a broad range of researchers and practitioners. Participants at the US2TS come from disciplines in computer science and engineering, natural sciences, geoscience, biology, library science, food science, biomedical and health care sciences, social sciences and the humanities, and many others. Discussions at the symposium cover core topics such as the Semantic Web, Ontologies, Knowledge Graphs, Linked Data and AI on the Web, Privacy and Trust, etc., as well as the intersection of such topics with areas such as the Internet of Things (IoT), Artificial Intelligence, and Blockchains.
 
-US2TS 2025 organizational committee invites your contributions and participation in the 2025 edition of US2TS to be held on Dec. 08 - 10, 2025 in Wright State University, Dayton, OH, USA.
+**This year, we welcome all kinds of topics related to semantic technologies, especially focusing on explainable AI, openness and reusability of semantic technologies.**
 
-This year we are welcoming a variety of session proposals, such as proposals for various types of working sessions, hackathons, tutorials, challenges (bring your own “sharks” for a panel!), education and technology tracks!
+Semantic technologies are at the forefront of developing explainable AI tools for domains such as law and science, delivering high-quality, trustworthy information to support AI decision-making. As large language models become increasingly widespread across fields, the need for explainable AI has become even more critical, particularly for users who may be unaware of the limitations of current AI systems (e.g., hallucinations and inaccuracies). It is timely and important to explore how the strengths of neural networks can be effectively combined with semantic technologies such as knowledge representation and symbolic logic.
 
-For early career scholars and graduate students, we do have NSF funding to support some travel. You can apply [here](https://docs.google.com/forms/d/e/1FAIpQLSf_1kP5TenhOKAmW1M1-ZQMtCjeeSvToGi8L9l-NcSJW_bumg/viewform?usp=pp_url).
+One of the central themes for this year’s U.S. Semantic Technologies Symposium is **openness and reusability of semantic technologies**. As Semantic Web technologies continue to grow in importance across diverse domains—from biomedicine to environmental sciences to industry—the need for open, interoperable, and reusable tools has become increasingly important. Proprietary solutions and siloed development efforts limit the ability of researchers, developers, and practitioners to build upon each other’s work, slowing innovation and fragmenting the community. Emphasizing openness ensures that semantic technologies are accessible, extensible, and sustainable, while reusability promotes cross-domain applicability and long-term impact. By fostering a culture of open standards, open-source software, shared vocabularies, and best practices for interoperability, we aim to support the development of Semantic Web applications that are robust, transparent, and collaboratively built. 
+
 
 ----------------------------------------------------------------
 
-# Call for Session Proposals
+# Call for Sessions
 
-We solicit anyone with an interest in the Semantic Web to propose a session for US2TS 2025. A session is any relevant activity that can fit into a 90 minutes slot (you can also propose a session that takes more than one slot).
-
-Examples of sessions include:
-- a panel discussion
-- a series of presentations on a topic
-- breakout-style discussions on a proposed topic
-- a tutorial
-- hackathon
-- challenges (bring your own “sharks”)
-- education track
-- technology track
+A session is any relevant activity that can fit into a 90-minute slot (you can also propose a session that takes more than one slot). Examples of sessions are:
+- A panel discussion
+- A series of presentations on a topic
+- Breakout-style discussions on a proposed topic
+- A tutorial, etc.
 
 As the main goal of the Symposium is to foster synergies and collaborations from different fields, we recommend that:
 1. At least 2-3 people, preferably from different institutions, propose the session. This is not a strict requirement, mostly a recommendation (if you have a good case for a different setting we will definitely take your proposal into account).
-2. All the session leaders are asked to confirm and commit to participate at the time of submission.
-3. If your proposal already names speakers or panelists, you must state whether their participation is already confirmed. We encourage session proposals about cross-discipline topics which are of concern for participants from existing sub-communities.
+2. All session leaders are asked to confirm and commit to participate at the time of submission.
+3. If your proposal already names speakers or panelists, you must state whether their participation is already confirmed.
 
-### **Submission Goals**
+We encourage session proposals about cross-discipline topics which are of concern for participants from existing sub-communities
 
-Please prepare a (max) 2 page submission indicating:
-
+### **Submission Guidelines**
+Please prepare a (max) 2-page submission indicating:
 - Name of the session
 - Topic: please indicate which cross-discipline topics the session will tackle. Here you can also specify if there is any particular vertical of interest (e.g. legal, life science, medical, publisher/scholarly data, cultural heritage, library, museum, oil/gas, engineering, airplane, e-commerce, etc)
-- Type of session: Panel / Presentations / Break-out discussion / Tutorial / BOF / Other (please specify)
+- Type of session: Panel | Presentations | Break-out discussion | Tutorial | Other (please specify)
 - Short description of the session
-- The 2/3 person team (names & affiliations) that will lead the session
-- Speakers (when applicable). It is strictly required to specify the speakers if you are proposing a panel, in which case they must be already confirmed.
+- The 2 or 3 person team (names & affiliations) that will lead the session
+- Speakers(when applicable). It is strictly required to specify the speakers if you are proposing a panel, in which case they must be already confirmed.
 - Expected participation (give a prediction of who would be interested in attending your session)
-- Submit your proposal on <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">Easychair</a>.
+- Submit your proposal on <a href="https://easychair.org/conferences/?conf=us2ts" target="_blank">EasyChair</a>
+- Symposium outcome
+- After the Symposium we will invite all session chairs to co-edit a summary of the event, which will be formally published.
 
-### **Symposium Outcome**
-
-After the Symposium we will invite all session chairs to co-edit a summary of the event or a position paper, if possible, which will be formally published.
 
 ----------------------------------------------------------------
 
-# Call for Lightning Talks
+# Call for Lightning Talks & Posters
 
-Deadline for submissions: Open until slots filled (first-come first-served)
+Please submit an abstract (200–250 words) and keywords, indicating whether you are applying for a Lightning Talk or a Poster presentation.
+
+## Lightning Talks
 We will have two Lightning Talks sessions. These will be an open forum where any of the participants can present on a chosen topic. Examples include:
-- late breaking research
-- a position statement
-- blue sky ideas
-- new datasets announcements
-- poster summaries
+- Late breaking research
+- A position statement
+- Blue sky ideas
+- New datasets announcements
+- Poster summaries
 
-### **Rules**
-- each presenter will have exactly one slide (PDF, landscape, 3:4)
-- each presenter will have 2 minutes (we might adjust the time slightly, according to participation, but at least 2 minutes)
-- presentation slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
-- Submit your talk using <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">Easychair</a>.
+### **Submission Guidelines:**
+
+- Each presenter will have <span style="color:yellow">exactly one slide (PDF, landscape, 3:4)</span>.
+- Each presenter will have 2 minutes (we might adjust the time slightly, according to participation, but at least 2 minutes)
+- Presentation slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
+- Submit your talk using <a href="https://easychair.org/conferences/?conf=us2ts" target="_blank">EasyChair</a>.
+
+
+## Posters
+Posters will be displayed throughout the conference. These will be an open forum where any of the participants can present on a chosen topic. Examples include:
+- Late-breaking research
+- A position statement
+- Blue sky ideas
+- New datasets announcements
+- Paper summaries
+
+### **Submission Guidelines:**
+- Poster maximum size - Coming Soon
+- E-poster slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
+- Submit your poster abstract using <a href="https://easychair.org/conferences/?conf=us2ts" target="_blank">EasyChair</a>.
+
 
 ----------------------------------------------------------------
-
-# Call for Posters
-
-Deadline for submissions: December 3rd 2021 (until filled)
-
-Posters will be displayed throughout the conference. These will be an open forum where any of the participants can present on a chosen topic. Examples include:
-- late breaking research
-- a position statement
-- blue sky ideas
-- new datasets announcements
-- poster summaries
-
-### **Rules**
-- Poster maximum size - Coming Soon
-- eposter slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
-- Submit your poster abstract using <a href="https://easychair.org/conferences/?conf=us2ts0" target="_blank">Easychair</a>.
-
 **We look forward to your great contributions and participation. See you all on Dec. 08 - 10, 2025, Wright State University, Dayton, OH, USA.**
+
+# Contact
+All questions about submissions should be emailed to: contact-us2ts2025@googlegroups.com
+
+----------------------------------------------------------------

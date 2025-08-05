@@ -7,7 +7,7 @@ permalink: /2025/registration
 mainnav: true
 sidenav: true
 published: true
-order: 3
+order: 4
 ---
 
 Registration is now open! [Register here](https://forms.gle/wHojjkfZVAqVNKU57){:target="_blank"}.

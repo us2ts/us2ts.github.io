@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Contribute
+title: Call For Contributions
+description: Call for contributions to the US2TS 2025 Symposium, including sessions, lightning
 sidebartitle: Contribute
 permalink: /2025/contribute
 mainnav: true

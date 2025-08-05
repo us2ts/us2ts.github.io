@@ -16,12 +16,12 @@ We hope you are as excited as we are about your work and its upcoming presentati
 
 **Audio/Visual Equipment:** Your presentation room will be equipped with: an Internet-connected PC, a projector screen, and an HDMI hookup. You are strongly encouraged to save and store your presentation in a way that enables you to access it easily, e.g. via USB drive, Dropbox, Google Drive, or other cloud-based platform. If you choose to bring your own personal computer for presentation purposes, please bring any additional adapters or equipment necessary to ensure the success of your presentation.
 
-**Online Engagement:** Please be mindful of presenters’ privacy when it comes to sharing photos, video, and other presentation content from conference sessions, and abide by any expressed wishes to keep certain content offline. When you do post about the conference on social media, please include #us2ts2022 in your posts and tweets.
+**Online Engagement:** Please be mindful of presenters’ privacy when it comes to sharing photos, video, and other presentation content from conference sessions, and abide by any expressed wishes to keep certain content offline. When you do post about the conference on social media, please include #us2ts2025 in your posts and tweets.
 
 **Poster Presentation Expectations:** Posters should preferably be approximately 3'x2' and in landscape orientation. Text and figures should be large enough to read from 1-2 m distance. Posters can be made from paper or fabric. Thumb tacks will be provided. Feel free to provide handouts and business cards as take-aways.
 
 **Session Expectations:** Session organizers are expected to find speakers, develop the agenda, and lead the session. Each room has the capability to include remote participants at the session organizers' discretion. 
 
-If you have any additional questions or require special accommodations, please contact us at [US2TS2022@gmail.com](mailto:US2TS2022@gmail.com)
+If you have any additional questions or require special accommodations, please contact us at [contact-us2ts2025@googlegroups.com](mailto:contact-us2ts2025@googlegroups.com)
 
-We wish you safe travels, and we look forward to welcoming you to Michigan State University!
+We wish you safe travels, and we look forward to welcoming you to Wright State University!

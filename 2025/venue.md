@@ -46,10 +46,7 @@ Some nearby hotels include:
 - [Hampton Inn](https://www.hilton.com/en/brands/hampton-by-hilton/)
 
 Please check with your hotel directly regarding airport shuttle services and parking availability.
-<!--
-## **Dining**
-The Symposium will provide continental breakfast and some lunches, but there are numerous dining options available near the university and in the surrounding Fairborn and Beavercreek areas. We recommend using your favorite dining app or searching online for local restaurants.
--->
+
 ----------------------
 
 ## **Local Attractions**

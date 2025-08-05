@@ -31,6 +31,7 @@ If you are driving, we recommend using a GPS for the most accurate directions. T
 ## **Accommodation**
 
 There are several hotels located very close to the Wright State University campus. We recommend booking your accommodations in advance. You can find the map of area with hotels here: [Google Maps](https://www.google.com/maps/search/Hotels/@39.778748,-84.0689051,15.64z?entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D)!
+
 **`Caution:`** When booking, please confirm the distance from your hotel to the conference venue at Wright State University.
 
 Some nearby hotels include:

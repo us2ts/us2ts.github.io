@@ -10,6 +10,8 @@ published: true
 order: 4
 ---
 
+The program for the 2025 U.S. Semantic Technologies Symposium (US2TS) is still being finalized and will be updated as we get closer to the event date.
+<!--
 ### Event Date:
 
 Monday, December 8, 2025 TBD AM – Tuesday, December 9, 2025 TBD PM (Eastern Time)
@@ -311,3 +313,4 @@ Wikibase – which is the software underlying Wikidata – is a powerful platfor
 **Presenters:** Cogan Shimizu, Andrew Eells, and Pascal Hitzler
 
 <br>
+-->

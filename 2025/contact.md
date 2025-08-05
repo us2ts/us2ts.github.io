@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-author: Maulik R. Kamdar
 permalink: /2025/contact
 sidebartitle: Contact
 mainnav: true

@@ -24,7 +24,7 @@ Wright State University, 3640 Colonel Glenn Highway, Dayton, OH 45435.
 
 Please note that ride-sharing services from Columbus (CMH) or Cincinnati (CVG) will be significantly more expensive, likely exceeding $100 for a one-way trip. Car rentals are available at all airports.
 
-If you are driving, we recommend using a GPS for the most accurate directions. The venue address is: **3640 Colonel Glenn Hwy, Dayton, OH 45435**.
+**If you are driving**, we recommend using a GPS for the most accurate directions. The venue address is: **3640 Colonel Glenn Hwy, Dayton, OH 45435**.
 
 ----------------------
 

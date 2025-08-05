@@ -19,7 +19,9 @@ Wright State University, 3640 Colonel Glenn Highway, Dayton, OH 45435.
 
 **If you are flying**, we recommend using Dayton International Airport (DAY) as it is the closest to the conference venue, helping to minimize ground travel time and cost. ([https://flydayton.com/](https://flydayton.com/){:target="_blank"}).
 - **Dayton International Airport (DAY):** This is the most convenient option, located approximately 25 minutes from Wright State University. We recommend using a taxi, Uber, Lyft or [rent a car](https://flydayton.com/ground-transportation/) for transportation to your hotel or the university. A one-way trip typically costs between $40-$50. The direction from DAY to Wright State University is: [Google Maps](https://maps.app.goo.gl/YUWvo9k7PbD2hkMa8)!
+
 - **John Glenn Columbus International Airport (CMH):** This airport is a viable alternative but is located about a 1-hour drive from the venue. The direction from CMH to Wright State University is: [Google Maps](https://maps.app.goo.gl/G5DVF3jvVRUB2vnf8)!
+
 - **Cincinnati/Northern Kentucky International Airport (CVG):** Similar to Columbus, this airport is also about a 1-hour drive from the venue. The direction from CMH to Wright State University is: [Google Maps](https://maps.app.goo.gl/Y639kt2QJgTkoxvC8)!
 
 Please note that ride-sharing services from Columbus (CMH) or Cincinnati (CVG) will be significantly more expensive, likely exceeding $100 for a one-way trip. Car rentals are available at all airports.
@@ -49,8 +51,6 @@ Some nearby hotels include:
 Please check with your hotel directly regarding airport shuttle services and parking availability.
 
 There are other hotels in the area if you wish to reserve somewhere else - [List of nearby accommodations](https://www.wright.edu/admissions/undergraduate/nearby-accommodations)📍
-
-<iframe src="https://www.google.com/maps/search/Hotels/@39.778748,-84.0689051,15.64z?entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ----------------------
 

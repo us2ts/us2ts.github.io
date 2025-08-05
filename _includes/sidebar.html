@@ -19,13 +19,16 @@
     {% endcomment %}
 
 
+    {% assign current_section = page.url | split: '/' | slice: 1, 1 | first %}
+    {% if page.url == "/" or current_section == "" %}
+      {% assign current_section = "2025" %}
+    {% endif %}
     {% assign pages_list = site.pages | sort:"order" %}
     {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          {% if node.sidenav %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
-          {% endif %}
+      {% if node.title != null and node.layout == "page" and node.sidenav %}
+        {% assign node_section = node.url | split: '/' | slice: 1, 1 | first %}
+        {% if node_section == current_section %}
+          <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}

@@ -2,6 +2,7 @@
 layout: page
 title: 5th U.S. Semantic Technologies Symposium
 sidebartitle: Home
+permalink: /
 published: true
 mainnav: true
 sidenav: true

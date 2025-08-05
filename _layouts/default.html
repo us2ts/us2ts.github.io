@@ -25,19 +25,15 @@
           </h1>
           <div class="topnav">
             {% assign current_section = page.url | split: '/' | slice: 1, 1 | first %}
-            {% if current_section == "" %}
+            {% if page.url == "/" or current_section == "" %}
               {% assign current_section = "2025" %}
             {% endif %}
             {% assign pages_list = site.pages | sort:"order" %}
             {% for node in pages_list %}
-              {% if node.title != null %}
-                {% if node.layout == "page" %}
-                  {% if node.mainnav %}
-                    {% assign node_section = node.url | split: '/' | slice: 1, 1 | first %}
-                    {% if node_section == current_section %}
-                      <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
-                    {% endif %}
-                  {% endif %}
+              {% if node.title != null and node.layout == "page" and node.mainnav %}
+                {% assign node_section = node.url | split: '/' | slice: 1, 1 | first %}
+                {% if node_section == current_section %}
+                  <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
                 {% endif %}
               {% endif %}
             {% endfor %}

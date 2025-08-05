@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Venue
+title: Venue and Accomodations
 sidebartitle: Venue
 permalink: /2025/venue
 mainnav: true
@@ -36,17 +36,21 @@ There are several hotels located very close to the Wright State University campu
 
 Some nearby hotels include:
 
-- [Holiday Inn](https://www.ihg.com/holidayinn/hotels/us/en/fairborn/fbnpd/hoteldetail?cm_mmc=YextLocal-_-HI-_-US-_-FBNPD) (Directly across from the university)
+- [Holiday Inn Dayton/Fairborn I-675](https://www.ihg.com/holidayinn/hotels/us/en/fairborn/fbnpd/hoteldetail?cm_mmc=YextLocal-_-HI-_-US-_-FBNPD) (Directly across from the university)
 
-- [Tru by Hilton](https://www.hilton.com/en/hotels/daybvru-tru-beavercreek-dayton/?arrivalDate=2024-10-24&departureDate=2024-10-25&numRooms=1&numAdults=1&numChildren=0&room1ChildAges=&room1AdultAges=&sessionToken=abf5ff52-3e0c-42be-b3db-03bf7e08826c)
+- [Tru by Hilton Beavercreek Dayton](https://www.hilton.com/en/hotels/daybvru-tru-beavercreek-dayton/?arrivalDate=2024-10-24&departureDate=2024-10-25&numRooms=1&numAdults=1&numChildren=0&room1ChildAges=&room1AdultAges=&sessionToken=abf5ff52-3e0c-42be-b3db-03bf7e08826c)
 
-- [Wingate by Wyndham](https://www.wyndhamhotels.com/en-us/wyndham-rewards/hotel-deals/2-night-stay-1-free-night?iata=00093763&cid=PS:g00vkwdolme8m3r&&msclkid=4e462441d62c1083d153435bac5fdefd&gclid=4e462441d62c1083d153435bac5fdefd&gclsrc=3p.ds)
+- [Wingate by Wyndham Dayton - Fairborn](https://www.wyndhamhotels.com/en-us/wyndham-rewards/hotel-deals/2-night-stay-1-free-night?iata=00093763&cid=PS:g00vkwdolme8m3r&&msclkid=4e462441d62c1083d153435bac5fdefd&gclid=4e462441d62c1083d153435bac5fdefd&gclsrc=3p.ds)
 
-- [Clarion Inn](https://www.choicehotels.com/clarion?mc=smbibiuscln&cid=us_ch_clarion_search_bng_cbe_conv_desktop_en&ag=US_Core-Brand-Exact_Clarion&pmf=BING&kw=clarion+hotels&=undefined&msclkid=18fcdbb78b811600beccbcadf7453a8b&gclid=18fcdbb78b811600beccbcadf7453a8b&gclsrc=3p.ds)
+- [Clarion Inn near Wright Patterson](https://www.choicehotels.com/clarion?mc=smbibiuscln&cid=us_ch_clarion_search_bng_cbe_conv_desktop_en&ag=US_Core-Brand-Exact_Clarion&pmf=BING&kw=clarion+hotels&=undefined&msclkid=18fcdbb78b811600beccbcadf7453a8b&gclid=18fcdbb78b811600beccbcadf7453a8b&gclsrc=3p.ds)
 
-- [Hampton Inn](https://www.hilton.com/en/brands/hampton-by-hilton/)
+- [Hampton Inn Dayton Fairborn](https://www.hilton.com/en/brands/hampton-by-hilton/)
 
 Please check with your hotel directly regarding airport shuttle services and parking availability.
+
+There are other hotels in the area if you wish to reserve somewhere else - [List of nearby accommodations](https://www.wright.edu/admissions/undergraduate/nearby-accommodations)📍
+
+<iframe src="https://www.google.com/maps/search/Hotels/@39.778748,-84.0689051,15.64z?entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ----------------------
 
@@ -57,10 +61,10 @@ For those with some extra time, Dayton offers a variety of attractions:
   - Entry Fee: FREE + FREE parking
   - Location: [1100 Spaatz St, Dayton, OH 45433](https://www.google.com/maps/dir/Wright+State+University,+3640+Colonel+Glenn+Hwy,+Dayton,+OH+45435/National+Museum+of+the+US+Air+Force,+Spaatz+Street,+Dayton,+OH/@39.7831647,-84.1097536,14z/data=!3m2!4b1!5s0x88408173da718b97:0x7edf0a3aaae8e8a5!4m14!4m13!1m5!1m1!1s0x88409cf05f334387:0x4a08e9031987088!2m2!1d-84.0651078!2d39.7798542!1m5!1m1!1s0x8840832fc83ffd85:0x71e29a127c5a32c9!2m2!1d-84.1093818!2d39.7807961!3e0?entry=ttu&g_ep=EgoyMDI0MTAyMS4xIKXMDSoASAFQAw%3D%3D)
 
-- **The Greene Town Center (Highly Recommended):** A large outdoor mall with a great selection of restaurants, shopping, and entertainment options.
+- **[The Greene Town Center](https://www.thegreene.com/) (Highly Recommended):** A large outdoor mall with a great selection of restaurants, shopping, and entertainment options.
   - Location: [4452 Buckeye Ln, Beavercreek, OH 45440](https://www.google.com/maps/dir/Wright+State+University,+3640+Colonel+Glenn+Hwy,+Dayton,+OH+45435/4452+Buckeye+Ln,+Beavercreek,+OH+45440/@39.7415545,-84.1583221,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88409cf05f334387:0x4a08e9031987088!2m2!1d-84.0651078!2d39.7798542!1m5!1m1!1s0x8840853351f76195:0x24f401ee4fd516a9!2m2!1d-84.1024458!2d39.6941226?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
 
-- **Century Bar (Highly Recommended):** A historic, cozy bar with an extensive selection of bourbon and whiskey.
+- **[Century Bar](https://www.centurybar.com/) (Highly Recommended):** A historic, cozy bar with an extensive selection of bourbon and whiskey.
   - No reservations required.
   - Food Not served at establishment.
   - Location: [18 S Jefferson St, Dayton, OH 45402](https://google.com/maps/dir/Wright+State+University,+3640+Colonel+Glenn+Hwy,+Dayton,+OH+45435/18+S+Jefferson+St,+Dayton,+OH+45402/@39.7591724,-84.1691976,13z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x88409cf05f334387:0x4a08e9031987088!2m2!1d-84.0651078!2d39.7798542!1m5!1m1!1s0x88408156a371ffd9:0x140ae35b32a86e67!2m2!1d-84.1895732!2d39.7593546?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)

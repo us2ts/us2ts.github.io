@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Program
-author: Maulik R. Kamdar
 permalink: /2025/program
 mainnav: true
 sidenav: true

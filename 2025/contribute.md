@@ -14,12 +14,12 @@ order: 3
 
 # Important Dates
 
-- **Deadline for Posters & Lightning Talks: August 25th, 2025**
-- **Deadline for Session proposals: August 25th, 2025**
-- **Notifications: September 12th, 2025**
-- **Confirmed outline of the sessions: October 10th, 2025**
-- **Final program for the sessions: November 7th, 2025**
-- **Symposium dates: December 08 - 10, 2025**
+- **Deadline for Posters & Lightning Talks: <span style="color:maroon">August 25th, 2025</span>**
+- **Deadline for Session proposals: <span style="color:maroon">August 25th, 2025</span>**
+- **Notifications: <span style="color:maroon">September 12th, 2025</span>**
+- **Confirmed outline of the sessions: <span style="color:maroon">October 10th, 2025</span>**
+- **Final program for the sessions: <span style="color:maroon">November 7th, 2025</span>**
+- **Symposium dates: <span style="color:maroon">December 08 - 10, 2025</span>**
 
 The US2TS Symposium series is an emerging premier forum for fostering community between academic, industry and government researchers and practitioners in the US that develop or apply semantic technologies. The interest in semantics has been strengthened by the growing dependence on the Web and the continuously increasing importance of large-scale data sharing, integration, and reuse.
 

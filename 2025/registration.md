@@ -2,11 +2,10 @@
 layout: page
 title: Registration
 sidebartitle: Registration
-author: Maulik R. Kamdar
 permalink: /2025/registration
-mainnav: true
-sidenav: true
-published: true
+mainnav: false
+sidenav: false
+published: false
 order: 4
 ---
 

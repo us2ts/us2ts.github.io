@@ -22,6 +22,6 @@ We hope you are as excited as we are about your work and its upcoming presentati
 
 **Session Expectations:** Session organizers are expected to find speakers, develop the agenda, and lead the session. Each room has the capability to include remote participants at the session organizers' discretion. 
 
-If you have any additional questions or require special accommodations, please contact us at [contact-us2ts2025@googlegroups.com](mailto:contact-us2ts2025@googlegroups.com)
+If you have any additional questions or require special accommodations, please contact us at [us2ts-2025@wright.edu](mailto:us2ts-2025@wright.edu).
 
 We wish you safe travels, and we look forward to welcoming you to Wright State University!

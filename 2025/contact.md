@@ -9,7 +9,7 @@ published: true
 order: 13
 ---
 
-Please email all inquiries, including questions about submissions, to [contact-us2ts2025@googlegroups.com](mailto:contact-us2ts2025@googlegroups.com).
+Please email all inquiries, including questions about submissions, to [us2ts-2025@wright.edu](mailto:us2ts-2025@wright.edu).
 
 So stay up to date with announcements, consider joining the US2TS announcement list, and following [us on X platform]. <!--You are also welcome to join our [social network on LinkedIn].-->
 

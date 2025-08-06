@@ -103,6 +103,6 @@ Posters will be displayed throughout the conference. These will be an open forum
 **We look forward to your great contributions and participation. See you all on Dec. 08 - 10, 2025, Wright State University, Dayton, OH, USA.**
 
 # Contact
-All questions about submissions should be emailed to: [contact-us2ts2025@googlegroups.com](mailto:contact-us2ts2025@googlegroups.com).
+All questions about submissions should be emailed to: [us2ts-2025@wright.edu](mailto:us2ts-2025@wright.edu).
 
 ----------------------------------------------------------------

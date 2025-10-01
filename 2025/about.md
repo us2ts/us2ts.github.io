@@ -23,13 +23,13 @@ The goal of the U.S. Semantic Technologies Symposium series is to bring together
 The Steering Committee of the U.S. Semantic Technologies Symposium series is responsible for selecting date and venue for the annual events, for selecting Local and General Chairs, and for approving all other chairs suggested by the General Chair.
 
 Current members of the Steering Committee:
-- Krzysztof Janowicz, University of California, Santa Barbara (2018-2021)
-- Pascal Hitzler, Kansas State University (2018-2022)
-- Hilmar Lapp, Duke University (2020-2023)
-- Anna-Lisa Gentile, IBM (2019-2022)
-- Tania Tudorache, Stanford University (2019-2022)
-- Juan Sequeda (2020- )
-- Kemafor Anyanwu Ogan (2020-)
+- Cogan Shimizu (2025-)
+- Hande Küçük McGinty (2025-)
+- Anne E Thesen (2025-)
+- Dean Rehberger (2025-)
+- Heng Zheng (2025-)
+- Rafael Gonçalves (2025-)
+- Ashutosh Shivakumar (2025-)
 
 
 Each year, the Local Chair, the General Chair and the PC Chairs are invited to join the Steering Committee, with terms of 3 years. The Steering Committee may also make additional “special” appointments to the Steering Committee for specific functions. These appointments are for a maximum of 3 years and renewable.
@@ -40,4 +40,11 @@ _Past members:_
 - Jim Hendler, Rensselaer Polytechnic Institute (2017-2020)
 - Chris Mungall, Lawrence Berkeley National Laboratory (2017-2020)
 - Deborah McGuinness, Rensselaer Polytechnic Institute (2018-2020)
+- Krzysztof Janowicz, University of California, Santa Barbara (2018-2021)
+- Pascal Hitzler, Kansas State University (2018-2022)
+- Hilmar Lapp, Duke University (2020-2023)
+- Anna-Lisa Gentile, IBM (2019-2022)
+- Tania Tudorache, Stanford University (2019-2023)
+- Juan Sequeda (2020-2023)
+- Kemafor Anyanwu Ogan (2020-2023)
 

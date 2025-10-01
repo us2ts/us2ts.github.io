@@ -14,9 +14,9 @@ order: 3
 
 # Important Dates
 
-- **Deadline for Posters & Lightning Talks: <span style="color:maroon">August 25th, 2025</span>**
-- **Deadline for Session proposals: <span style="color:maroon">August 25th, 2025</span>**
-- **Notifications: <span style="color:maroon">September 12th, 2025</span>**
+- **Deadline for Posters & Lightning Talks: ~~<span style="color:maroon">August 25th, 2025</span>~~ <span style="color:aqua">October 17th, 2025</span>**
+- **Deadline for Session proposals: ~~<span style="color:maroon">August 25th, 2025</span>~~ <span style="color:aqua">September 15th, 2025</span>**
+- **Notifications: ~~<span style="color:maroon">September 12th, 2025</span>~~ <span style="color:aqua">October 3rd, 2025</span>**
 - **Confirmed outline of the sessions: <span style="color:maroon">October 10th, 2025</span>**
 - **Final program for the sessions: <span style="color:maroon">November 7th, 2025</span>**
 - **Symposium dates: <span style="color:maroon">December 08 - 10, 2025</span>**
@@ -58,7 +58,7 @@ Please prepare a (max) 2-page submission indicating:
 - The 2 or 3-person team (names & affiliations) that will lead the session
 - Speakers(when applicable). It is strictly required to specify the speakers if you are proposing a panel, in which case they must be already confirmed.
 - Expected participation (give a prediction of who would be interested in attending your session)
-- Submit your proposal on <a href="https://easychair.org/conferences/?conf=us2ts" target="_blank">EasyChair</a>
+- Submit your proposal on <a href="https://easychair.org/conferences?conf=us2ts2025" target="_blank">EasyChair</a>
 - Symposium outcome
 - After the Symposium we will invite all session chairs to co-edit a summary of the event, which will be formally published.
 
@@ -82,7 +82,7 @@ We will have two Lightning Talks sessions. These will be an open forum where any
 - Each presenter will have <span style="color:maroon">exactly one slide (PDF, landscape, 3:4)</span>
 - Each presenter will have 2 minutes (we might adjust the time slightly, according to participation, but at least 2 minutes)
 - Presentation slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
-- Submit your talk using <a href="https://easychair.org/conferences/?conf=us2ts" target="_blank">EasyChair</a>.
+- Submit your talk using <a href="https://easychair.org/conferences?conf=us2ts2025" target="_blank">EasyChair</a>.
 
 
 ## Posters
@@ -96,7 +96,7 @@ Posters will be displayed throughout the conference. These will be an open forum
 ### **Submission Guidelines:**
 - Poster maximum size - Coming Soon
 - E-poster slots will be awarded on a first-come-first-served basis (submit early to avoid disappointment)
-- Submit your poster abstract using <a href="https://easychair.org/conferences/?conf=us2ts" target="_blank">EasyChair</a>.
+- Submit your poster abstract using <a href="https://easychair.org/conferences?conf=us2ts2025" target="_blank">EasyChair</a>.
 
 
 ----------------------------------------------------------------

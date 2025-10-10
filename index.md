@@ -16,7 +16,7 @@ order: 1
 
 The dates for each conference are:
 
-- **US2TS**: Monday, December 8 through Wednesday, December 10.
+- **US2TS**: Monday, December 8 through Tuesday, December 09.
 - **[K-CAP](https://www.k-cap.org/2025/)**: Wednesday, December 10, through Friday, December 12.
 
 Stay tuned for more information later …

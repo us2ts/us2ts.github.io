@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Keynote Speakers
-author: Maulik R. Kamdar
+author: Soheil Abadifard
 permalink: /2025/keynotes
-mainnav: false
+mainnav: true
 sidenav: false
 sidebartitle: Keynotes
 published: true
@@ -12,25 +12,9 @@ order: 5
 
 ----------------------------------------------------------------
 
-### [**Dr. Louiqa Raschid**](https://us2ts.org/2020/keynote-louiqa-raschid) {#raschid}
+### [**Dr. Alessandro Oltramari**](https://us2ts.org/2025/keynote-Alessandro-Oltramari) {#aoltramari}
 
-**Keynote:** [**Explorations of a Data Scientist: From Finance to Therapeutics**](https://us2ts.org/2020/keynote-louiqa-raschid)
-
-[<img src="https://us2ts.org/2020/images/raschid-louiqa.png" alt="Louiqa Raschid" width="20%">](https://us2ts.org/2020/keynote-louiqa-raschid)
-
-Dr. Louiqa Raschid has made pioneering contributions towards meeting data integration and data management challenges in multiple non-traditional domains including the
-life sciences, health information systems, Web data delivery, humanitarian IT applications, social media monitoring, and the next generation of data science for
-finance research. Her multi-disciplinary research spans the fields of computer science, information systems and data science.
-
-She is a professor at the University of Maryland where she holds appointments in the Institute of Advanced Computer Studies, the Smith School of Business and Computer Science. She received her primary and secondary education at Bishop's College and St. Bridget's Convent in Sri Lanka, and was ranked first in the 1973 island-wide General Certificate of Education Ordinary Level (Year 10) examination. She received a Bachelor of Technology degree from the Indian Institute of Technology, Madras in 1980, and an MS and Ph.D. degree from the University of Florida, Gainesville in 1982 and 1987, respectively, in electrical engineering.
-
-She was Editor in Chief of the ACM Journal of Data and Information Quality and serves on the editorial board of ACM Computing Surveys. Her research has been supported by the US National Science Foundation and she is a Fellow of the ACM.
-
-----------------------------------------------------------------
-
-### [**Dr. Binil Starly**](https://us2ts.org/2020/keynote-binil-starly) {#bstarly}
-
-**Keynote:** [**Building an Open Knowledge Network (OKN) Graph in Product Design & Manufacturing**](https://us2ts.org/2020/keynote-binil-starly)
+**Keynote:** [**Decision Making in the Cyber-Physical World**](https://us2ts.org/2020/keynote-binil-starly)
 
 [<img src="https://us2ts.org/2020/images/binil-starly.png" alt="Binil Starly" width="20%">](https://us2ts.org/2020/keynote-binil-starly)
 

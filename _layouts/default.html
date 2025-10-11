@@ -33,7 +33,16 @@
               {% if node.title != null and node.layout == "page" and node.mainnav %}
                 {% assign node_section = node.url | split: '/' | slice: 1, 1 | first %}
                 {% if node_section == current_section or node.url == "/" or node.url == "" %}
-                  <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
+                  {% if node.sidebartitle == "Keynotes" %}
+                    <div class="dropdown">
+                      <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
+                      <div class="dropdown-content">
+                        <a href="{{ site.baseurl }}/2025/keynote-alessandro-oltramari">Alessandro Oltramari</a>
+                      </div>
+                    </div>
+                  {% else %}
+                    <a class="{% if page.url == node.url %}active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.sidebartitle }}</a>
+                  {% endif %}
                 {% endif %}
               {% endif %}
             {% endfor %}

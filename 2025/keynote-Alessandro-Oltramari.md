@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Keynote Speaker - Dr. Alessandro Oltramari
+title: Keynote Dr. Alessandro Oltramari
 author: Maulik R. Kamdar
 permalink: /2025/keynote-Alessandro-Oltramari
-mainnav: true
-sidenav: true
-sidebartitle: Keynote Speaker - Dr. Alessandro Oltramari
+mainnav: false
+sidenav: false
+sidebartitle: Keynote Dr. Alessandro Oltramari
 published: true
 order: 5
 ---

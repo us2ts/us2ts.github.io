@@ -12,7 +12,7 @@ order: 5
 
 ----------------------------------------------------------------
 
-### [**Dr. Alessandro Oltramari**](https://us2ts.org/2025/keynote-Alessandro-Oltramari) {#aoltramari}
+### [**Dr. Alessandro Oltramari**](https://us2ts.org/2025/keynote-alessandro-oltramari) {#aoltramari}
 
 **Keynote:** [**Decision Making in the Cyber-Physical World**](https://us2ts.org/2020/keynote-binil-starly)
 

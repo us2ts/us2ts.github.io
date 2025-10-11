@@ -2,7 +2,7 @@
 layout: page
 title: Keynote Dr. Alessandro Oltramari
 author: Maulik R. Kamdar
-permalink: /2025/keynote-Alessandro-Oltramari
+permalink: /2025/keynote-alessandro-oltramari
 mainnav: false
 sidenav: false
 sidebartitle: Keynote Dr. Alessandro Oltramari

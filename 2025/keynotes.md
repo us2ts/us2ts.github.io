@@ -14,11 +14,14 @@ order: 5
 
 ### [**Dr. Alessandro Oltramari**](https://us2ts.org/2025/keynote-alessandro-oltramari) {#aoltramari}
 
-**Keynote:** [**Decision Making in the Cyber-Physical World**](https://us2ts.org/2020/keynote-binil-starly)
+**Keynote:** [**Decision Making in the Cyber-Physical World**](https://us2ts.org/2025/keynote-alessandro-oltramari)
 
-[<img src="https://us2ts.org/2020/images/binil-starly.png" alt="Binil Starly" width="20%">](https://us2ts.org/2020/keynote-binil-starly)
+[<img src="https://us2ts.org/2025/images/OltramariHeadshot.jpeg" alt="Alessandro Oltramari" width="20%">](https://us2ts.org/2025/keynote-alessandro-oltramari)
 
-Dr. Binil Starly heads the Digital Manufacturing group at the Edward P. Fitts Industrial and Systems Engineering department in North Carolina State University. His laboratory is working on technologies that merge the digital and the physical world towards advancing both discrete and continuous manufacturing processes. His work is supported by the US National Science Foundation, Department of Energy and the Department of Defense. He has received the National Science Foundation CAREER award for research in engineering living tissue systems, the SME Young Manufacturing Engineer and other teaching awards. He started his career at the University of Oklahoma, grew from Assistant Professor to Associate Professor with tenure, spending 7 years with the university. He then worked for NC State University where he has been for the past 6 years and during this time, he was promoted to Full Professor. He currently holds the James. T. Ryan Professorship in recognition for his work on smart manufacturing technologies.
+Alessandro Oltramari is President of the Carnegie Bosch Institute at Carnegie Mellon University and Senior Manager at Bosch Research Technology Center (RTC) in Pittsburgh (USA), where he leads the "Cyber-Physical AI & Reasoning" group.
+Alessandro's expertise includes Neuro-Symbolic AI, Knowledge Engineering, Cognitive Architectures, Computational Linguistics.
+He joined Bosch Research in 2016, after working as a postdoctoral fellow at Carnegie Mellon University. His primary research interest is to investigate how human cognition and knowledge can help machines make sense of the cyber-physical world. He holds a PhD in Cognitive Science from the University of Trento (Italy). He had a 10-year tenure at the Institute of Cognitive Sciences and Technologies of the Italian National Research Council (ISTC-CNR); he was a Visiting Scholar at Princeton University, between 2005 and 2006, working on the WordNet lexical database. Alessandro's esearch record lists about 100 publications. He received the Army Research Lab “Above and Beyond” award, received multiple “best paper” awards and has been featured in major news media outlets such as CNET and The New Scientist.
+
 
 ----------------------------------------------------------------
 

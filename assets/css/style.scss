@@ -134,5 +134,9 @@ th, td {
   .printdiv {page-break-after: always;}
 }
 
+.container {
+  max-width: 42rem;
+}
+
 @import "ed";
 @import "syntax";

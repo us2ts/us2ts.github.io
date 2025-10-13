@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Session 3 (Cory)
+title: Dec 09 - Session 1 (Cory)
 author: Soheil Abadifard
 permalink: /2025/session-3-cory
 mainnav: false
 sidenav: false
-sidebartitle: Session 3 (Cory)
+sidebartitle: Dec 09 - Session 1 (Cory)
 published: true
 ---
 

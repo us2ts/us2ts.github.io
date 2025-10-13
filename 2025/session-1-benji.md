@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Session 1 (Benji)
+title: Dec 08 - Session 1 (Benji)
 author: Soheil Abadifard
 permalink: /2025/session-1-benji
 mainnav: false
 sidenav: false
-sidebartitle: Session 1 (Benji)
+sidebartitle: Dec 08 - Session 1 (Benji)
 published: true
 ---
 

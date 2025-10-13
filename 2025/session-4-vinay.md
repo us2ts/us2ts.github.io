@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Session 4 (Vinay)
+title: Dec 09 - Session 2 (Vinay)
 author: Soheil Abadifard
 permalink: /2025/session-4-vinay
 mainnav: false
 sidenav: false
-sidebartitle: Session 4 (Vinay)
+sidebartitle: Dec 09 - Session 2 (Vinay)
 published: true
 ---
 

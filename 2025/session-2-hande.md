@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Session 2 (Hande)
+title: Dec 08 - Session 2 (Hande)
 author: Soheil Abadifard
 permalink: /2025/session-2-hande
 mainnav: false
 sidenav: false
-sidebartitle: Session 2 (Hande)
+sidebartitle: Dec 08 - Session 2 (Hande)
 published: true
 ---
 

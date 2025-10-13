@@ -25,10 +25,9 @@ He joined Bosch Research in 2016, after working as a postdoctoral fellow at Carn
 
 ----------------------------------------------------------------
 
-### [**Dr. Joshua Shinavier**](https://us2ts.org/2020/keynote-joshua-shinavier) {#joshua}
+### [**Prof. Jodi Schneider**](https://us2ts.org/2020/keynote-joshua-shinavier) {#joshne}
 
-**Keynote:** [**Building an Open Knowledge Network (OKN) Graph in Product Design & Manufacturing**](https://us2ts.org/2020/keynote-joshua-shinavier)
+**Keynote:** [**Building an Open Knowledge Network (OKN) Graph in Product Design & Manufacturing**](https://us2ts.org/2025/keynote-jodi-schneider)
 
-[<img src="https://us2ts.org/2020/images/joshua-shinavier.png" alt="Joshua Shinavier" width="20%">](https://us2ts.org/2020/keynote-joshua-shinavier)
+[<img src="https://us2ts.org/2020/images/joshua-shinavier.png" alt="Joshua Shinavier" width="20%">](https://us2ts.org/2025/keynote-jodi-schneider)
 
-Dr. Joshua Shinavier is a research scientist at Uber and a co-founder of what is now Apache TinkerPop. He contributed to the first common APIs for graph databases, the original TinkerPop query language which led to Gremlin, and the first tools which aligned the property graph and RDF data models, starting in 2008. At Uber, he leads a company-wide effort to unify data models and schemas across RPC, streaming, and storage. As much as possible, Joshua tries to stand with one foot in industry, another in open source software, and yet another in academia. He feels that these communities have a lot to learn from each other with respect to graphs and knowledge representation. Joshua holds a PhD in computer science from RPI’s Tetherless World Constellation.

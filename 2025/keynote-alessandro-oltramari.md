@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Keynote Speaker Dr. Alessandro Oltramari
-author: Maulik R. Kamdar
+author: Soheil Abadifard
 permalink: /2025/keynote-alessandro-oltramari
 mainnav: false
 sidenav: false

@@ -25,7 +25,7 @@ He joined Bosch Research in 2016, after working as a postdoctoral fellow at Carn
 
 ----------------------------------------------------------------
 
-### [**Prof. Jodi Schneider**](https://us2ts.org/2020/keynote-joshua-shinavier) {#joshne}
+### [**Prof. Jodi Schneider**](https://us2ts.org/2025/keynote-jodi-schneider) {#joshne}
 
 **Keynote:** [**Building an Open Knowledge Network (OKN) Graph in Product Design & Manufacturing**](https://us2ts.org/2025/keynote-jodi-schneider)
 

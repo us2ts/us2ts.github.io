@@ -20,7 +20,7 @@ Monday, December 08, 2025 09:00 AM – Tuesday, December 09, 2025 06:30 PM
 
 **Dec 8, 2025**
 - **09:00–09:15** – Opening (15 min)
-- **09:15–10:30** – Keynote (Jodi) (75 min)
+- **09:15–10:30** – Keynote ([Prof. Jodi Schneider](https://us2ts.org/2025/keynote-jodi-schneider)) (75 min)
 - **10:30–11:00** – Coffee (30 min)
 - **11:00–12:30** – Session 1 (Benji) (90 min)
 - **12:30–13:30** – Lunch (60 min)

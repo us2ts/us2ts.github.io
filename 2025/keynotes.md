@@ -27,7 +27,9 @@ He joined Bosch Research in 2016, after working as a postdoctoral fellow at Carn
 
 ### [**Prof. Jodi Schneider**](https://us2ts.org/2025/keynote-jodi-schneider) {#joshne}
 
-**Keynote:** [**Building an Open Knowledge Network (OKN) Graph in Product Design & Manufacturing**](https://us2ts.org/2025/keynote-jodi-schneider)
+**Keynote:** [**Building trust with automatically generated literature reviews**](https://us2ts.org/2025/keynote-jodi-schneider)
 
-[<img src="https://us2ts.org/2020/images/joshua-shinavier.png" alt="Joshua Shinavier" width="20%">](https://us2ts.org/2025/keynote-jodi-schneider)
+[<img src="https://us2ts.org/2025/images/cropped_headshot.jpg" alt="Jodi Schneider" width="20%">](https://us2ts.org/2025/keynote-jodi-schneider)
+
+Jodi Schneider is Associate Professor of Information at the University of Wisconsin-Madison. Information quality is a particular focus of Dr. Schneider's research, using methods from argumentation theory, data science, and semantic web technologies. Her Alfred P. Sloan Foundation-funded project Reducing the Inadvertent Spread of Retracted Science led to a new industry information standard for communicating retractions of research. Her work has also been funded by the NIH, the U.S. Office of Research Integrity, The Institute of Museum and Library Services, the European Commission, Science Foundation Ireland, the Harvard Radcliffe Institute for Advanced Study, and an NSF CAREER award. Dr. Schneider completed her PhD in informatics at the Digital Enterprise Research Institute, National University of Ireland, Galway ("Enabling reuse of arguments and opinions from online social disputes") and has degrees in library & information science (M.S. UIUC), mathematics (M.A. UT-Austin), and liberal arts (B.A., Great Books, St. John's College). Currently she serves on the National Academies of Sciences, Engineering, and Medicine consensus committee on Corrections and Retractions: Upgrading the Scientific Record. 
 

@@ -19,7 +19,7 @@ order: 3
 - **Notifications: ~~<span style="color:maroon">September 12th, 2025</span>~~ <span style="color:aqua">October 3rd, 2025</span>**
 - **Confirmed outline of the sessions: <span style="color:maroon">October 10th, 2025</span>**
 - **Final program for the sessions: <span style="color:maroon">November 7th, 2025</span>**
-- **Symposium dates: <span style="color:maroon">December 08 - 10, 2025</span>**
+- **Symposium dates: <span style="color:maroon">December 08 - 09, 2025</span>**
 
 The US2TS Symposium series is an emerging premier forum for fostering community between academic, industry and government researchers and practitioners in the US that develop or apply semantic technologies. The interest in semantics has been strengthened by the growing dependence on the Web and the continuously increasing importance of large-scale data sharing, integration, and reuse.
 
@@ -100,7 +100,7 @@ Posters will be displayed throughout the conference. These will be an open forum
 
 
 ----------------------------------------------------------------
-**We look forward to your great contributions and participation. See you all on Dec. 08 - 10, 2025, Wright State University, Dayton, OH, USA.**
+**We look forward to your great contributions and participation. See you all on Dec. 08 - 09, 2025, Wright State University, Dayton, OH, USA.**
 
 # Contact
 All questions about submissions should be emailed to: [us2ts-2025@wright.edu](mailto:us2ts-2025@wright.edu).

@@ -16,7 +16,7 @@ The goal of the U.S. Semantic Technologies Symposium series is to bring together
 - **2019**: Duke University, Durham, North Carolina
 - **2020**: NC State University, Raleigh, North Carolina
 - **2022**: Michigan State University, East Lansing, MI
-- **2025**: Wright State University, Dayton, Ohio (co-located with K-CAP 2025)
+- **2025**: Wright State University, Dayton, Ohio (co-located with [K-CAP 2025](https://www.k-cap.org/2025/))
 
 ## Steering Committee
 

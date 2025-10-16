@@ -24,7 +24,7 @@ Monday, December 08, 2025 09:00 AM – Tuesday, December 09, 2025 06:30 PM
 - **10:30–11:00** – Coffee (30 min)
 - **11:00–12:30** – [Session 1 - TBD](https://us2ts.org/2025/session-1-benji) (90 min)
 - **12:30–13:30** – Lunch (60 min)
-- **13:30–15:00** – Poster Session 1 (90 min)
+- **13:30–15:00** – [Session 2 - Bridging Memory and Machine: Semantic Technologies for Historical Research in the Age of AI](https://us2ts.org/2025/session-6-dean) (90 min)
 - **15:00–15:30** – Coffee (30 min)
 - **15:30–17:00** – [Session 2 - Next-Generation Semantic Systems: Knowledge Graphs and Large Language Models](https://us2ts.org/2025/session-2-hande) (90 min)
 - **17:00–18:30** – Poster Session 2 (90 min)

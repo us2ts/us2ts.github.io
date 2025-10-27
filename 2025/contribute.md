@@ -14,7 +14,7 @@ order: 3
 
 # Important Dates
 
-- **Deadline for Posters & Lightning Talks: ~~<span style="color:maroon">August 25th, 2025</span>~~ <span style="color:aqua">October 17th, 2025</span>**
+- **Deadline for Posters & Lightning Talks: ~~<span style="color:maroon">August 25th, 2025</span>~~ <span style="color:aqua">November 7th, 2025</span>**
 - **Deadline for Session proposals: ~~<span style="color:maroon">August 25th, 2025</span>~~ <span style="color:aqua">September 15th, 2025</span>**
 - **Notifications: ~~<span style="color:maroon">September 12th, 2025</span>~~ <span style="color:aqua">October 3rd, 2025</span>**
 - **Confirmed outline of the sessions: <span style="color:maroon">October 10th, 2025</span>**

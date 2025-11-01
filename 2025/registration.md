@@ -6,7 +6,7 @@ sidebartitle: Registration
 permalink: /2025/registration
 mainnav: true
 sidenav: false
-published: false
+published: true
 order: 4
 ---
 

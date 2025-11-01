@@ -11,8 +11,9 @@ order: 1
 ---
 
 ----------------------------------------------------------------
+**News:** Registrations are now open! See the [registration page](/2025/registration).
 
-**News:** The 5th U.S. Semantic Technologies Symposium will be co-located with 13th International Conference on Knowledge Capture (K-CAP 2025) at Wright State University, Dayton, OH, USA.
+The 5th U.S. Semantic Technologies Symposium will be co-located with 13th International Conference on Knowledge Capture (K-CAP 2025) at Wright State University, Dayton, OH, USA.
 
 The dates for each conference are:
 
@@ -20,6 +21,7 @@ The dates for each conference are:
 - **[K-CAP](https://www.k-cap.org/2025/)**: Wednesday, December 10, through Friday, December 12.
 
 Stay tuned for more information later …
+
 
 ----------------------------------------------------------------
 

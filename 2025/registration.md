@@ -14,7 +14,7 @@ Registration is now open! <a href="https://epay.wright.edu/C21810_ustores/web/st
 
 **Registration cost is $225 Standard and $150 for Students.**
 
-After registration, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSepAO0nlJ_4mvMcBZD1OGBqywm1bR_gJ8xzcGnAXWd_8rCQKQ/viewform?usp=publish-editor" target="_blank">this form</a> to provide information regarding food restrictions and other details. Please note that failure to complete this form will result in your registration not being considered final.
+After registration, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSepAO0nlJ_4mvMcBZD1OGBqywm1bR_gJ8xzcGnAXWd_8rCQKQ/viewform?usp=publish-editor" target="_blank">this form</a> to provide information regarding food restrictions and other details. **Please note that failure to complete this form will result in your registration not being considered final.**
 
 Registration covers admission to the symposium, including the social event. Coffee, water, and snack food will be provided at morning afternoon breaks, and lunch.
 

@@ -14,6 +14,8 @@ Registration is now open! <a href="https://epay.wright.edu/C21810_ustores/web/st
 
 **Registration cost is $225 Standard and $150 for Students.**
 
+After registration, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSepAO0nlJ_4mvMcBZD1OGBqywm1bR_gJ8xzcGnAXWd_8rCQKQ/viewform?usp=publish-editor" target="_blank">this form</a> to provide information regarding food restrictions and other details. Please note that failure to complete this form will result in your registration not being considered final.
+
 Registration covers admission to the symposium, including the social event. Coffee, water, and snack food will be provided at morning afternoon breaks, and lunch.
 
 Poster display space is free of charge but limited and allocated first-come first-serve. If you intend to present a poster, please submit your abstract by **November 7th, 2025** using the following link <a href="https://easychair.org/conferences?conf=us2ts2025" target="_blank">EasyChair</a>.

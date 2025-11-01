@@ -20,4 +20,4 @@ Registration covers admission to the symposium, including the social event. Coff
 
 Poster display space is free of charge but limited and allocated first-come first-serve. If you intend to present a poster, please submit your abstract by **November 7th, 2025** using the following link <a href="https://easychair.org/conferences?conf=us2ts2025" target="_blank">EasyChair</a>.
 
-Information about accommodation can be found under the [venue information](/2025/venue.md).
+Information about accommodation can be found under the [venue information](/2025/venue).

@@ -39,7 +39,7 @@ There are several hotels located very close to the Wright State University campu
 Some nearby hotels include:
 
 - [DoubleTree by Hilton Dayton Fairborn](https://www.hilton.com/en/attend-my-event/acm-k-cap-december2025/)
-  -  We have a room block reserved with this hotel so please click on the link above and make your booking through there.
+  -  **We have a room block reserved with this hotel so please click on the link above and make your booking through there**.
 
 - [Holiday Inn Dayton/Fairborn I-675](https://www.ihg.com/holidayinn/hotels/us/en/fairborn/fbnpd/hoteldetail?cm_mmc=YextLocal-_-HI-_-US-_-FBNPD) (Directly across from the university)
 

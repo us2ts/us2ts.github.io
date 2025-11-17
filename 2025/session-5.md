@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Dec 09 -  Innovations in Food Informatics Research
+title: Dec 09 - Session 3 - Innovations in Food Informatics Research
 author: Antrea Christou
 permalink: /2025/session-5
 mainnav: false
 sidenav: false
-sidebartitle: Dec 09 -  Innovations in Food Informatics Research
+sidebartitle: Dec 09 - Session 3 - Innovations in Food Informatics Research
 published: true
 ---
 

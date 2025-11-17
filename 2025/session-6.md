@@ -2,7 +2,7 @@
 layout: page
 title: Dec 08 -  Bridging Memory and Machine: Semantic Technologies for Historical Research in the Age of AI
 author: Antrea Christou
-permalink: /2025/session-6-dean
+permalink: /2025/session-6
 mainnav: false
 sidenav: false
 sidebartitle: Dec 08 -  Bridging Memory and Machine: Semantic Technologies for Historical Research in the Age of AI

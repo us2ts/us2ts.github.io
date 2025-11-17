@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Dec 08 - Next-Generation Semantic Systems: Knowledge Graphs and Large Language Models
+title: Dec 08 - Session 2 - Next-Generation Semantic Systems: Knowledge Graphs and Large Language Models
 author: Soheil Abadifard
-permalink: /2025/session-2-hande
+permalink: /2025/session-2
 mainnav: false
 sidenav: false
-sidebartitle: Dec 08 - Next-Generation Semantic Systems: Knowledge Graphs and Large Language Models
+sidebartitle: Dec 08 - Session 2 - Next-Generation Semantic Systems: Knowledge Graphs and Large Language Models
 published: true
 ---
 

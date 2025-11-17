@@ -2,7 +2,7 @@
 layout: page
 title: Dec 09 -  Innovations in Food Informatics Research
 author: Antrea Christou
-permalink: /2025/session-5-hande
+permalink: /2025/session-5
 mainnav: false
 sidenav: false
 sidebartitle: Dec 09 -  Innovations in Food Informatics Research

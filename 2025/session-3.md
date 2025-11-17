@@ -2,7 +2,7 @@
 layout: page
 title: Dec 09 - Multiagent Neurosymbolic CoPilot in Industry 4.0
 author: Soheil Abadifard
-permalink: /2025/session-3-cory
+permalink: /2025/session-
 mainnav: false
 sidenav: false
 sidebartitle: Dec 09 - Multiagent Neurosymbolic CoPilot in Industry 4.0

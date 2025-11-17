@@ -2,7 +2,7 @@
 layout: page
 title: Dec 09 - Knowledge Engineering for an Intelligent Textbook
 author: Soheil Abadifard
-permalink: /2025/session-4-vinay
+permalink: /2025/session-
 mainnav: false
 sidenav: false
 sidebartitle: Dec 09 - Knowledge Engineering for an Intelligent Textbook

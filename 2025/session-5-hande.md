@@ -9,7 +9,7 @@ sidebartitle: Dec 09 -  Innovations in Food Informatics Research
 published: true
 ---
 
-Details about Session 5, chaired by  Hande Küçük McGinty and Muhammad (Tuan) Amith:
+Details about Dec 09 Session 3, chaired by  Hande Küçük McGinty and Muhammad (Tuan) Amith:
 
 Commitee Member :  Kathleen Jagodnik
 

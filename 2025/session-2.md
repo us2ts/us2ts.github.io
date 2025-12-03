@@ -9,7 +9,7 @@ sidebartitle: Dec 08 - Session 2 - Next-Generation Semantic Systems: Knowledge G
 published: true
 ---
 
-Details about Session 2, chaired by Hande McGinty and Kathleen Jagodnik:
+Details about Session 3, chaired by Hande McGinty and Kathleen Jagodnik:
 
 Knowledge Graphs (KGs) and Large Language Models (LLMs) are reshaping semantic technologies from complementary directions. KGs provide structured, explicit, and explainable representations of knowledge, while LLMs excel at capturing linguistic patterns and enabling natural, generative interaction. This symposium will examine each approach individually as well as hybrid systems that integrate them. Topics include KG construction; ontology alignment; semantic reasoning; LLM-based information extraction, evaluation, and benchmarking; and trustworthy deployment. We will also highlight emerging strategies for bridging the two paradigms, such as retrieval-augmented generation (RAG), ontology-guided prompting, and KG-based semantic validation of model outputs.
  

@@ -13,6 +13,7 @@ order: 4
 ### Event Date:
 
 Monday, December 08, 2025 09:00 AM – Tuesday, December 09, 2025 06:30 PM
+NEC 120, Wright State University
 
 ----------------------------------------------------------------
 

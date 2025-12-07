@@ -12,8 +12,8 @@ order: 4
 
 ### Event Date:
 
-Monday, December 08, 2025 09:00 AM – Tuesday, December 09, 2025 06:30 PM
-NEC 120, Wright State University
+* Monday, December 08, 2025 09:00 AM – Tuesday, December 09, 2025 06:30 PM
+* NEC 120, Wright State University
 
 ----------------------------------------------------------------
 
@@ -35,7 +35,7 @@ NEC 120, Wright State University
 - **10:15–10:45** – Coffee (30 min)
 - **10:45–12:15** – [Session 1 - Multiagent Neurosymbolic CoPilot in Industry 4.0](https://us2ts.org/2025/session-3) (90 min)
 - **12:15–13:15** – Lunch (60 min)
-- **13:15–14:45** – Poster Session (90 min)
+- **13:15–14:45** – Lightning Talks & Poster Session (90 min)
 - **14:45–15:15** – Coffee (30 min)
 - **15:15–16:45** – [Session 2 - Knowledge Engineering for an Intelligent Textbook](https://us2ts.org/2025/session-4) (90 min)
 - **16:45–18:15** – [Session 3 - Innovations in Food Informatics Research](https://us2ts.org/2025/session-5) (90 min)

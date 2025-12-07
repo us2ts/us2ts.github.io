@@ -29,6 +29,7 @@ order: 4
 - **15:00–15:30** – Coffee (30 min)
 - **15:30–17:00** – Town Hall
 - **17:00–18:30** – Poster Session (90 min)
+- **18:45-21:00** – Social Event @ [Wandering Griffin](https://maps.app.goo.gl/2Frbs2tBiuuYL4Ls8)
 
 **Dec 9, 2025**
 - **09:00–10:15** – Keynote ([Dr. Alessandro Oltramari](https://us2ts.org/2025/keynote-alessandro-oltramari)) (75 min)

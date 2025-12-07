@@ -13,6 +13,10 @@ order: 9
 
 Wright State University, 3640 Colonel Glenn Highway, Dayton, OH 45435.
 
+NEC 120 (Neuroscience Engineering Collaboration Building)
+
+![directions](./images/directions-us2ts.png)
+
 ----------------------
 
 ## **Traveling to Wright State University (Dayton, OH)**

@@ -35,9 +35,7 @@ To this end, the 2025 Symposium will be an informal gathering with plenty of tim
 
 _Organizing Committee:_
 - Cogan Shimizu (General Chair)
-- Rafael Gonçalves (Program Co-Chair)
 - Heng Zheng (Program Co-Chair)
-- Ashutosh Shivakumar — (Local Co-Chair)
 - Antrea Christou (Local Co-Chair)
 - Soheil Abadifard (Web & Publicity Chair)
 

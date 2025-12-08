@@ -25,9 +25,9 @@ order: 4
 - **10:30–11:00** – Coffee (30 min)
 - **11:00–12:30** – Breakout Session & Lightning Panel (90 min)
 - **12:30–13:30** – Lunch (60 min)
-- **13:30–15:00** – [Session 2 - Next-Generation Semantic Systems: Knowledge Graphs and Large Language Models](https://us2ts.org/2025/session-2) (90 min)
+- **13:30–15:00** – Town Hall
 - **15:00–15:30** – Coffee (30 min)
-- **15:30–17:00** – Town Hall
+- **15:30–17:00** – [Session 2 - Next-Generation Semantic Systems: Knowledge Graphs and Large Language Models](https://us2ts.org/2025/session-2) (90 min)
 - **17:00–18:30** – Poster Session (90 min)
 - **18:45-21:00** – Social Event @ [Wandering Griffin](https://maps.app.goo.gl/2Frbs2tBiuuYL4Ls8)
 

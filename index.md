@@ -35,8 +35,8 @@ To this end, the 2025 Symposium will be an informal gathering with plenty of tim
 
 _Organizing Committee:_
 - Cogan Shimizu (General Chair)
-- Heng Zheng (Program Co-Chair)
-- Antrea Christou (Local Co-Chair)
+- Heng Zheng (Program Chair)
+- Antrea Christou (Local Chair)
 - Soheil Abadifard (Web & Publicity Chair)
 
 _Outgoing committee members:_

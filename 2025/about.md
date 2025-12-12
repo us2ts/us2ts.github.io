@@ -24,13 +24,7 @@ The Steering Committee of the U.S. Semantic Technologies Symposium series is res
 
 Current members of the Steering Committee:
 - Cogan Shimizu (2025-)
-- Hande Küçük McGinty (2025-)
-- Anne E Thesen (2025-)
-- Dean Rehberger (2025-)
 - Heng Zheng (2025-)
-- Rafael Gonçalves (2025-)
-- Ashutosh Shivakumar (2025-)
-
 
 Each year, the Local Chair, the General Chair and the PC Chairs are invited to join the Steering Committee, with terms of 3 years. The Steering Committee may also make additional “special” appointments to the Steering Committee for specific functions. These appointments are for a maximum of 3 years and renewable.
 
@@ -42,9 +36,11 @@ _Past members:_
 - Deborah McGuinness, Rensselaer Polytechnic Institute (2018-2020)
 - Krzysztof Janowicz, University of California, Santa Barbara (2018-2021)
 - Pascal Hitzler, Kansas State University (2018-2022)
-- Hilmar Lapp, Duke University (2020-2023)
+- Hilmar Lapp, Duke University (2019-2023)
 - Anna-Lisa Gentile, IBM (2019-2022)
 - Tania Tudorache, Stanford University (2019-2023)
 - Juan Sequeda (2020-2023)
 - Kemafor Anyanwu Ogan (2020-2023)
-
+- Hande Küçük McGinty (2022-2025)
+- Dean Rehberger (2022-2025)
+- Anne E Thesen (2022-2025)

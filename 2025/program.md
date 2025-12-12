@@ -32,13 +32,13 @@ order: 4
 - **18:45-21:00** – Social Event @ [Wandering Griffin](https://maps.app.goo.gl/2Frbs2tBiuuYL4Ls8)
 
 **Dec 9, 2025**
-- **09:00–10:15** – Keynote ([Dr. Alessandro Oltramari](https://us2ts.org/2025/keynote-alessandro-oltramari)) (75 min)
+- **09:00–10:15** – Keynote ([Dr. Alessandro Oltramari](https://us2ts.org/2025/keynote-alessandro-oltramari)) (75 min) [slides](./assets/Oltramari_US2TS_Keynote.pdf)
 - **10:15–10:45** – Coffee (30 min)
-- **10:45–12:15** – [Session 1 - Multiagent Neurosymbolic CoPilot in Industry 4.0](https://us2ts.org/2025/session-3) (90 min)
+- **10:45–12:15** – [Session 1 - Multiagent Neurosymbolic CoPilot in Industry 4.0](https://us2ts.org/2025/session-3) (90 min) [slides](https://www.canva.com/design/DAG4N2ee1oU/ANqrJJ4ORiUTbDc_YlCXDw/view?utm_content=DAG4N2ee1oU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2c28ed994)
 - **12:15–13:15** – Lunch (60 min)
 - **13:15–14:45** – Lightning Talks & Poster Session (90 min)
 - **14:45–15:15** – Coffee (30 min)
-- **15:15–16:45** – [Session 2 - Knowledge Engineering for an Intelligent Textbook](https://us2ts.org/2025/session-4) (90 min)
+- **15:15–16:45** – [Session 2 - Knowledge Engineering for an Intelligent Textbook](https://us2ts.org/2025/session-4) (90 min) [slides](./assets/TIKA_Overview_v3.pdf)
 - **16:45–18:15** – [Session 3 - Innovations in Food Informatics Research](https://us2ts.org/2025/session-5) (90 min)
 - **18:15–18:30** – Closing (15 min)
 

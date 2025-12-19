@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Dec 08 - Session 3 - Bridging Memory and Machine: Semantic Technologies for Historical Research in the Age of AI
+title: Dec 08 - Session 1 - Bridging Memory and Machine: Semantic Technologies for Historical Research in the Age of AI
 author: Antrea Christou
 permalink: /2025/session-6
 mainnav: false
 sidenav: false
-sidebartitle: Dec 08 - Session 3 - Bridging Memory and Machine: Semantic Technologies for Historical Research in the Age of AI
+sidebartitle: Dec 08 - Session 1 - Bridging Memory and Machine: Semantic Technologies for Historical Research in the Age of AI
 published: true
 ---
 
 
-Details about Dec 8 Session 2, chaired by Dean Rehberger and Walter Hawthorne:
+Details about Dec 8 Session 1, chaired by Dean Rehberger and Walter Hawthorne:
 
 The discipline of history stands at a peculiar crossroads. Large language models now generate plausible-sounding narratives about the past with alarming fluency. Yet, they do so without genuine comprehension of causation, context, or the intricate web of evidence that undergirds historical interpretation.  Meanwhile, historians possess centuries of methodological rigor for evaluating sources, tracing provenance, and constructing arguments from fragmentary evidence—precisely the kind of structured reasoning that semantic technologies were designed to formalize and make explicit.
 

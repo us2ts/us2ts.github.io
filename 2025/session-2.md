@@ -11,7 +11,7 @@ published: true
 
 Details about Session 2, chaired by Hande McGinty and Kathleen Jagodnik:
 
-**Presentation Title:** LLM-Driven Knowledge Graphs: From Unstructured Text to Structured Insight
+**Session Keynote:** LLM-Driven Knowledge Graphs: From Unstructured Text to Structured Insight
 **Presenter:** Dr. Alon Bartal
 
 
